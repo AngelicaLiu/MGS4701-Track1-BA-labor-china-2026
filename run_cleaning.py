@@ -13,19 +13,22 @@ for p in ['../project/data/raw', '../project/data/cleaned', '../project/data/doc
     os.makedirs(p, exist_ok=True)
 
 print("1. 正在读取数据...")
-# 注意：这里读取的是 csv。请务必先把你那个 excel 另存为 csv，放在 data/raw/ 下，名字叫 job_data.csv
-csv_path = 'data/raw/job_data.csv'
+# 【修改这里】：读取你新拷贝进来的 A2 数据
+csv_path = 'data/raw/job_data_A2.csv' 
 if not os.path.exists(csv_path):
-    print(f"找不到 {csv_path}！请把Excel文件另存为CSV，放在该路径下。")
+    print(f"找不到 {csv_path}！请把 raw_job_data_all.xlsx 另存为CSV，并命名为 job_data_A2.csv 放在该路径下。")
     exit()
 
 df = pd.read_csv(csv_path, dtype=str)
 print(f"读取完成，原始形状: {df.shape}")
 
-# 统一列名
-expected_cols = ['ID', 'Title', 'Company', 'Industry', 'City', 'Salary min', 'Salary max', 'Experience', 'Education', 'JD Text', 'Source', 'URL', 'collection_date']
+# 统一列名（适配 A2 的 15 列新数据）
+expected_cols = ['ID', 'Title', 'Company', 'Industry', 'City', 'Salary min', 'Salary max', 'Salary Period', 'Salary Month', 'Experience', 'Education', 'JD Text', 'Source', 'URL', 'Collecting Date']
 if len(df.columns) == len(expected_cols):
     df.columns = expected_cols
+    
+# 强制把日期列重命名，确保和第 45 行代码对应
+df.rename(columns={'Collecting Date': 'collection_date'}, inplace=True)
 
 df = df.replace(['NA', 'N/A', 'None', 'none', 'NULL', 'null', ''], np.nan)
 df = df.dropna(how='all')
@@ -91,7 +94,7 @@ df['industry_clean'] = df['Industry'].astype(str).str.strip().replace({'omputer 
 city_tier_map = {'Beijing': 'Tier 1', 'Shanghai': 'Tier 1', 'Guangzhou': 'Tier 1', 'Shenzhen': 'Tier 1', 'Hangzhou': 'New Tier 1', 'Chengdu': 'New Tier 1', 'Wuhan': 'New Tier 1', 'Nanjing': 'New Tier 1', 'Xiamen': 'Tier 2'}
 df['city_tier'] = df['city'].map(city_tier_map).fillna('Other/Unknown')
 
-print("6. 角色分类与标记...")
+print("6. 角色分类、标记并剔除垃圾数据...")
 def classify_role(row):
     text = (str(row['Title']) + ' ' + str(row['JD Text'])).lower()
     if any(k in text for k in ['商业分析', 'business analyst', '业务分析', '经营分析']): return 'Business Analyst'
@@ -102,7 +105,17 @@ def classify_role(row):
     return 'Other/Unclear'
 
 df['role_family'] = df.apply(classify_role, axis=1)
+
+# 初步标记
 df['eligible'] = df.apply(lambda r: 0 if (r['role_family'] == 'Other/Unclear' or any(k in str(r['Title']).lower() for k in ['销售', '客服', '合伙人', '活动策划', '招商'])) else 1, axis=1)
+
+# 【新增】：加入黑名单关键词，直接标记为不可用 (0)
+bad_keywords = ['小白', '销售', '合伙人', '客服', '兼职', '录入', '同上', '电销', '交易员']
+df.loc[df['job_title_raw'].str.contains('|'.join(bad_keywords), na=False, case=False), 'eligible'] = 0
+
+# 【新增】：提取出纯正的“可用池” (只保留 eligible == 1 的)
+df_clean_pool = df[df['eligible'] == 1].copy()
+print(f"原始数据 {len(df)} 条，剔除垃圾后可用池 {len(df_clean_pool)} 条。")
 
 print("7. 技能关键词标记...")
 def flag_kw(text, patterns):
@@ -117,22 +130,31 @@ print("8. 导出清洗后数据...")
 cleaned_cols = ['record_id', 'collector', 'collection_date', 'source_platform', 'job_title_raw', 'job_title_standardized', 'role_family', 'eligible', 'company_name', 'industry_clean', 'city', 'city_tier', 'salary_raw_min', 'salary_raw_max', 'salary_min_clean', 'salary_max_clean', 'salary_period', 'salary_mid_monthly', 'experience_clean', 'education_clean', 'jd_text', 'url', 'ai_flag', 'sql_flag', 'python_flag', 'excel_flag']
 for c in cleaned_cols:
     if c not in df.columns: df[c] = np.nan
+
+# 1. 保存全量数据（包含不可用的，留底备用），加上 _A2 防止覆盖
 cleaned = df[cleaned_cols].copy()
-cleaned.to_csv('data/cleaned/boss_pilot_cleaned.csv', index=False, encoding='utf-8-sig')
-df.to_csv('data/raw/boss_pilot_raw_merged.csv', index=False, encoding='utf-8-sig')
+cleaned.to_csv('data/cleaned/boss_pilot_A2_cleaned.csv', index=False, encoding='utf-8-sig')
+df.to_csv('data/raw/boss_pilot_A2_raw_merged.csv', index=False, encoding='utf-8-sig')
+
+# 2. 【修改这里】：从最终的 cleaned 中提取干净池，保证包含所有新加的列
+final_clean_pool = cleaned[cleaned['eligible'] == 1].copy()
+final_clean_pool.to_csv('data/cleaned/clean_pool_for_gold_set.csv', index=False, encoding='utf-8-sig')
+print("已导出 clean_pool_for_gold_set.csv 供组员打标！")
 
 print("9. 生成图表与黄金样本...")
+# 画图部分，加 _A2 防覆盖
 plt.figure(figsize=(8, 5))
 cleaned[cleaned['eligible'] == 1]['role_family'].value_counts().plot(kind='bar')
 plt.title('Role family counts (eligible=1)')
 plt.tight_layout()
-plt.savefig('reports/figures/role_family_counts.png', dpi=200)
+plt.savefig('reports/figures/role_family_counts_A2.png', dpi=200)
 plt.close()
 
-gold_sample = cleaned.sample(n=min(150, len(cleaned)), random_state=42).copy()
+# 【修改】：从 final_clean_pool 里抽 150 条，并且加上 _A2 防覆盖
+gold_sample = final_clean_pool.sample(n=min(150, len(final_clean_pool)), random_state=42).copy()
 gold_sample['gold_role_family'] = ''
 gold_sample['gold_ai_flag'] = ''
 gold_sample['gold_notes'] = ''
-gold_sample.to_csv('data/documentation/gold_set_to_code.csv', index=False, encoding='utf-8-sig')
+gold_sample.to_csv('data/documentation/gold_set_to_code_A2.csv', index=False, encoding='utf-8-sig')
 
 print("🎉 全部完成！数据已保存在 data/cleaned/ 文件夹中。")

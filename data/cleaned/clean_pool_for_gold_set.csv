@@ -1,0 +1,1198 @@
+﻿record_id,collector,collection_date,source_platform,job_title_raw,job_title_standardized,role_family,eligible,company_name,industry_clean,city,city_tier,salary_raw_min,salary_raw_max,salary_min_clean,salary_max_clean,salary_period,salary_mid_monthly,experience_clean,education_clean,jd_text,url,ai_flag,sql_flag,python_flag,excel_flag
+A1_01,A,2026-09-27,BOSS Zhipin,"AI Business Analyst
+",AI Business Analyst,Business Analyst,1,淘宝闪购,Life Services (O2O),Shanghai,Tier 1,,,,,month,,Fresh graduate/Student,Bachelor,"职位抽述： 1、与业务团队协作,共同构建全面的业务监控指标体系,并推动其产品化落地; 2、基于业务监控指标体系,及时发现业务问题,进行异动指标分析或深度的专题分析定位问题并寻求解决方案; 3、深入业务场景,为业务团队提供专题分析、数据分析与挖掘、模型及算法等相关服务; 4、提炼数据产品需求,提供数据产品解决方案,并最终推动数据产品落地; 5、负责组织和开展数据技术、产品相关的理念、技能及工具的内部培训,提升整个团队的数据素养; 6、融合A1技术赋能分析工作,参与设计基于大模型的智能分析方案,构建能够自动撰写代码、自主进行行业数据调研及执行复杂逻辑的高级Agent Flow; 7、通过编排多模型协作流程,解决传统B1难以处理的非结构化数据分析难题,推动日常办公与分析流程的自动化与智能化升级。 职位要求： 1、本科及以上学历,数学、统计、经济学、商业分析、运筹学、管理学、信息科学等相关专业; 2、熟练掌握Excel, SQL;熟悉R、 Python或其他编程语言;熟悉Dify等主流Agent开发框架,有实际的大模型应用落地经验(特别是Text-to-SQL或Data Agent方向) ; 3、对行为分析感兴趣,喜欢从数据中发现规律,想踏入大数据的门槛; 4、学习能力强,对新事物保有好奇心,并能快速适应新环境; 5、良好的沟通能力和团队协同能力;能与他人合作,共同完成目标;对所在领域有热情,善于独立思考并反思总结",https://www.zhipin.com/job_detail/ea5382e4c8e7c49e0nJ52NW8GVJT.html,1,1,0,0
+A1_02,A,2026-09-27,BOSS Zhipin,International Travel - Business Analyst,International Travel - Business Analyst,Business Analyst,1,滴滴,Internet,Shanghai,Tier 1,35000,45000,35000.0,45000.0,month,40000.0,1-3 years,Master,"职位描述：岗位职责作为专注于市场高优先级项目的商业分析师,您将在推动高影响力战略举措的端到端交付中发挥关键作用。您的工作范围将涵盖三个核心领域： 推动跨职能、高优先级市场项目的端到端执行 识别关键路径风险并制定应急预案 ·项目实施后的评估与知识沉淀您的使命是确保市场项目--从敏捷试点到大规模推广--经过周密的范围界定、 以卓越的运营水平执行，并通过数据驱动的洞察持续优化。您将担任核心协调员的角色，在产品、算法、策略运营和区域运营团队之间协调目标、时间表和资源计划。在此职位中，您将成为战略与执行之间的关键桥梁——将复杂的业务目标转化为可执行的实施计划,跟踪里程碑进度,规避风险,并提炼洞察以指导未来方向。最终,您的工作将有助于确保我们的市场业务在不同城市环境中以结构化、可扩展和注重影响力的方式发展。主要职责：推动跨职能部门高优先级项目的端到端执行关键路径风险识别与应急预案规划项目实施后评估与知识沉淀任职资格 必须拥有商业、经济学、商业分析、数据科学、运筹学或相关学科的硕士学位 在商业分析、咨询运营或相关职位拥有0-3 年的工作经验 精通SQL, Python和Excel,能够进行数据提取、分析、绩效跟踪和数据可视化d 擅长使用PowerPoint制作清晰、结构化且富有洞察力的演示文稿，用于业务评审和跨部门对齐",https://www.zhipin.com/job_detail/109e125df9b8ae0c0nJ_2dq1F1FX.html,0,0,0,0
+A1_03,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,容诚,Finance / Audit / Tax,Shanghai,Tier 1,11000,22000,11000.0,22000.0,month,16500.0,3-5 years,Bachelor,"职位描述 容诚是一家专业化、制度化、国际化的本土大型综合性专业服务机构,在中注协2024年度会计师事务所""百家排名""中跻身前五强、内资机构中位列第三。 容诚战略数字化咨询事业部(""Strategy & Digital"")以""容汇数集、诚聚智合""为服务理念,由众多曾任职于普华永道、麦肯锡、波士顿、埃森哲等专业咨询机构的资深行业专家领航,拥有丰富的国际视野,深谙本土市场的复杂性和独特性,长期服务各大行业头部客户探索转型道路并成功完成数字化体系落地从而大幅提升效能,包括金融、汽车、医药与大健康、消费品与零售、高新科技及互联网、智能制造、教育培训、化工能源、大型综合性产业集团等。我们的数字化咨询专家对行业标杆运营实践、企业战略诉求、前沿技术应用、转型难点关键点有着深刻的理解,兼具成熟的方法论、深刻的行业洞察、丰富的实战经验,为企业提供数字化战略规划到工具实施落地的一站式服务。 现招募具备商业分析+咨询交付+BI开发复合能力的商业分析师,您将直接参与客户项目,通过深度诊断业务问题、设计分析框架并开发可视化工具,帮助客户实现数据价值落地。核心职责 1. 客户咨询与方案设计 -对接客户需求，梳理业务流程与数据现状，诊断业务痛点。 -大数据分析，发现业务洞察（如增长策略、运营优化等）。 -设计数据驱动的解决方案,独立撰写咨询报告,清晰呈现分析结论与提升建议。 2.BI开发与数据产品交付 -开发客户定制化BI仪表盘(Power BI/Tableau/帆软等) ,实现数据自动化与可视化。 -参与数据模型搭建(SQL/Python) ,确保数据准确性和可扩展性。 3. 项目管理与协作 - 协调内外部资源，推动项目按时高质量交付。 -向客户管理层讲解方案，汇报成果。 任职要求 -3年以上咨询公司、企业战略部或数据分析团队经验,有ToB客户项目交付经历。 -精通至少一种BI工具(Power BI/Tableau/Qlik/帆软) ,能独立完成从数据连接到仪表盘开发的全流程。 -熟练使用SQL进行数据提取与处理,掌握Python/R用于高级分析者优先。 -出色的结构化思维,具备咨询公司常用框架(如SWOT、 RFM, AARRR, 4A架构等)的应用经验。 优秀的客户沟通能力,能快速理解不同行业(如零售、金融、制造)的业务逻辑。 -适应快节奏咨询项目，能在模糊需求中主动定义问题并推动解决。 【加分项】熟悉云平台数据架构(Azure/AWS/GCP) 。 【加分项】熟悉ETL流程优化、数据仓库设计 【加分项】持有相关认证(如Tableau/Power BI官方认证、PMP、 CBAP) 。",https://www.zhipin.com/job_detail/90c76acd5da76d1603d93Ny_EldY.html,0,1,1,0
+A1_04,A,2026-09-27,BOSS Zhipin,"Business Analyst, EU","Business Analyst, EU",Business Analyst,1,泡泡玛特,New Retail,Shanghai,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,3-5 years,Bachelor,"Job Overview
+Industry: Art Toy & Retail
+Location: Shanghai, ChinaJob type: Full time Permanent
+We are looking for a commercially minded professional to drive business performance through sales analysis, consumer
+insights, and financial planning for POP MART's European business.
+This role sits within the Merchandising department, acting as a strategic bridge between commercial operations and
+financial control You will work across the full spectrum of business performance, from analysing sales trends, consumer
+behaviour, to facilitating the budgeting process and monitoring profitability
+Collaborating closely with Retail Operations, Finance, Marketing, and Business Development, you will support data-driven
+strategies and ensure the fnancial vability of market activities. This hybrid role requires strong analytical capability
+combined with solid financial acumen, suited for a proactive, detail-oriented professional comfortable moving from granular
+transaction details to high-level financial strategy.What You Will Need
+Experience: 3-5 years of experience in Business Analysis, Financial Controlling, Commercial Analysis, or Management
+Consuting. Experience in retail, consumer goods, or e-commerce is a must. Candidates with a background combining both
+sales analysis and financial planning are highly preferred
+Financial Acumen: Strong understanding of P&L structures, cost accounting, budgeting, and variance analysis
+Analytical Skills: Outstanding analytical and problem-soving abilities. Data- sensitive with a strong ability to identiy business
+trends and issues through quantitative analysis.
+Technical Skils: Advanced skills in Excel and proficiency with data visualisation tools such as Power BI, Tableau, or Looker
+are essential. Experience with SQL for data extraction and manipulation, as well as Google Analytics for digital consumer
+insights, is preferred
+Communication: Fluency in English required, Mandarin Chinese is a strong advantage. Ability to present complex data to
+non-technical stakeholders clearly and confidently.
+Mindset Proactive, hands -on, and entrepreneurial. Comfortable working in a fast -paced, ambiguous environment with the
+ability to manage multiple priorities.
+Desirable But Not Essential
+Experience in the toy industry, collectibles, or pop culture retail sector.
+Familiarity with local and European retail landscapes
+Understanding of designer toy and art toy market trends
+Experience with ERP systems (e.g., SAP, Oracle) and CRM platforms
+Exposure to data governance, reporting automation, or process improvement initiatives.
+*As an Equal Opportunity Employer, POP MART does not discriminate against applicants or employees because of race,
+colour, creed, religion, sex, national origin, veteran status, disability, age, citzenship, manital or domesticcvil partnershir
+status, sexual orientation, gender identity or expression or because of any other status or condition protected by applicable
+local law.",https://www.zhipin.com/job_detail/ca43a8455065a5f20nN82tS_GFRX.html,0,1,0,1
+A1_05,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,同程旅行,Internet,Shanghai,Tier 1,20000,30000,20000.0,30000.0,month,25000.0,3-5 years,Junior college,"岗位职责:1、负责APP平台全链路的数据体系建设，完善多维度的数据指标，确保多端口径清晰、一致、可信;
+、识别和提炼业务诉求，高效地完成取数及相关数据分析需求。深入理解数据指标体系，协助产品、运营、策略等通过数据方式驱动业务进行指标改善，提升产品核心竞争力;3、能够根据业务场景价值甄别，制定数据分析的
+优先级。负责跟踪产品数据，做好效果回收情况，基于数据事实及用户调研，持续改善产品用户体验，确保价值交
+J。
+职位要求:1、大专及以上学历，3年及以上相关工作经验;2、有较强的数据洞察、数据理解和数据分析能力，熟悉数据挖掘、数据可视化，能够以数据驱动业务;3、具备业务敏感度，能将业务需求转化为数据分析问题。熟悉数据模型，了解离线开发、实时开发等上游业务的工作流程;4、有独立负责数据产品线经验，兼备较强整体规划能力和细节的执行能力的优先;5、出色的沟通协调能力、团队意识以及执行能力，可以推动多方资源完成业务目
+标。6、要有C端经验",https://www.zhipin.com/job_detail/eed0375279deee3503dy29u4EVNY.html,0,0,0,0
+A1_06,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,信也科技,Internet,Shanghai,Tier 1,17000,23000,17000.0,23000.0,month,20000.0,Fresh graduate/Student,Master,"岗位职责:
+1、以量化分析的方法，数据驱动决策;
+2、通过分析多维度数据，为贷款客户设计优化风险策略，包括:客户准入策略，额度策略，风险定价策略，贷后
+分案策略，AI触达策略等;
+3、和统计建模团队、产品和运营团队、IT团队紧密合作，推进策略执行;
+4、跟踪借款产品的整个流程，从前端流量、运营、风险等等各个方面利用数据分析提高产品各个环节。
+任职要求:
+1、本科及以上学历，数学、统计学、计算机或金融等相关专业同学优先;
+2、熟练使用Excel、PowerPoint等常用软件，SQL基础非常扎实，Python或者R技能成熟者优先考虑;
+3、具备良好沟通能力，学习能力，和团队协作精神，有强烈的学习和提高欲望，有创新和冒险精神，渴望在快节
+奏的创业公司提升自己，创造价值。",https://www.zhipin.com/job_detail/7caf731f718849d20nN83N-4GVFZ.html,0,0,0,0
+A1_07,A,2026-09-27,BOSS Zhipin,Senior Business Analyst,Senior Business Analyst,Business Analyst,1,哈啰普惠,Internet,Shanghai,Tier 1,25000,35000,25000.0,35000.0,month,30000.0,3-5 years,Bachelor,"工作职责:
+1.经营分析:搭建并迭代业务核心经营指标体系与业务模型，制定清晰的业务目标与预算分配方案;跟踪目标达成
+进度与指标异动，深挖数据背后的业务逻辑，定期输出经营分析报告。
+2.商业分析:基于对各业务的深度理解，结合外部市场变化，提供真实、准确、中立的商业与数据分析支持;协同
+管理层及业务团队，从多维度拆解经营情况、定位核心问题，推动业务持续优化。
+3.行业研究:开展行业趋势、竞争态势及标杆企业运营模式的深度研究，梳理四轮出行(打车、顺风车、送等)产
+业链，识别影响业务决策的核心议题;探索既有业务的新模式与升级机会，输出逻辑清晰的专题分析报告，为决策
+层提供可落地的决策建议。
+任职资格析报告。
+1.1~3年工作经验，具有大型互联网工作经验优先。
+2.具有良好的商业敏感度和数据分析技能，能够进行高效而实际的分析方法以解决各类的业务问题。
+3.能独立从复杂数据中挖掘商业洞察，擅长将分析结果转化为清晰易懂的业务语言与呈现形式，并能撰写高质量分
+4.有主人翁精神，具备高度责任感和执行力，具备好奇心和快速学习能力，愿意积极参与业务成长;自驱力强，能
+适应高强度工作节奏。
+5.良好的hard skils(包括不限于数据分析、PPT)，熟练掌握数据提取与分析工具(SQL、Tableau等)。",https://www.zhipin.com/job_detail/37db32b4ea1b17ff0nN_3d61E1VR.html,0,1,0,0
+A1_08,A,2026-09-27,BOSS Zhipin,Strategic Business Analyst ,Strategic Business Analyst,Business Analyst,1,SHEIN,E-commerce,Shanghai,Tier 1,25000,40000,25000.0,40000.0,month,32500.0,3-5 years,Bachelor,"[核心职责]保全盘效率最优
+从全盘视角汇总并统筹线下业务各市场大区发展节奏，明确资源投入、优先级，并与后端、中台拉通业务发展所需支持，确
+基于线下业务整体目标，以topdown与bottomup视角制定线下业务年度/半年度生意计划，包括市场拓展、销售、P&amp.L、
+KPI等，并追踪计划的达成、诊断、更新
+识别线下业务全球层面核心增长抓手，并通过合理的研究、分析、计划、PMO，将增长抓手构建为项目并与后端、中台、市
+场大区一同推进落地为实际业务结果
+针对线下业务发展中遇到的具体痛点难点进行专题研究，通过数据分析、专家访谈、一二手调研等方式，形成洞察并沉淀进
+业务流程或策略当中，解决实际问题
+[任职要求】
+3-5年工作经验，国内外知名大学本科及以上学历，英语能作为工作语言
+学习能力强，能够快速适应业务发展带来的新挑战并持续吸收新知识，与业务一同成长
+从事战略咨询、企业战略、互联网商分或类似岗位，有较多消费品、零售、渠道分销相关经验和较强的sense
+有较强的逻辑、分析、规划、沟通能力，重视解决问题的本质，能够通过有效的计划与协同，产生实际的业务结果
+加分项:
+有制定某一业务板块年度整体business plan/销售计划/P&amp;L相关经验
+来自平价彩妆品牌/有相关项目经验
+有消费品、零售出海相关经验，熟悉渠道分销模式/经销商管理",https://www.zhipin.com/job_detail/63ff6d9426d6bb7803N529S9EFRR.html,0,0,0,0
+A1_09,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,上海能良,E-commerce,Shanghai,Tier 1,20000,35000,20000.0,35000.0,month,27500.0,3-5 years,Bachelor,"岗位职责:
+1.指标体系搭建:主导1-2条业务线(无仓必入)指标字典、看板、监控预警从0到1
+2.经营分析支持:参与月度经营分析PPT编写，独立承担专项分析
+3.跨部门定价结算:协助商业分析总监搭建跨部门定价结算模型
+4.风险/机会洞察:基于看板和数据，主动识别业务风险与机会点并推动落地口团队建设:参与BA工作规范制
+定;带教1名校招生
+任职资格:
+1.本科及以上;统计/数学/经济/计算机/商科相关专业优先
+2.3-5年商业分析/经营分析/数据策略经验;有从0搭指标体系经验强烈优先
+3.电商/即时零售/3C带电分销/SaaS行业优先
+4.SQL熟练 (必备) ;Excel/PPT 出色;Python 加分;BI 工具(FineBI/Tableau/Metabase) 经验加分
+5.业务理解强、跨部门沟通、结构化逻辑、强结果导向、抗压
+6.有跨部门定价/结算模型经验;有从0搭BA团队经验;有过经营分析PPT主笔经验",https://www.zhipin.com/job_detail/2ebf4e88b7b0352b0nF539W5FFpV.html,0,0,1,1
+A1_10,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,迈富时,AI,Shanghai,Tier 1,15000,30000,15000.0,30000.0,month,22500.0,5-10 years,Bachelor,"岗位职责:
+1、熟悉零售、快消、电商、餐饮等行业的业务流程和经营分析方法，具备较强的业务沟通能力，能够理解业务需
+2、分析客户诉求、解读业务痛点及问题，从数据的角度出发，提供相应的解决方案和蓝图;
+数据服务产品建设，帮助客户实现业务成长;
+3、通过数据分析的方法探索客户业务模式的本质特征及业务规律，建立数据化运营分析模型，推动智能化模型及
+4、精通业务指标梳理、经营看板设计等数据产品工作;
+任职标准:
+1、全日制本科学历，统计学、计量经济学、数学计算机专业，研究生以上优先考虑;
+2、3年以上数据分析或数据化运营的工作经验;
+3、具有敏锐的观察力、分析判断能力，灵活应变能力和沟通能力;
+4、熟练掌握报表工具(帆软、观远、QuickBI等)，熟练使用excel及其他办公软件;
+5、沟通能力强，责任心强，具有创造力和良好的团队协作能力;
+6、能适应适当出差，具备较强的抗压力",https://www.zhipin.com/job_detail/aceba252f3a8be160nF50ty8FldZ.html,0,0,0,0
+A1_11,A,2026-09-27,BOSS Zhipin,Data analyst,Data analyst,Data Science,1,拼多多集团,Internet,Shanghai,Tier 1,25000,35000,25000.0,35000.0,month,30000.0,Fresh graduate/Student,Bachelor,"岗位职责
+分析业务数据，通过深度挖掘数据，帮助各部门发现、分析和解决问题、优化产品需求;
+监控和跟踪数据异常波动情况，进行探索分析和问题定位;
+设计实验方案，评估业务策略的效果，提出改进建议;
+负责业务相关日常报表的整理分析，对业务进行阶段性总结归纳;
+5、深入理解业务，发现业务特征和潜在机会给出有效的行动建议。
+任职要求
+2027届毕业生，本科及以上学历，计算机/数学/统计学等相关专业，热爱计算机科学和互联网技术;
+熟练使用sq/python语言等，掌握数理统计、数据挖掘等常用理论知识;
+对分析感兴趣，喜欢从数据中发现规律，探索本质;
+对Hadoop，Spark的原理熟练掌握，并有一定的使用经验者优先;
+善于沟通，逻辑思维能力较强，善于学习新知识。",https://www.zhipin.com/job_detail/cb006822966e06620nFz2dm0E1dR.html,0,0,0,0
+A1_12,A,2026-09-27,BOSS Zhipin,Business Data Analysis - Supply Chain,Business Data Analysis - Supply Chain,BI Analyst,1,西门子中国,Smart Hardware,Shanghai,Tier 1,15000,25000,15000.0,25000.0,month,20000.0,3-5 years,Master," Identify new supply market intelligence data and information
+Actively search for both quantitative and qualitative market insights specific to the region.
+ Prepare and analyze market data
+Independenty gather, consoidate, and evaluate comprehensive market data, anayses, and scenarios from external
+sources relevant to the region.
+Develop price models and forecasts
+Create robust price models using methods such as correlation analyses, develop mathematical-based forecasts, regularly
+refine them, and validate their accuracy through back-testing.
+ Enhance and promote central Supply Market Intelligence platforms
+Ensure the distribution and effective utlization of platforms like the Market Intelligence Cockpit and the Market Intelligence
+Cockpit Assistant in the region, while contributing innovative ideas for continuous improvements.
+ Maintain up-to-date market data
+Regularly update and verify the accuracy of all relevant market information within Supply Market Intelligence platforms
+Content creation for communication
+Provide first-level support on inquiries
+Generate region specific content to enrich the SMI newsletter and webcasts.
+Offer prompt assistance with market and price data inquiries for the region, aiding efforts such as negotiation preparations
+and strategy development.
+Contribute to special projects
+Analyze and provide actionable insights for ad hoc issues like economic crises, geopolitical events, or sanctions.
+Collaborate proactively with the global team
+Ensure alignment of all activities with the central Supply Market Intelligence team in Germany.Your Defining Qualities:
+Educational background: Master's
+degree
+in
+Genera
+ Management,
+Business
+Development,
+Business
+Administration/Finance, Industrial Engineering, or comparable discipline.
+· Relevant experience: Proven expertise in Market Intelligence or Supply Chain Management (SCM)
+Global perspective: Strong interest in current economic and political trends worldwide, with the ability to integrate these
+developments into work responsibilities.
+Technical skills: Advanced proficiency in Excel, and a general affinity for working with IT tools and solutions
+Personal skills: Exceptional analytical capabilities, clear and persuasive communication skils, a dependable work ethic,
+and a collaborative team-oriented mindset.
+Language proficiency. Fluent in English, with the ability to effectively communicate in a professional environment.
+· Soft Skills: Strong analytical thinking, effective communication, adaptability, attention to detail, stakeholder management,
+and collaboration skills to interpret market data, present insights, and drive informed procurement decisions.",https://www.zhipin.com/job_detail/640033b2c8eee0e90nd609S6FVpS.html,0,0,0,1
+A1_13,A,2026-09-27,BOSS Zhipin,Data analyst,Data analyst,Data Science,1,华住酒店集团 ,Hotel/homestay,Shanghai,Tier 1,10000,15000,10000.0,15000.0,month,12500.0,NA,Bachelor,"工作职责:
+1.数据挖掘与分析:通过数据处理、数据挖掘和模型构建，发现业务问题并提供数据洞察，为业务优化和增长提供支持。
+2.指标体系搭建:参与数据指标体系搭建，推动核心业务指标的标准化管理，并开发维护BI报表。
+3.业务协同:与业务部门紧密合作，将分析结果转化为可执行的解决方案。
+任职资格:
+2.经验要求:3年以上数据分析经验
+1.教育背景:本科及以上学，数学，统计、计算机专业优先
+3.技能要求:熟练掌握SQL、Excel,python。至少掌握一种可视化工具(POWER Bl,帆软,QBI),具备扎实的统计学基础，熟悉回归分析、聚类分析、漏斗分析、A/B测试、假设检验等方法了解常用机器学习算法.4.综合素质:能自我驱动，具备快速学习能力，有较强的沟通能力及团队合作精神，强烈的责任感及进取精神。",https://www.zhipin.com/job_detail/6fe400c9f17e2b8b0nN60t-4E1NU.html,0,0,1,1
+A1_14,A,2026-09-27,BOSS Zhipin,Data Analysis,Data Analysis,Business Analyst,1,中软国际,Computer software,Shanghai,Tier 1,6000,9000,6000.0,9000.0,month,7500.0,1-3 years,Junior college,"【岗位职责]
+1、负责数据采集团队日常考勤、工时统计、绩效数据核算与台账维护，输出日/周/月绩效报表，完成人员产出统计
+账，做好预算&实际差异管控;
+2、对接现场采集工作人员，统筹机器人采集项目工作量、产能进度、人力成本、项目耗用数据统计，建立成本台
+3、负责部门经营数据汇总、梳理与分析，输出经营分析报表，挖掘数据波动问题，提供数据支撑与优化建议;
+4、规范数据统计口径、维护各类业务台账，优化统计流程，配合多部门完成数据提报、核对及复盘工作。
+[任职要求]
+1、专科及以上学历,1-3年数据统计、经营分析、绩效考勤、成本运营相关工作经验;
+2、熟练使用Excel做数据汇总、透视分析、报表制作，数据敏感度高，细心严谨、逻辑性强;
+3、沟通能力良好，能对接现场一线人员及各职能部门，对齐数据口径、落地数据统计工作;5、工作踏实有责任心，抗压性强，能按时完成周期性报表与数据复盘工作。
+有AIV/具身智能数据采集行业经验优先，无需深度算法能力，侧重数据统计+经营支撑+成本绩效运营;",https://www.zhipin.com/job_detail/20ca9569b66f59d30nN83N-1FVBT.html,0,0,0,0
+A1_15,A,2026-09-27,BOSS Zhipin,Data Analyst,Data Analyst,BI Analyst,1,拼多多集团,Internet,Shanghai,Tier 1,30000,60000,30000.0,60000.0,month,45000.0,1-3 years,Bachelor,"岗位职责:
+1.参与业务目标KPI拆分，对复杂业务场景进行指标建模，发现与解决问题，推动业务迭代;2.沉淀分析思路与框架，提炼数据算法/产品需求，监控和跟踪数据异常波动情况，并深入分析;3.负责业务相关日常报表的开发，整理分析，对业务进行阶段性复盘分析;4.负责业务的AB实验指标计算及效果追踪。
+任职要求:
+1.掌握大数据及分析工具，如Hive、SQL、Python等，熟练数据库数据处理方法。2.较强的数据敏感性，能对数据表现进行科学、客观、合理地分析并汇总结论;3.责任心强，能高效地和技术及业务团队沟通，能推动业务落地。
+加分项:
+熟数据库技术，熟练运用hive，有大型数据仓库经验者优先。",https://www.zhipin.com/job_detail/e14bd58374cecda303F43Ny0F1tQ.html,0,1,0,0
+A1_17,A,2026-09-27,BOSS Zhipin,Data Operation,Data Operation,Business Analyst,1,微创网络,Computer software,Shanghai,Tier 1,9000,12000,9000.0,12000.0,month,10500.0,3-5 years,Bachelor,"职位描述:
+1.根据业务制定的季度/月度目标，完成大促/团队目标拆解，周期性追踪目标并进行风险识别，推进相关数据及产品能力建设，驱动业务目标达成;2.通过数据分析评估并监控不同策略实验与活动的效果，及时定位问题;3.支持专题类数据分析，对重要经营议题进行复盘与归因;
+职位要求:
+4.通过推进数据产品能力建设，实现相关主题场景下的数据分析报告自动化、空间探查&机会识别自动化;
+5.结合钱效目标及分析工具，推进营销预算管控类产品功能建设。
+理解;
+1.本科及以上学历，3年以上商业分析/经营分析/数据分析财务分析工作经验，对电商/支付/金融业务逻辑有较好的
+SAS等加分;
+2.逻辑性强、思维严谨，具有较强的数据敏感度和业务敏感度，喜欢做定量分析，对数据分析工作有热情，愿意学
+习或熟悉主流的数据库及数据分析工具，熟练使用SQL、Excel、tableau或风神，掌握分析工具如R，Python,
+3.沟通能力强，能动性高，可以自主推动业务方协同合作。
+4.金融、信贷等领域有相关的工作经验及行业经验者优先。",https://www.zhipin.com/job_detail/55ff431fe52345980nN82NW1GVdQ.html,0,0,1,1
+A1_18,A,2026-09-27,BOSS Zhipin,Operation analyst,Operation analyst,Business Analyst,1,字节跳动,Internet,Shanghai,Tier 1,30000,60000,30000.0,60000.0,month,45000.0,5-10 years,Bachelor,"职位描述
+TikTok生活服务(TikTokGO)是一站式商业解决方案，创造性地通过TikTok POI、短视频、直播和搜索等，连接全球用户与本地服务，提供有价值的真实世界生活体验，激发用户探索周围的世界。以“发现好去处，助力本地商家”为使命，致力于成为最值得信赖的发现好去处和连接本地商家的平台，让社区更轻松地与餐厅、酒店和景点互动为商家提供全新方式来连接客户并促进交易，结合创新的营销和运营工具，带来可持续增长。团队分布多国，目前积极扩张中。大航海时代，我们欢迎大家一起加入国际化征程，共同打造TikTok生活服务业务!
+务识别问题、发掘业务新机会;
+1、支持国际化生活服务酒旅业务的经营分析工作，搭建分析框架，拆解复杂问题，从多个视角展开分析，帮助业
+2、密切协作销售、产品、内容运营等部门，结合业务运营逻辑，完成业务目标测算、达成路径及资源拆解;
+职位要求
+3、基于分析工作、业务理解，制定商家政策，并推动商家政策落地。
+1、本科及以上学历，优先考虑数学、统计学、经济学等相关专业背景;
+2、5年以上战略咨询/商业分析/投资经验等、酒旅相关行业经验加分;
+3、擅长处理复杂的内外部数据、具备基本的数据提取/清洗能力、且能够从数据结果中挖掘洞察;
+4、学习能力强、对生活服务业务有热情;且能够快速适应快节奏的工作环境;
+5、英语可以作为工作语言(必需);
+6、工作地北京或者上海。",https://www.zhipin.com/job_detail/6f0b1511144f34c70nJ43tm9FlNX.html,0,0,0,0
+A1_19,A,2026-09-27,BOSS Zhipin,Operation analysis Assistant,Operation analysis Assistant,BI Analyst,1,CoCo都可,Wholesale/Retail,Shanghai,Tier 1,13000,18000,13000.0,18000.0,month,15500.0,<=1 year,Bachelor,"工作职责:
+1.负责日常业务数据的收集、整理、分析，解决业务部门的实际需求並提出管理改建建议;2.根据业务需求，负责业务部门多维表需求的搭建和答疑;3.搭建和维护数据看板(如使用观远BI等工具)，支持业务监控与决策;4.跟踪关键业务指标，发现数据异常指标，并定位原因，给出合理建议;
+5.探索AI在企业内的应用场景和方案规划;
+6.完成上级安排的其他工作
+任职资格:
+1.本科及以上学历，熟练掌握python，SQL基础操作;
+2.有財務/餐饮等相关业务经验优先;
+3.具备良好的数据敏感度和逻辑思维能力，能独立完成数据分析任务;
+4.沟通能力强，能与业务团队有效协作，对AI应用有强烈的兴趣;
+5.有1年以上数据分析相关工作经验者优先。",https://www.zhipin.com/job_detail/a83d248aae0f79de0nB92d25E1NX.html,0,0,0,0
+A1_20,A,2026-09-27,BOSS Zhipin,Operation analysis,Operation analysis,Business Analyst,1,大润发,Wholesale/Retail,Shanghai,Tier 1,15000,23000,15000.0,23000.0,month,19000.0,3-5 years,Bachelor,"岗位职责
+1.经营数据监控:通过数据监控部门日/周/月度的经营健康状况，进行关键指标的异常预警和分析。2.专项分析:深入业务场景(如营销场景、活动)，输出高质量的分析报告，帮助业务部门发现问题和优化机
+云。
+3.会员深度洞察:会员全生命周期分析，深挖用户行为数据与交易数据的关联，为会员分层运营策略提供数据支
+持，评估会员权益投入产出比(ROI)。
+4.数据报表体系建设:参与数据报表体系建设，梳理业务指标口径，确保数据一致性;与IT及业务部门协作，推动
+数据产品的自动化与智能化，赋能业务团队自助分析。
+5.预测与规划:基于历史数据建立预测模型，协助业务部门制定年度/季度预算及目标拆解。
+任职要求:
+1.3年以上数据分析或相关经验，有零售、快消、电商、咨询公司经营分析背景者优先。
+2.数学、统计、计算机、市场营销等相关专业优先。
+3.SQL:精通SQL，能独立提取和处理海量数据。
+Excel:精通Excel高级函数及透视表。
+PPT:具备良好的PPT撰写能力，能把数据结论转化为清晰的建议。
+统计建模:掌握Python/R者加分，有用户画像标签体系建设经验、CRM系统项目经验或机器学习项目落地经验加
+分。
+4.了解零售行业的人、货、场概念。具备极强的商业敏锐度，能将数据与实际业务场景结合，不仅“呈现数据”，更能“解读数据”。具备良好的沟通协调能力，能听懂业务部门的“白话”并将其转化为“数据语言”。",https://www.zhipin.com/job_detail/b60adfb50c8014440nJ_0tS-E1BV.html,0,1,0,1
+A1_22,A,2026-09-27,BOSS Zhipin,Data Science,Data Science,Data Science,1,BOSS直聘,HR Services,Beijing,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,1-3 years,Master,"岗位职责:
+1，项目:负责公司核心商业产品的持续增收，为业务优化提供高效的数据洞察与方向指引:
+-发起or深度研究商业问题&解决方案，负责0到1、从1到10的数据科学项目。
+-结合LLM，探索开发数据分析工具or解决方案for用户，始终走在工业应用的尝试前沿
+-核心收入指标的科学监控，异动识别，深入分析
+2,实验评估:实验前-方案设计;实验中、后:监控&评估、实验认知沉淀(what is really happening)3,日常沟通:合作产品、算法、开发等多工种、多团队。岗位要求:
+1，国内外知名大学优先，有互联网大厂经历优先
+2,理工科，经济学、统计学、数学、运筹学相关专业优先
+3，熟练掌握sql、使用Python或R建模",https://www.zhipin.com/job_detail/f751bc2a11ed5b2f1XVy3dS4E1BT.html,1,0,0,0
+A1_23,A,2026-09-27,BOSS Zhipin,Advanced Business analysis,Advanced Business analysis,Data Analyst,1,美菜,E-commerce,Beijing,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,NA,Bachelor,"职责描述:
+1、基于对业务的深层洞察及数据分析，为业务部门提供策略分析和业务优化建议，持续改进运营效果;
+2、对业务部门进行数据需求支持，增长体系及商户重点项目指标体系搭建，助力业务持续成长
+3、公司级项目发展支持:包括项目目标制定，项目推进过程中持续的数据监控，助力项目目标不跑偏并最终实现
+项目目标4、通过数据，透视行业发展现状及机会，发掘公司增长机会点
+任职要求:
+1、统计学、应用数学、计算机等相关专业优先，硕士以上学历
+2、熟练使用SQL，熟练运用Excel、Powerpoint等软件，有python使用经验优先
+3、较强的数据敏感度，逻辑分析能力
+4、有责任心，良好的沟通能力,能承担一定的工作压力
+5、对业务的快速学习和融入能力",https://www.zhipin.com/job_detail/99228c87e3b5a5860nJ43d60FlVQ.html,0,0,0,0
+A1_24,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,HUNGRY STUDIO,Gaming,Beijing,Tier 1,30000,60000,30000.0,60000.0,month,45000.0,5-10 years,Bachelor,"岗位职责
+搭建并持续迭代公司目标管理体系，具体包括定期的目标设定与拆解、增长路径建议或论证，以及日常经营过程中
+的异动识别、归因与干预，并通过AI和自动化长期提效基础解读。
+任职要求
+1、有4年+大盘分析经验，有目标管理的思考;
+2、扎实的数据分析基本功，并在工作中持续关注和实践Al;
+3、有专项分析的成功案例;
+4、逻辑清晰且严谨，擅长沟通协作;
+5、有亿级流量业务的经营分析经验优先。",https://www.zhipin.com/job_detail/0eab05d3cd5b4ec00nN50tW4FFNX.html,0,0,0,0
+A1_25,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,字节跳动,Internet,Beijing,Tier 1,25000,50000,25000.0,50000.0,month,37500.0,5-10 years,Bachelor,"职位描述
+1、参与国际化直播年度/季度/月度业务目标制定，包括搭建和迭代业务目标模型、跟踪目标达成情况、洞察业务问
+题;
+2、负责建立业务指标体系，发现问题并对关键问题进行深度分析，结合对行业生态、业务模式的深度研究，提出
+解决方案，并通过牵头跨部门专项推动落地;
+3、与国家线协作，探索和迭代主播以及公会经营策略并跟进效果分析，并推动策略规模化复制。
+职位要求
+1、5年互联网商业分析(有目标制定/管理、经营分析相关经验);
+2、对海内外在线泛娱乐产业(如直播、社交、游戏等)有兴趣，有经验者优先;
+3、思想深刻，思维敏锐，好奇心强;具有务实的心态和较强的解决问题的能力;
+4、较强的量化分析能力，熟练Excel建模;有各类数据分析工具经验优先;
+5、优秀的沟通能力，善于跨团队合作，有高度的责任心，独立性和应变能力;
+6、英语能力强&有国际背景者优先。",https://www.zhipin.com/job_detail/c8e924462117c9000nN83NS-EFNY.html,0,0,0,0
+A1_26,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,"联想利泰
+",Internet,Beijing,Tier 1,11000,15000,11000.0,15000.0,month,13000.0,1-3 years,Junior college,"1.协助mentor完成数据的查询和整理，确保数据产出的时效和准确性
+2.针对分析的课题，在子模块中做一定的拆解，并对问题做出一定的分析解答3.对分析报告做初步的整理和观点总结 1.愿意从事数据分析相关的工作，可以及时交付，对数据足够的敏感;2.对业务本身有一定的钻研兴趣，愿意思考，不断积累业务的基础认知，愿意尝试更为复杂和具有挑战的工作
+3.抗压性好，在能接受一定程度的加班
+SQL，数据分析，电商",https://www.zhipin.com/job_detail/f85053be4d81f1970nV539W9F1BT.html,0,1,0,0
+A1_27,A,2026-09-27,BOSS Zhipin,Data Analysis,Data Analysis,Data Science,1,京东集团,E-commerce,Beijing,Tier 1,10000,15000,10000.0,15000.0,month,12500.0,NA,NA,"岗位职责:
+1.构建数据分析体系，支持业务决策与运营优化;2.通过数据挖掘与分析，识别业务关键问题并提供解决方案;3.监控核心指标变化，完成数据追踪、归因分析及异常排查;4.沉淀分析方法论，推动分析成果转化为数据模型或产品化工具;5.协同业务团队沟通需求，输出可落地的数据洞察与建议。
+任职要求:
+1.具备良好的逻辑思维能力，能独立完成问题拆解与数据分析;
+3.对数据敏感，具备较强的业务理解力和沟通协作能力;4.有持续学习意识，能够主动探索新方法提升分析效率;
+2.熟练掌握数据分析相关工具，如SQL、Python、R、Excel、Power BI等;
+5.具备团队合作精神，能高效融入跨职能协作环境。",https://www.zhipin.com/job_detail/0e208b16c38a597c0nN_2t-9EFtU.html,0,0,1,1
+A1_28,A,2026-09-27,BOSS Zhipin,Data Analysis Assistant,Data Analysis Assistant,Data Analyst,1,阜外医院,Healthcare,Beijing,Tier 1,20000,35000,20000.0,35000.0,month,27500.0,3-5 years,Bachelor,".核心能力
+(1)政治立场端正，思想觉悟高，具备良好的职业素养与工作操守，党员优先
+(2)本科及以上学历，统计学、数学等相关专业优先，具备3-5年数据分析工作经验，熟悉数据分析全流程及业务
+逻辑
+(3)数据功底扎实，熟练掌握至少一门开发语言，可独立完成数据清洗、建模、指标拆解、多维分析及分析报告撰写工作(4)熟练掌握数据库技能，精通SQL，可独立完成数据查询、提取、多表关联及数据优化等工作(5)具备良好的数据敏感度与业务理解力，可结合业务挖掘数据价值、发现问题、输出优化建议，支撑业务决策与迭代(6)具备Al大模型落地应用及AIAgent实操能力，可依托大模型能力开展智能化数据分析、结果生成等工作，提升分析效率与质量(7)逻辑思维缜密，具备良好的问题拆解能力和跨部门沟通能力，可精准对接业务需求、落地数据方案熟练使用0fice及主流数据可视化工具，工作细心严谨、执行力强，可承接紧急数据分析任务(8)
+2.加分项(1)具备数据分析工程化落地经验，熟悉数据流程规范化、自动化搭建者优先
+3.个人素质常态化工作
+(2)熟悉数据仓库、指标体系搭建，有复杂业务专项数据分析项目经验优先
+(1)工作细致严谨、责任心强，具备极强的耐心，能够高效、精准完成重复性数据处理、数据核对、数据复盘等
+(2)逻辑清晰、思维灵活，具备优秀的自主学习能力、问题解决能力，可快速适配新业务、新工具、新流程
+(3)具备良好的团队协作意识、沟通表达能力及抗压能力，积极配合团队完成数据项目落地、业务支撑等各项工作",https://www.zhipin.com/job_detail/f1825c0ad1cb005a0nR429S0FFpY.html,1,0,0,0
+A1_29,A,2026-09-27,BOSS Zhipin,Data Analysis,Data Analysis,Business Analyst,1,柯莱特集团,Computer software,Beijing,Tier 1,8000,10000,8000.0,10000.0,month,9000.0,1-3 years,Junior college,"岗位职责:
+1、构建全面、准确的指标体系，定期产出经营分析和复盘，及时发现和定位业务问题;
+2、通过专题分析，挖掘流程、策略可优化的机会点，为公司运营决策、产品方向、业务策略提供数据支持;
+3、跟进业务目标制定与复盘;
+4、跟进行业竞品动态，结合内外部数据输出行业趋势洞察，为长期战略提供参考。
+任职资格:
+统招本科以上，211以上，数学、物理、计算机、经济学优先
+1、4年以上工作经验;3-5年数据分析/商业分析经验
+2、有业务与数据热情，能快速理解业务，发掘业务细节和数据之间的联系;熟悉常用数据分析方法，分析报告或
+专题研究上道循严格的逻辑形式
+3、积极主动，肯思考;抗压、沟通协调、推动能力强
+4、SQL、excel熟练者优",https://www.zhipin.com/job_detail/b5567d3afea20b6403V_2tq7FldV.html,0,1,0,0
+A1_30,A,2026-09-27,BOSS Zhipin,Data analyst,Data analyst,Data Analyst,1,软通动力,Computer software,Beijing,Tier 1,9000,12000,9000.0,12000.0,month,10500.0,3-5 years,Bachelor,"一、岗位职责:
+1.业务数据支持
+负责保险拉新业务日常数据需求的响应与支持，包括渠道投放效果、用户转化漏斗、活动ROI等核心指标的统计与
+分析，以及大底包数据的提取、清洗与整合，支撑精细化运营与精准营销
+深入理解保险拉新业务流程，能独立完成从数据筛选到分析报告输出的全链路工作;配合业务团队进行活动前后的数据评估，提供数据支撑与策略建议。
+2.数据分析与洞察
+围绕拉新获客环节，开展渠道质量分析、用户行为分析、转化路径分析等专项课题;
+通过数据分析发现业务增长点与流失风险点，输出可落地的策略建议;
+持续跟踪核心业务指标变化，及时发现异常并推动问题定位与解决。
+二、任职要求:
+学历:本科及以上学历，统计学、数学、计算机、金融等相关专业优先;经验:3年及以上数据分析相关工作经验，有金融/保险/互金行业经验者优先;
+数据工具能力:熟练使用Excel进行数据处理及分析;掌握SQL、Python等数据分析工具，至少熟练使用其中一
+种，能独立完成数据提取、清洗及分析工作。
+加分项
+了解保险业务基本逻辑(如保费、核保、理赔、续期等概念)者优先;
+有用户增长/拉新业务数据分析经验者优先;软性能力
+具备良好的业务理解力，能快速将业务问题转化为数据问题;
+逻辑清晰，对数据敏感，具备一定的数据直觉和异常洞察力;
+沟通表达能力良好，能将分析结论有效传递给业务方并推动落地;责任心强，能适应一定节奏的业务需求响应。",https://www.zhipin.com/job_detail/0f6d92bdf7d8246d03N-29W4GVJX.html,0,0,0,0
+A1_31,A,2026-09-27,BOSS Zhipin,Data analyst,Data analyst,Business Analyst,1,杭州高德云图,Internet,Beijing,Tier 1,100000,140000,100000.0,140000.0,month,120000.0,3-5 years,Bachelor,"经营分析:主导内容业务(内容生态、创作者体系、扫街榜等)核心指标的日常监控、异动归因与专题深挖，输出
+可落地的业务洞察与决策建议。
+·业务诊断:从数据视角拆解业务问题，识别内容生产、分发、消费全链路的痛点与增长机会，主导关键专题分析并驱动策略迭代。
+·看板建设:负责内容业务指标体系与数据看板的0-1搭建与持续迭代，完成指标定义、口径治理与Dashboard落
+地，支撑业务经营视角闭环。
+·数据基建协同:与数仓、数据产品团队深度联动，参与内容域数据模型评审、埋点方案设计与指标资产沉淀。
+·跨团队协作:作为业务侧数据接口人，支撑产品/运营团队的目标拆解、经营复盘及管理层汇报。
+职位描述
+·本科及以上学历，统计学、数学、计算机、经济学等相关专业优先;3年以上(P6)/5年以上(P7)互联网数据
+分析或经营分析经验。
+·SQL能力:熟悉大数据环境(ODPS或Hive等)SQL开发，握分区表、CUBE表处理等基础能力。
+·业务框架:具备体系化分析方法论，基于框架结构化拆解业务问题，输出策略级结论而非单点数据，
+·看板建设:具备独立搭建业务看板的完整经验(如FBI/Quick BI/Tableau等)，熟悉指标体系设计与口径治
+理。
+·协同经验:有与数仓工程师、数据产品经理协作经验，理解DWS/ADS分层建表逻辑，能撰写指标口径、数据需求文档。
+·AI分析素养:熟悉AI数据助手、智能问数、LLM+数据分析等新型工具链，具备基础实践经验，对AI驱
+工作流有持续探索热情，沉淀团队最佳实践。
+.具备优秀的结构化表达与跨层级沟通能力，曾参与或主导面向业务、产品及管理层汇报。",https://www.zhipin.com/job_detail/e2729fd90fbabb2b0nN_0t60FVFV.html,1,0,0,0
+A1_32,A,2026-09-27,BOSS Zhipin,Operation analysis,Operation analysis,Business Analyst,1,松果出行,Internet,Beijing,Tier 1,15000,16000,15000.0,16000.0,month,15500.0,1-3 years,Bachelor,"岗位职责:
+1.负责全国经营目标的分解与滚动预测;
+2.管理经营指标、口径及大数表，建立多维度经营大数表统一分析体系;
+3.开展大区及核心经营单元的深度经营分析;
+4.进行经营偏差拆解(收入、成本、利润等)，识别业务堵点，实现从数据到业务动作的穿透;
+5.组织例行的经营分析机制运行，开展区域经营评价工作;
+任职要求:
+1.具备经营分析相关工作经验，熟悉企业经营管理流程;
+2.熟练掌握数据分析工具，具备较强的逻辑分析与问题拆解能力;
+3.能够独立完成多维度数据整合与分析报告输出;
+4.需要频繁出差。",https://www.zhipin.com/job_detail/71f81685630a28980nN43d26FVVV.html,0,0,0,0
+A1_33,A,2026-09-27,BOSS Zhipin,Operation analyst,Operation analyst,Business Analyst,1,百度,Internet,Beijing,Tier 1,25000,40000,25000.0,40000.0,month,32500.0,3-5 years,Bachelor,"工作职责
+-建立健全并持续优化端到端运营分析体系，通过数据洞察，发掘BG端到端的业务机会点和问题，并推动策略落地
+和业务流程优化
+-支持制定BG经营目标拆解，推动关键指标体系建立，实施业绩监控
+-根据业务线需求，开展专项经营效率与结果分析，识别改进机会，为BG运营提供有力支持
+开展战略项目专项分析，为战略项目提供数据支持
+任职资格:
+-本科及以上学历，财务、经济、商业分析、统计学等相关专业
+-拥有7年以上工作经验，财务背景，加互联网、大型ToB公司工作经验优先
+-熟练独立撰写商业数据分析报告
+熟恶并能够运用Power BI、Tableau、python、SQL等数据分析工具者之一(必备)
+-具备出色的学习能力、逻辑思维能力和高度的数据敏感度，能够快速适应并理解复杂业务场景
+-具备良好的沟通能力和团队协作精神，能够跨部门协作，有效推动项目落地实施",https://www.zhipin.com/job_detail/fac9145227bbbf7e0nN929u4FlFT.html,0,0,1,0
+A1_34,A,2026-09-27,BOSS Zhipin,E-commerce operation analyst,E-commerce operation analyst,Business Analyst,1,伯希和,Textiles & Apparel,Beijing,Tier 1,20000,35000,20000.0,35000.0,month,27500.0,3-5 years,Bachelor,"工作职责
+1.渠道经营监控与策略赋能
+搭建线上渠道健康度监控体系，从""人、货、场""多维度评估业务状态，及时预警偏差、识别风险与增长机会。
+输出渠道诊断报告，推动运营/市场/商品团队落实优化，实现“监控-诊断-建议-跟踪”闭环。
+2.行业研究与市场洞察
+开展经营分析，将数据结论转化为可落地的策略方案，协同推动广告、商品、促销、渠道布局等优化。
+利用阿里抖音/京东等平台数据工具，开展行业、用户、竞品及品类研究，发现机会并提出优化建议。
+搭建行业数据指标体系，监控变动并反馈，推动业务策略调整。
+开展专项课题研究，包括用户画像、运营效果、媒体投放、竞品分析及趋势研判。
+3.数据体系与工具建设
+主导线上渠道BI看板的需求设计、开发与迭代，将分析思路产品化、可视化。
+任职资格:
+协同数据团队完善数据底层结构、提升数据质量、优化分析工具。
+1.基本条件
+统招本科及以上学历，统计学、数学、经济学、计算机、市场营销等相关专业优先。
+3年及以上电商平台/消费品牌/零售企业的数据分析/商业分析经营分析经验，运动户外、消费电子、快消背景优
+先。
+2.专业技能
+精通SQL，熟练Excel高级分析与建模。
+熟悉阿里/京东/抖音电商数据工具(生意参谋、数据银行、京东商智、巨量云图等)优先。
+具备Python/R数据分析与建模能力者优先。3.核心能力
+业务理解:在天猫/京东或抖音/快手任一领域有深入实践，精通运营逻辑、流量机制、搜索规则与大促玩法，有数
+据支持爆款打造或大型campaign复盘经验。
+协同推动:优秀的跨部门沟通与项目推动能力，能协调资源、推动建议落地。
+结果导向:对业务增长有强责任心。自我驱动，主动发现和解决问题。
+数据敏感:逻辑思维清晰，能独立撰写商业数据分析报告。",https://www.zhipin.com/job_detail/68ca9766c1e92f670nJ42dy8FFFT.html,0,0,0,0
+A1_35,A,2026-09-27,BOSS Zhipin,Operation analysis,Operation analysis,Business Analyst,1,字节跳动,Internet,Beijing,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,1-3 years,Bachelor,"职位描述
+1、经营分析与决策支持:围绕客服场景的人员规模、效率、质量和成本建立分析框架，持续跟踪预算、人力投
+入、SLA与目标达成;判断新增资源需求的合理性、可行性和成本影响，识别人力错配、效率异常及资源节降机
+会，并推动业务采取行动;
+2、推进成本优化与投入产出分析:负麦机器成本等非人力成本的规模、结构、趋势和预算执行分析，梳理成本商
+品、服务树、业务使用方及分摊规则之间的映射关系，识别归属与分摊问题，搭建可持续追踪的ROI分析框架，
+为扩投、收缩或结构优化提供依据;
+3、建设合规治理体系:协同内控、内审和信息安全团队识别信息安全及行为安全风险，设计风险地图、评价标准
+和治理方案，推动权限控制、监控预警、案件处置、审计整改和复盘机制落地;
+作效率与人效，将一次性项目沉淀为可稳定运行、可规模化复制的中台能力。职位要求
+4、沉淀可复制的中台机制:围绕跨部门运营项目建立标准化流程、协作规范和复盘机制，持续优化交付质量、协
+业务域或专项;因并形成可执行建议;求与业务效率之间保持合理平衡;进结果。
+1、本科及以上学历;金融、经济、数学、统计、管理、信息系统等相关专业优先;
+2、具备经营分析、资源运营、策略运营、内控合规或复杂项目管理中的一种或多种相关经历，能够独立负责一个
+3、具备较强的数据敏感度和结构化分析能力，能够从预算、规模、效率、质量、成本等指标中识别问题，完成归
+4、具备风险意识，能够识别制度、流程与实际执行之间的差距，设计控制点、监控机制和闭环方案，能在合规要
+5、具备较强的项目管理和跨团队协作能力，能够与业务、财务、内控、安全及产研团队对齐目标、推动决策并跟",https://www.zhipin.com/job_detail/ed7935e5733166150nN_2ty9EFtT.html,0,0,0,0
+A1_36,A,2026-09-27,BOSS Zhipin,Operation analysis,Operation analysis,Data Analyst,1,京东物流,Express,Beijing,Tier 1,25000,50000,25000.0,50000.0,month,37500.0,5-10 years,Junior college,"1.主导搭建全国业务数据监控体系，统一口径与指标定义，建立分层监控机制;
+2.围绕收入、单量等核心指标开展多维度分析，输出经营报告与策略建议;
+3.承接业务数据需求，推动数据链路完善与指标口径统一;
+4.沉淀分析方法论与模板，提升团队数据分析能力。",https://www.zhipin.com/job_detail/29aac0045ed02e490nN939q7ElFX.html,0,0,0,0
+A1_38,A,2026-09-27,BOSS Zhipin,E-commerce data analyst,E-commerce data analyst,BI Analyst,1,凡岛,E-commerce,Guangzhou,Tier 1,10000,12000,10000.0,12000.0,month,11000.0,NA,Bachelor,"[岗位职责]:
+1.负责电商各平台(天猫、京东、抖音、小红书等)数据的整合、统计、清洗与取数，按需输出经营数据报表。
+2.统一GMV、转化率、客单价、复购率、ROl、毛利率等核心指标的计算口径，保障数据准确、及时。
+3.负责管理经营看板的维护和更新，保障看板数据正常刷新、展示稳定。
+4.响应运营、商品、投放、财务等业务方的日常取数与报表需求。5.推动部门相关AI工作落地，包括AI工具/自动化脚本的引入、试用与推广，提升日常数据处理效率。[任职要求】
+1.本科及以上学历，计算机、统计学、数学、信息管理等相关专业优先。
+2.1-3年数据相关经验，有电商、零售、快消等行业经验优先。
+3.熟练使用SQL，能独立完成数据整合、清洗与取数;了解至少一种主流BI工具(Power BI、FineBl、Quick Bl.
+观远BI、Tableau)。
+4.工作细致、责任心强，对数据准确性和时效性敏感。
+5.具备良好的沟通表达能力，有跨部门推动经验;对AI工具有兴趣、愿意学习使用者优先",https://www.zhipin.com/job_detail/4cf17786d1cfd7640nN_2d28FVBS.html,0,0,0,0
+A1_39,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,骆驼户外,Textiles & Apparel,Guangzhou,Tier 1,10000,15000,10000.0,15000.0,month,12500.0,NA,Junior college,"岗位职责:
+1、数据监控与收集:负责日常收集、整理各电商渠道的商品销售数据、库存数据及市场竞品信息。
+2、销售分析:深度分析商品销售进销存，精准识别热销款与滞销款，并深入挖掘其背后的原因，为商品策略提供
+数据支持。
+3、库销比管理:监控并分析库销比、周转率等关键指标，预警库存风险，提出合理的库存优化与清理建议。
+4、补货建议:基于销售趋势和库存情况，进行销售预测，为商品补货、调拨提供精准的数据分析和采购建议。
+5、协同支持:协助完成商品上架、下单配码等日常商品运营工作，并为业务团队提供所需的数据报表与临时性分
+析支持。
+任职要求:
+1、了解店铺平台模式，服饰鞋类优先:
+2、具备商品数据分析2-3年经验;
+3、熟练掌握Excel，能够熟练使用函数、数据透视表等进行数据处理和分析。",https://www.zhipin.com/job_detail/8fca1101c23de03203Z52N-7FFZQ.html,0,0,0,0
+A1_40,A,2026-09-27,BOSS Zhipin,Business Analyst,Business Analyst,Business Analyst,1,"Intertek天祥集团
+",TIC & IP,Guangzhou,Tier 1,20000,30000,20000.0,30000.0,month,25000.0,5-10 years,Bachelor,"工作职责
+·深入梳理样品管理、检测执行、结果审核、报告发布、CAPA、客户投诉与处理等核心流程，识别效率瓶颈与改进
+机会
+-基于业务痛点，结合LLM、Agent、Workflow等技术，设计可行的AI应用方案
+-对接内外部供应商，评估技术可行性与业务价值
+-协调业务、IT及供应商资源，推动A项目从概念验证到业务实施
+-支持系统功能验证及用户测试，确保交付质量。
+-沉淀方法论与最佳实践，向其他站点复制推广
+任职要求
+-本科及以上学历，化学、材料、工业工程、信息管理等相关专业优先
+-5年以上工作经验，具备化学实验室运营、质量管理、信息化建设或Business Analyst背景
+-对实验室核心业务流程有了解，能独立开展需求调研与流程梳理
+-对LLM、AI Agent、Workflow等Al技术有实际应用经验或深度理解
+-优秀的跨部门沟通与供应商对接能力，能推动复杂项目落地
+-具备从业务洞察到方案落地的完整闭环能力
+- 有Dify, Langflow,Flowise, Microsoft Copilot, Azure OpenAl, Power Platform等平台实践经验
+-有从0到1推动业务变革或数字化转型的成功案例",https://www.zhipin.com/job_detail/ccba1c8b96c3d28f0nN52Ni8EltX.html,1,0,0,0
+A1_41,A,2026-09-27,BOSS Zhipin,Business analyst,Business analyst,Business Analyst,1,蓝鲲智创,Internet,Guangzhou,Tier 1,25000,40000,25000.0,40000.0,month,32500.0,3-5 years,Bachelor,"工作职责:
+1、研究行业发展趋势与市场动态，识别业务增长机会与潜在风险;3、主导跨部门协作项目，推动分析成果向业务策略转化;
+2、深入业务，与业务团队协作共创开展相关提升专项，支持战略决策与业务复盘;
+任职资格:
+1、本科及以上学历，经济学/金融等商科专业，优秀的商业和业务思维;
+2、良好的沟通协调能力，能够高效对接业务并推动共识达成;
+3、具备优秀结构化思考能力，能独立完成复杂问题拆解;
+4、自驱力强，结果导向，具备较强的责任心与抗压能力;",https://www.zhipin.com/job_detail/619ba0e58829c4040nJ-2d-0FFRR.html,0,0,0,0
+A1_42,A,2026-09-27,BOSS Zhipin,Business Analysis,Business Analysis,Business Analyst,1,SHEIN,E-commerce,Guangzhou,Tier 1,20000,35000,20000.0,35000.0,month,27500.0,3-5 years,NA,"职位描述
+1、负责品类销售额、成功率等关键指标，协同商品企划制定开发计划、商品规划、价格策略等关键事项
+2、通过数据分析及时识别和定位业务经营的问题和风险点，制定改善建议并推动落地;
+3、持续跟进竞品发展动向，理解整体行业及竟对并找到增长点，分析产品流行趋势和风格;
+4、基于定义出的关键问题，组织并协同跨部门资源，推动方案落地。职位要求
+1、在头部咨询行业、大型互联网公司商业分析岗有3年及以上的工作经验，有时尚商品和电商相关经验优先:
+2、具备较强的信息整合和分析能力，善于从数据中洞察有价值的信息，并能提炼总结出核心洞察;
+3、好奇心强，高度的自驱力和推动力，以解决问题为目的;
+4、成熟的项目管理能力，沟通能力优秀，能够协调各方资源达成目标。",https://www.zhipin.com/job_detail/54a758527f8fdd1303d70ti7EFdT.html,0,0,0,0
+A1_43,A,2026-09-27,BOSS Zhipin,Data Analysis Specialist,Data Analysis Specialist,BI Analyst,1,"麦德龙中国
+",Wholesale/Retail,Guangzhou,Tier 1,4000,6000,4000.0,6000.0,month,5000.0,1-3 years,Junior college,"工作职责
+1.通过数据报表和优化产出的目标跟踪促销和销售情况，并与上级分享。
+2.
+分析营业额、收益、损失、毛利、频率和平均营业额的周报、月报和季报结果，并在需要时作出适当的决策以
+改善现有情况。
+3.
+4.
+向客户经理提供所需的对公业务数据的周报和月报表。
+管理客户状况、是否封锁，更新客户明细。
+根据每周客户经理的拜访计划，提供行政方面的支持。
+收集客户经理在客户需求或潜在需求方面的反馈，并反馈给商场管理团队。
+跟踪总部对部门下达的任务，确保商场及时有效的回复。
+道循流程，确保在限定时间内完成公司各种报表。岗位要求:
+大专以上学历
+较强的数据处理和分析能力
+熟练使用Ofice办公软件
+具有良好沟通能力、谈判技能;有责任心",https://www.zhipin.com/job_detail/5da9ecc8065de3900nN429W5E1tQ.html,0,0,0,0
+A1_44,A,2026-09-27,BOSS Zhipin,Data analyst,Data analyst,Data Analyst,1,"辛选网络信息科技
+",E-commerce,Guangzhou,Tier 1,11000,18000,11000.0,18000.0,month,14500.0,NA,Bachelor,"1、负责直揖电商数据分析工作，建立和完善对应数据指标体系，并从数据中提炼分析结果促进业务提升;
+2、深入理解直播电商及对应供应链的业务逻辑和发展方向，深刻认知直播购物的用户心理;
+3、需要主动通过数据分析发现业务问题，并为业务及决策者提供可落地的策略建议;
+4、协助部门搭建数据产品，提炼数据产品需求，包括KPl、经营、运营、选品、用户等指标需求;
+5、针对不同的业务问题，沉淀总结分析逻辑和方法;任职资格
+1、数学/统计学/计算机等相关专业，本科及以上学历，1年或以上电商或直播行业的数据分析经验;
+2、熟练使用hive、python等数据处理分析工具，扎实的数学基础，熟练享握日常分析方法和算法;
+3、商业嗅觉敏锐、逻辑严密、数据意识强烈，有出色的结构性思维能力和业务理解能力，并能通过分析给业务提
+供能推动落地的措施或方案;
+4、有高度的主动性、责任感和上进心，能独立主导和统筹项目;",https://www.zhipin.com/job_detail/479c6ad9151b49730nJ42Nq1FlBX.html,0,0,0,0
+A1_45,A,2026-09-27,BOSS Zhipin,Data Analysis,Data Analysis,Data Analyst,1,跨越速运集团有限公司,Logistics/Warehousing,Guangzhou,Tier 1,8000,10000,8000.0,10000.0,month,9000.0,1-3 years,Junior college,"一、岗位职责
+1、数据管理:负麦经营数据的收集与整理工作，确保数据准确性、完整性，为后续分析提供可靠基础。
+2、目标跟踪:跟踪经营目标完成进度，及时发现偏差并提出优化建议，推动目标高效达成。
+3、指标监控:负责成本指标的日常监控，确保关键节点按计划推进，保障业务平稳运行。
+4、风险预警:识别经营流程中的潜在风险点，主动提出改进建议，助力业务稳健推进。
+二、任职要求
+1、具备较强的数据分析能力，逻辑清晰，能够从数据中提炼有效信息;
+2、善于沟通协作，具备良好的团队合作意识;
+3、能够适应较快的工作节奏，兼顾质量与效率;
+4、对业务运行具备敏感度，能够提出切实可行的改进建议;
+5、具备较强的独立工作能力，能够稳妥处理各类工作任务。",https://www.zhipin.com/job_detail/765e1b4a25b2edb50nBy2965EVtU.html,0,0,0,0
+A1_46,A,2026-09-27,BOSS Zhipin,Data analyst,Data analyst,Data Science,1,拼多多集团,Internet,Guangzhou,Tier 1,12000,24000,12000.0,24000.0,month,18000.0,NA,Junior college,"岗位职责:
+1、每日体现差异、时效、成本、体验相关数据，能够主动发现问题，根据数据结合现场实际情况，提出解决方案
+汇报给leader，立项，最终闭环。
+2、指出现场存在问题、提出解决方案、联动横向部门形成可落地的改善方案并推动方案落地;
+3、结合现场阶段性目标，制定KPI，有效协助业务&功能部门达到目标值，让公司运营效率和品质质量得到提升。
+效、质量都有改善
+4、以周/月维度汇总数据，承担仓储运营数据统计职麦，通过数据挖掘，掌握运营现状，编写运营问题分析报告，
+给管理层提供决策支持，实现PDCA的闭环。
+5、作业流程优化:根据现场的业务流程、人员特性，制定最优作业SOP，规范现场的操作标准，最终成本、时
+6、标准化制定:根据作业场景，制定对应的可视化操作指引，使现场作业更流畅，各功能板块更清晰
+7、培训赋能:熟悉一线业务流程，提炼业务精髓，给现场一线管理、员工做培训，提升现场产能和质量。
+岗位要求:
+能力要求:
+本科及以上学历，数学、统计、计算机、运筹学、物流管理等相关专业优先;
+1-3年供应链、物流、数据分析或策略岗位经验，有仓配经验者优先。
+数据分析能力强，能熟练使用表格软件，掌握一种数据分析语言(如Python/R);
+熟悉常用算法模型，如K-means、主成分分析(PCA)、回归与多因素分析等;
+有良好的业务理解力，能从数据中提炼业务问题，输出可落地的策略建议;
+具备良好的逻辑思维和沟通协作能力;",https://www.zhipin.com/job_detail/ef859292dd1d2d040nBy3966FFBT.html,0,0,0,0
+A1_47,A,2026-09-27,BOSS Zhipin,Data middle platform analyst,Data middle platform analyst,Business Analyst,1,谷雨护肤品,E-commerce,Guangzhou,Tier 1,14000,20000,14000.0,20000.0,month,17000.0,1-3 years,Bachelor,"岗位职责:
+1.负责抖音、快手、视频号等渠道的引流素材业务数据分析，监控和评估业务健康度;
+2.建立和优化部门数据分析体系，包括报表体系、专题分析体系;负责日常核心数据追踪，搭建分析模型，指标异
+常及时反馈;
+3.专项分析，为部门负责人和业务提供策略分析及业务优化建议，推动业务达成;
+4.跟踪并整理分析行业动向，进行竞品分析，对业务策略及方向提供决策建议。
+任职要求:
+1、本科及以上学历，理工科专业背景;
+2、0~3年工作经验，具备商业分析/经营分析等相关工作经验;
+3、熟练常见数据分析工具(sql/python/r语言)和数据可视化工具(BI/Tableau等)优先;
+4、积极主动、麦任心强，具备良好的沟通能力、学习能力、抗压能力。热爱并有兴趣从事数据分析工作，逐渐胜
+任商业分析/经营分析的相关内容;",https://www.zhipin.com/job_detail/cc6568bc45c5d8090nN539y1E1RX.html,0,1,1,0
+A1_48,A,2026-09-27,BOSS Zhipin,Operation analysis,Operation analysis,Data Analyst,1,炳胜餐饮,Dining,Guangzhou,Tier 1,15000,20000,15000.0,20000.0,month,17500.0,5-10 years,Bachelor,"岗位职责:
+1.根据集团战略规划，制定财务管理规划，推进战略项目落地实施。
+2.建立健全内部控制管理体系，持续优化制度、流程和标准，并组织实施。
+3.推进一体化信息系统建设，实现数据实时采集、处理和分析，提高运营效率和决策水平，
+4.建立健全风险管控体系，加强风险评估和控制活动，确保经营活动合法合规，保障资产安全。
+5.负责搭建经营预算及建模，通过数据分析揭示问题及经营风险，协助制定和实施改善方案，持续为业务提供支持
+与服务。
+6.以集团战略和业务为中心，提供专业分析、挖掘数据价值，助力企业稳步发展。
+7.负责成控及费控项目工作，持续提高公司的经营效益，达成降本增效。
+任职要求:
+1.本科及以上学历，会计、财务管理相关专业，优秀者可适当放宽学历要求;
+2.10年或以上财务管理经验，其中至少5年以上团队管理经验;
+3.具备较强的财务分析、成本费用管控、风险管控、模型搭建的能力和敏锐的洞察力等;
+4.善于沟通表达和团队协作，工作认真细致负责任。",https://www.zhipin.com/job_detail/3f9d631ce2a66b8f0nF93N-_E1tU.html,0,0,0,0
+A1_49,A,2026-09-27,BOSS Zhipin,Senior Operation  Analyst,Senior Operation  Analyst,Business Analyst,1,唯品会,Internet,Guangzhou,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,3-5 years,Bachelor,"岗位职责
+1、结合行业外部动态与公司内部经营结果，周期性复盘公司经营状况，为公司决策和策略提供支持;
+2、搭建完整合理的业务健康度评价与监控体系，主动发现运营异常并快速定位问题;
+3、深度理解业务与策略，对重点细分项目进行深入分析与挖掘，输出可落地的任务和指标，为业务团队提供抓
+手;
+4、追踪、分析、评估重点业务和项目，提出可行性优化建议。
+岗位要求
+1、本科及以上学历，3年以上商业分析工作经验，具有互联网行业分析或财务分析背景者优先;
+价值;
+2、具备优秀的商业分析能力、敏锐的数据洞察力与结构化思维能力，有强烈的好奇心，能从大量数据中发现商业
+3、具备扎实的数据功底，熟练使用 SQL，业务敏感度高，熟悉业务语言和作业方式，能够深入业务一线推动结果落地;
+4、善于沟通，具备良好的书面和口头表达能力，同时拥有较强的自驱力、执行力和责任心，注重长期发展。",https://www.zhipin.com/job_detail/e843a6d18b9f39060nN60968F1NV.html,0,1,0,0
+A1_50,A,2026-09-27,BOSS Zhipin,Senior Operation  Analyst,Senior Operation  Analyst,Business Analyst,1,赵一鸣零食,Wholesale/Retail,Guangzhou,Tier 1,10000,15000,10000.0,15000.0,month,12500.0,5-10 years,Junior college,"工作职责:
+1、商业洞察:承接和回答来自业务部门的经营问题，为经营决策提供数据支撑，更好地赋能与支持前台的部门把握战机与方向;
+的市场测试分析报告，支撑集团管理层相关决策;
+2、市场测试:承接集团前台业务变草或迭代过程中产生的市场测试(商品品类、运营、开发等)需求，输出可靠
+3、商分部门核心报告:优化与迭代经营分析的框架与定期数据仪表盘的产出(日报、周报、月报)，便于管理层
+掌控公司业务的健康度(收入和产品端)。
+岗位要求
+1、专业能力:
+-扎实的数据分析基础，熟练使用SQL进行数据查询与分析;
+-熟悉用户行为分析、转化漏斗分析等常见分析方法;
+具备跨渠道效果评估或归因分析的实践经验，理解多触点对业务结果的影响;
+-对A/B实验设计与分析具备系统性认知，能够解读实验结果并识别其业务意义;
+-具备异常分析与业务波动解释的基本方法论意识;
+2、经验背景:5年以上数据分析、数据洞察或相关工作经验;有互联网、零售、快消品或用户增长相关业务背景者
+优先;有直接支持业务决策或管理层分析汇报的经验。",https://www.zhipin.com/job_detail/0a6e9785670734590nN53925F1BU.html,0,0,0,0
+A1_51,A,2026-09-27,BOSS Zhipin,Operation analyst,Operation analyst,Operations Analyst,1,永辉超市集团,New Retail,Guangzhou,Tier 1,15000,25000,15000.0,25000.0,month,20000.0,3-5 years,Bachelor,"职位描述:
+1、市场与行业分析:深入研究零售市场现状、规模、发展趋势(包括消费者行为、竞争格局等)，进行宏观层画分析
+与预判，识别战略层面的机遇与风险
+2、竞争情报监测:持续跟踪竞争对手的动态、商业模式、新产品信息及市场策略，进行对标分析，撰写竞品分析报
+告
+3、战略建议与落地支持:基于研究成果，提出经营改善建议，帮助业务部门制定战略发展规划，优化发展路径和资
+源配置。参与业务规划，根据市场研究结果提出应对措施或决策建议
+任职资格:
+1、基本画像:本科及以上学历，3年以上行业研究/战略研究经验;具有即时零售/电商/互联网背景优先
+2、工能力:精通Excel;SQL、Python、R等分析建模工掌握可加分
+3、懂业务逻辑:熟悉行业发展，对运营各节点有深刻认知和思考
+能力，能言简意赅传递核心结论及论点论据的支撑
+4、逻辑能力出色，思路严谨绩密，勒于思考，商业及数据敏感度高，具备良好沟通、表达、推进协调和写作输出",https://www.zhipin.com/job_detail/16a45cf47046ba4c0nJ_3Nm_GVNS.html,0,1,1,0
+B1_02,B,2026-09-27,BOSS Zhipin,数据分析实习生,数据分析实习生,Data Science,1,高帆破浪科技,E-commerce,Hangzhou,New Tier 1,12000,18000,12000.0,18000.0,month,15000.0,Fresh graduate/Student,NA,【校招岗位】 | 岗位职责: | 1.数据处理和数据分析:利用各种分析语言(PYTHON/R/SQL)和分析方法，找出数据中存在的趋势和关联。 | 2.数据报告制定:根据客户需求，利用SQL/可视化工具/EXCEL，为客户提供数据报告。 | 3.数据可视化:使用专业工具，将复杂的数据转化为易于理解的图表和其他可视化报表。 | 4.对网站数据进行分析分析，并对结果进行解释，为业务决策提供数据支持。 | 任职要求: | 熟悉基本的数学/统计概念 | 精通Excel、SQL以及至少一种数据分析语言(例如Python、R等 | 熟悉数据查询和数据可视化工具(例如Tableau、Power BI等) | 有良好的逻辑思维和问题解决能力 | 强烈的学习和自我提升意愿 | 追求细节，逻辑分析能力强 | 对数据科学、数据分析及其应用有深厚的理解和热情，创造力和想象力,https://www.zhipin.com/job_detail/ca6c830095684e5903x92dm1ElJY.html?securityId=SKzSgD8GrA8eB-R1kJ7OvYqRPSiWo7xKc65kfcHBVUUvPk5IG5-YKM7NNKHGo6rp9n8Ev0IyTzmRyke_vbnm6Rx1gfyDTn2B13uosF3PZ4iuDJUc37-dhJfibXr0Uj5l9AsRH0xZ93VvjdsRIqegH91AqbH3mGlptwz5v1bDLflesx7riKfbHJyZrfbPVW_dfHYYVfZngG12kmOpjgIcWEcxcsVr59bFGoBLnIAdXA5_sWPUIEuWqb7EFQAM_tmQSSHNNHnDHy2QCYwNN9EWW-eK3yZYxelJ9KgjLGkz7ufKd5F7ixYHcvgjMictkLGk8OrLUI6wkmm4ZHuzZMvueDEdR6LpW00gaPzoNKfY1jLZhOW0ZxITxTIoxeOofm0Dv6cSpBOn7gRGXX9hbeItN-G6XcI7LqoWQNCT&ka=company_more_job_ca6c830095684e5903x92dm1ElJY,0,1,1,1
+B1_04,B,2026-09-27,BOSS Zhipin,安全数据分析师（双休）,安全数据分析师（双休）,Data Analyst,1,辰蓝建设,Real Estate / Construction,Hangzhou,New Tier 1,8000,10000,8000.0,10000.0,month,9000.0,NA,Bachelor,岗位职责: | 1.负责安全相关数据的采集、清洗与分析，识别潜在安全风险2.对安全事件进行数据建模与趋势分析，提供决策支持3.协助完善安全数据分析体系，提升威胁发现能力4.配合安全团队完成数据可视化及报告输出 | 任职要求: | 1.善于沟通、按时完成上级交给的工作: | 2.拥有良好的团队合作精神，能迅速融入团队 | 3.具备良好的学习能力，能够不断改进工作方法,https://www.zhipin.com/job_detail/4f0ac6c7dc18681d0nN_3du8F1dZ.html?securityId=1gpqrOr8yQWqV-R1G_OyS0roxCZUCdKLZfM0s1JpXk-F-DkQAwW5tnOOO-8sZ94IN7SYhWZHK6g4NP6yc6lAyJAf4qjXeEgf6AKAbJo7_ubLspG9GJJ049abNHZ3o4ph9_msgufaHlGLw3jlMa4O8pimJOvSJVRKdDA1ZyNYVVPc0STmeGRO8ThHBVriP_Rq1w3ZYnMRXYfkP_5XEBHmHisaUVOWzeoX7pExi2DFTluP2nWZfjCOEa5qAH8vFAsf6V5zSbIDpZIrgKE30-dsNrtJ7nu7wtmCCjuv0IooZ5Na883nn41ycWFd5PY30rLH7tYt4BvnnXX_iwqA3BF1uzLbVLpElz4gDHHngiWQdz_eQi37nwKZqdvEfIZXOK0xqsDByEsssZXmUD_yvC2tz07EplMFaqbQyxU~&ka=company_more_job_4f0ac6c7dc18681d0nN_3du8F1dZ,0,0,0,0
+B1_05,B,2026-09-27,BOSS Zhipin,电商数据分析师,电商数据分析师,BI Analyst,1,西又,E-commerce,Hangzhou,New Tier 1,14000,20000,14000.0,20000.0,month,17000.0,3-5 years,Bachelor,工作地在义乌，是外派岗位，有外派津贴，看好位置哈~~~ | 公司主要做的是物流包材类目(快递袋编织袋文件袋胶带气泡膜垃圾袋食品袋打包盒餐盒等)，是有自己的生 | 产工厂和仓库基地的，目前是一共50个店铺，淘宝天猫拼多多抖音都有在做 | 工作职责: | 1、统筹公司经营性数据相关工作，制定数据分析计划和目标。 | 2、与业务部门沟通，明确数据分析需求。 | 3、确保数据分析结果准确性和及时性。 | 4、负责公司数据库的搭建、维护和优化。 | 5、从不同来源提取、清洗和整合数据，确保数据质量。 | 6、根据业务需求，进行数据建模和分析。 | 7、为数据可视化提供可靠的数据支持。 | 8、根据数据分析结果，设计并制作数据看板和报表。 | 9、与业务部门沟通，优化数据可视化方案。 | 10、定期更新数据看板，确保数据的时效性和准确性。 | 任职要求: | 1、有一定的业财视角，了解运营、财务和仓库流程，对进销存、成本、利润等维度的数据有一定的理解和涉猎。 | 2、具备较强的沟通协调能力和项目管理能力。 | 3、熟悉钉钉系列软件(取数包、QuickBI)的操作和应用。 | 4、熟练掌握数据库管理技能，包括数据清洗、整合、建模等。 | 5、熟悉至少一种数据库语言(如SQL)。 | 6、了解数据仓库的概念及应用。 | 7、熟练掌握数据可视化工具(如QuickBI等)。 | 8、具备良好的数据解读能力和图表设计能力，能够将复杂的数据分析结果以简洁明了的方式呈现。 | 9、大专及以上学历，2年及以上工作经验，有跨部门统筹和协调经验优先。,https://www.zhipin.com/job_detail/eca3ff8caced566e03R-2ti-EVtY.html?securityId=EU-vt7gIpc-NA-q1ENBbcedTP35Xm3h5MQ5f_ItmcJSRcMxDEAUYafg6y4gfcK4T8aqwfT1W5eYUrpTD0Gy6CAspghCGRrXW7MRn2ILeKRv-iwM8SqBXcbWvqve0mDDB8PrdeuNmwi8BtxVd08e51ZYESFFColiibDQYxwQ-KkETmBlbBFDlE_YVXi7lyQ5O5325ua_KOMlZr_hB0BG5x3LO6RSWNMLW4D14KE3hNhCyy6S9lUwhTsxpfOupWXbSyen_TcqPI0WwNEmzZGQpVKPUJebT-_z-k6iXfp31nmITe3NcReBv4Zh0x59bo0nRzrF_fn35PvtbGtSEsdYECihhmv0GxR9wnaeJSvJdEmV6V9vLPyIVjxomPr-nKRCbK8rXrL6NqYOb6iOCn3kmFaAXQgyTMEL8QPAh&ka=company_more_job_eca3ff8caced566e03R-2ti-EVtY,0,0,0,0
+B1_06,B,2026-09-27,BOSS Zhipin,数据分析实习生(J11223),数据分析实习生(J11223),BI Analyst,1,无端科技,Gaming,Hangzhou,New Tier 1,200,250,200000.0,250000.0,month,225000.0,NA,Bachelor,提供转正机会!! | 岗位概述: | 参与主流游戏产品的数据分析，围绕玩家行为、产品功能和版本内容，开展数据提取、指标监控、专题分析和效果 | 工作职责: | 评估，为产品研发提供数据支持。岗位以执行和产品研发支持为主，在指导下逐步承担更多分析工作。 | 1.根据产品和研发需求，协助梳理产品问题、分析口径和数据需求。 | 2.使用SQL、Excel等工具完成数据提取、整理、汇总和分析，按要求输出结果。 | 3.参与活跃、留存、付费等核心指标的监控和异常排查，分析版本更新和功能调整带来的数据变化。 | 4.在指导下参与专题分析、版本复盘和产品功能效果评估，协助定位数据变化的原因。 | 5.整理分析过程、数据结果和结论，输出分析记录、报告或产品建议。 | 6.与产品和研发团队沟通分析结果，跟进后续反馈和应用情况。 | 任职资格: | 1.研究生在读，统计学、数学、计算机、经济等专业优先。 | 2.较为熟练掌握SQL，能够独立完成多表关联、复杂筛选、聚合分析、子查询和窗口函数等常见分析查询。 | 3.熟悉常用统计知识和数据分析方法，能够应用活跃、留存、漏斗、分群、付费等方法，分析版本或功能效果。 | 4.具备较强的逻辑思维、问题拆解和数据敏感度，能够理解业务需求并形成清晰的分析思路。 | 5.具备较强的学习能力，能够快速理解并掌握新知识和新技能。 | 6.性格开朗，愿意主动与团队沟通，具备良好的表达和文字输出能力，能够清楚说明分析过程、判断依据和结论。 | 7.对游戏产品和玩家行为有较强兴趣，愿意主动理解游戏机制、产品设计与研发过程。 | 加分项 | 8.具备良好的执行力和结果意识，能够复核数据口径和分析结果，并在多项任务并行时合理安排优先级。 | 1.有AI Agent 类软件的实际使用经历，例如WorkBuddy、Codex、Claude Code等; | 3.有数据分析、用户行为分析等相关经验; | 2.热爱游戏，具有较丰富的游戏体验，对游戏玩法、系统和玩家行为有持续关注和思考; | 4.熟悉 Python、 Pandas、Excel 或 Tableau 等工具。,https://www.zhipin.com/job_detail/e124498f7599a7f00nJ62di6GVpR.html?securityId=0Dd3i3okdQKAH-c1RVkm5t-oI4JIjIUOxycSsBcqfRbqmuBc9NWu5MsJ9FPY10uKyNtrZ13iw3_PnOZdypzwvhYx85zZsdF2PqPkCzXpHjHur46qn-sJyiDsOBi2-_J0Yu56pJa63KcJyV8l1y13_ZvX4W8WkTXO8qmp54kViiKuxu3qti6eI9bIUJetAe5LOlfYdlr4RFcgcqGbATUSK0tScK9pFPdd8tSLAt8n0aE2OqaJD9LnLlYlbhncJ8VuwrUD0v_1oehimHmwuk5JIwvuAsrYRE6aCqYwW3oxnTEfr9-MVpOYYMGvoN8geFHs3x3QAtGNXcL9URNkjlyxLjYQXJ8Ge3f42rCvAt0_V5Ao-DAYFN70_K1iw0LqJUXnQQkzebZ9e66Ji9r6n3S4i8-H7bY2K3lD2g~~&ka=company_more_job_e124498f7599a7f00nJ62di6GVpR,1,0,1,1
+B1_07,B,2026-09-27,BOSS Zhipin,结算数据分析师 双休！！ 五险一金！！,结算数据分析师 双休！！ 五险一金！！,Business Analyst,1,海博拓天,Internet,Hangzhou,New Tier 1,5000,6000,5000.0,6000.0,month,5500.0,NA,Junior college,岗位职责: | 1、负责各渠道业务结算数据的日常统计、处理工作; | 2、开发BI报表(销售、成本、利润等)，满足业务分析需求并持续优化; | 3、校验数据BI报表的准确性和完整性，及时发现异常数据并协调资源解决。 | 4、对结算数据进行分析，推动异常流程不断优化，提升结算准确性、时效、以及客户结算服务体验; | 5、对接业务及财务部门，输出专项分析报告，支持决策。 | 任职要求: | 1、财务、会计、数统相关专业全日制大专以上学历; | 2、精通Excel(函数、透视表)，熟练使用SQL及BI 工具(如Power BI/Tableau) | 3、熟悉财务结算流程，具备基础财务知识; | 4、对数据具有一定的敏感性，具备很好的风险意识; | 5、有良好的学习沟通能力，有团队合作意识,https://www.zhipin.com/job_detail/b3333c515a1d7ed20nJ629S_EFFX.html?securityId=WPzcq1BZrZLbC-F1GG61w4c3kuSGPqEBRwYUwZ1tnTu7olf0QJh0zF1ORiE8HbBfkdtBExUBiiSmlJE9k2WS3u9Up_JidDhhtMn95BHjH7i2uPF3OJgWcXd2SRBK5ARPTBMR84EFzfvsZk2_EX6OMua3v4VsVbBW0HMIDSa2bpGnPKKvbWA9e332lt2FRlWmjFMmKGbFScmYOAQsDoKPlJJQpnaCLWq5KGPEQYNVXXZsvYz5ZhrWKZ_eVolTthCIr_yeVEZTqShC849wW_QUJdv75I9cGrtJHtkiS402RtNfQzj4R3KMwUED-_9fyZlhL6F1fyIARhCEW-RhOARCFayTb-4nT5bRC9gry_J7Zum-16Zo53unxEtHmqJ5fbJ9GO0PekX1s0wbpRrtVUu-X_CF4gIkhFvGAjk~&ka=company_more_job_b3333c515a1d7ed20nJ629S_EFFX,0,0,0,0
+B1_08,B,2026-09-27,BOSS Zhipin,小说-数据分析工程师,小说-数据分析工程师,BI Analyst,1,嘉兴九州文化传媒,Internet,Hangzhou,New Tier 1,10000,15000,10000.0,15000.0,month,12500.0,3-5 years,Bachelor,岗位职责: | 负责小说APP全业务数据分析，覆盖用户增长、阅读行为、书籍内容、付费商业化、广告变现、社区、作者生态，输出日常报表、专题分析，支撑业务决策。 | 监控核心业务指标:新增、留存、阅读时长、章节完读率、书籍点击率、付费转化率、ARPU、广告eCPM、社区互动、作者产能，及时发现指标异动并定位根因。 | 开展内容专项分析:书籍质量评估、题材表现分析、爆款书特征拆解，输出选书、采书、内容运营策略建议，辅助内容团队优化书库结构。 | 负责付费&广告商业化分析，分析会员、充值礼包、广告流量变现效果，评估活动收益，定位转化链路损耗，提出优化方向。 | 支撑A/B实验分析，对产品功能、推荐策略、运营活动做实验埋点校验、效果评估，输出实验结论与落地建议。 | 对接数仓团队，梳理业务口径，推动指标、报表、BI看板建设;沉淀分析方法论，输出定期业务复盘报告。 | 联动产品、内容、运营、算法团队，挖掘数据背后业务机会，驱动拉新、留存、付费、内容效率提升。 | 任职要求: | 本科及以上学历，1-3年互联网C端数据分析经验，熟练SQL，掌握Excel，会使用BI工具;具备AB实验分析实战经验。 | 熟悉用户行为、增长、商业化分析思路，能够独立完成专题分析，具备指标异动排查能力。 | 理解数据口径，具备良好业务理解力，能够把业务问题转化为数据分析方案。 | 逻辑清晰，善于沟通，可向业务方清晰输出分析结论与可落地建议。 | 加分项 | 有网文/小说/阅读APP数据分析经验，了解完读率、书籍评估、网文商业化逻辑优先; | 了解Hive、Spark，有基础数仓理解;掌握Python做数据分析; | 熟悉内容社区、广告变现、作者结算相关业务;深度网文爱好者优先。,https://www.zhipin.com/job_detail/00887d03d834dae60nN439y_F1VT.html?securityId=uk5l7Ekv13_o0-T1jlVrB-2M0I8dJzM8BqapwWoXu5OI8mjUrj7NC4cwOW--zjV-2kXyUNhdH4VfDSBItWeQ6E9XBe_VmkpMRJb7hpttCit1Yj53NURJI16HYg4Sns7yL1b1VvUcYCWJXbadQwZGVg-OesEfu1SC_jAQOaDOwgkFvhUNEE1ZAzWx0I2CGy7XhPQO7zuFH5B83lFph7tmkYdELDKh9J38NXj1hd-IjHZ1lcS31X9nzHyLt57NMGu4IvOipez5YIFXNq2gX0bvR8HidwyBs2Ol52bUcdzQEhRYTBC6_wMyola88xfAxNn5WAgLnz66yUo9fManxHJ1Go2O0fpMWwvoKMYVSEC3Ntfbx6XgMniU_HPiu5PAE8oAzhKHMamZqEd0w4dBpc2xIJW_TdZl-tnGpNLO&ka=company_more_job_00887d03d834dae60nN439y_F1VT,0,0,0,0
+B1_09,B,2026-09-27,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,杭州栋溪颜选,E-commerce,Hangzhou,New Tier 1,8000,12000,8000.0,12000.0,month,10000.0,NA,Bachelor,"岗位职责: | 1.负责电商平台的数据收集、整理与分析，为业务决策提供数据支持; | 2.深入挖掘数据背后的商业价值和用户行为模式，提出优化建议; | 3.监控关键业务指标，及时发现并预警潜在问题，协助制定应对策略; | 4.与产品和运营团队紧密合作，推动数据驱动的产品迭代和营销活动。 | 任职要求: | 1.精通数据分析工具和方法，具备较强的数据敏感性和逻辑思维能力; | 2.良好的沟通表达能力，能够将复杂的数据分析结果转化为易于理解的业务洞察; | 3.具备较强的跨部门协作能力; | 4.对电商行业有深入了解，有相关数据分析经验者优先。 | 岗位福利: | 1.工作时间:9:00-18:00,周末双休; | 2.薪酬待遇:基本工资+绩效工资+补贴，另外设有项目奖金; | 3.福利待遇:五险一金、年假、国家法定节假日和各类关怀假期、不定期团建。 | 4.每年两次调薪机会。 | 优秀者薪资可谈。",https://www.zhipin.com/job_detail/d72d6ab99ca2fe960nR93Nq-FVFU.html?securityId=RzwTGDMnNpV0e-Y1Ud67SHium6jAFDzsRMM5EauYyVAUIxYrNlSxdvsStRUnflUysosSny_RyQFinxoSBwcVKdAjyc2zY_5beoiIuW4p7tQZ8ngSekk81AJnvxLFb2ecaeqkGRaauX1-BKm_XVHiaqYMB_oMMNF79SJwvgWUm_M__6foDc4ZaO5BmLK_JpGZrgUkbT_4YLx8GiF0dp5DTAKuZWe6FhuxvmXGnk1Ojh-bjjVtnZukLgkVBOJQE-SSHRjny6ah931P2KgI_bh43X3vCK11gc5wUyz6ZUiISfHEDsf8wS8uMkfUIayjvur81xg0wkhJunBYq97sxnAXnX3tOr-OYhjz-edJT0poCP8ZjCFiuE1pKM3gWVDAO3nBAZBegGbWbgof-k4mB6nn6fVYxrBV9xGsKMBo&ka=company_more_job_d72d6ab99ca2fe960nR93Nq-FVFU,0,0,0,0
+B1_10,B,2026-09-27,BOSS Zhipin,AI数据分析师（评测）,AI数据分析师（评测）,Business Analyst,1,润和软件,Computer software,Hangzhou,New Tier 1,11000,19000,11000.0,19000.0,month,15000.0,3-5 years,Bachelor,岗位职责 | 1.数据分析任务设计审核判断Al任务是否符合真实数据分析与商业智能工作场景，要求是否清晰、完整、专业合理，所提供的数据集描述、业务背景、分析目标、指标定义等信息是否足以支持任务完成，识别其中存在的统计逻辑错误、指标口径歧义、数据质量问题、信息缺失或不可执行问题。2.AI产出质量审核检查AI生成的数据分析报告、SQL查询、数据可视化、统计建模方案、业务洞察结论等成果，判断其是否完整满足任务要求，数据计算、指标推导、统计方法选用、因果推断和结论表述是否准确，最终成果是否符合数据分析专业规范并具备可用性。3.AI执行过程审核结合AI完成任务时的执行记录，判断其是否正确理解数据分析任务意图，是否采用合理的分析方法和流程，是否遗漏关键分析步骤(如数据清洗验证、异常值处理、样本偏差检查、多重比较校正、结果稳健性检验等)，是否完成必要的数据验证和结果复核。 | 4.评价标准审核检查用于评价AI数据分析表现的评分标准(Rubric)是否完整、清晰且可执行，是否覆盖数据准确性、方法合理性、结论可靠性、业务可操作性等关键维度，是否存在遗漏、重复或权重不合理等问题。 | 5.问题标注与修改建议对发现的数据分析专业问题进行准确归类(口径误用、统计谬误、因果倒置、选择性偏差、可视化误导等)，说明具体判断依据，并提出清晰、可执行的修改建议，帮助提升任务、成果及评价标准的整体质量。6.典型场景沉淀从高质量数据分析任务中总结真实用户需求、典型分析场景(业务指标异动分析、用户行为分析、AB测试设计、经营数据报告、数据建模与预测等)、常见任务模式及评价思路，为后续高质量任务建设和Al产品能力优化提供专业支持。 | 任职要求 | 1.学历要求:本科及以上学历，统计学、数据科学、应用数学、经济学、计算机科学与技术等相关专业。 | 2.工作经验:3年以上数据分析、商业智能或数据科学相关行业工作经验，有业务指标分析、SQL数据提取、统计建模、数据可视化等实务经验，熟悉所在领域的实际工作流程、分析规范和常见交付物。 | 3.评判能力:能识别所考察的任务是否为真实数据分析场景需要的，能分辨真实需求题目和为测试而测试的题目;能理解并严格执行Rubric评分标准，遇到Rubric未覆盖的边界情况能准确记录并反馈，具备较强的统计推理、 | 数据核验、问题定位和书面表达能力。 | 4.协作沟通:有双标校验、分歧仲裁的协作经验，能清晰表述评分依据，说服或接受他人的合理异议，能针对问 | 题提出具体、可执行的修改建议。 | 5.技术能力:熟悉Agent工具调用模式，能读懂执行日志和代码片段，判断操作是否冗余;熟练掌握SQL及至少一 | 种数据分析语言(如Python、R)，能够阅读较长、较复杂的中英文数据材料(含统计方法论文、业务分析报告、 | 数据治理规范等)，熟练使用常见数据分析工具及文件格式。 | 优先条件 | 有AI1+数据分析领域的行业经验，具备数据专业评审、分析质量审计、内容审核、质量验收、Al模型评测或数据标注经验者优先。有大型互联网公司数据团队、知名咨询公司数据分析部门或数据科学研究工作经验者优先。,https://www.zhipin.com/job_detail/cab1fe6860c005810nNy2dy4E1RZ.html?securityId=GxYW01TFpIWU7-r1t32W-GDYla06A17miuAwXWJFi5p254HH9VygXRWZwtEH_UTY9k1RODUf-EWGBRZsREJP21fi8FsTkwqMxpe-JD8hSrL2IJlTaLfpfO0H9zrl-9Y87QF3RR_eeLrTbp0n3nyjZXyWk6kP7XVdTBezvMKcEfVdph9q46PHpPwYzG14xqN2vxIwZLuN4XR2M81D4U2D-ps3EwZLtry8Vm1q4uK8uxq-SCnT-b1CMGzvr_SVDNIPTqRVYdIU0-pT9NSXtEEQhq1kAtjG8Q-IjJL0JjbHDHD9r6IzFcsN3Q3Dd4Id3uN8XhC_821mY_C3psrlNwNjczJj91kXrZn7LrQA5SrjZxoplLhnD9k2PZSj5ylWE-Kxo1Elf_t4lqW766wQnu0H9zj9XuGmZI6Mq1fV&ka=company_more_job_cab1fe6860c005810nNy2dy4E1RZ,1,0,0,0
+B1_11,B,2026-09-27,BOSS Zhipin,数据分析师-AI数据标注与评测专家,数据分析师-AI数据标注与评测专家,Data Analyst,1,卓越际联科技有限公司,Computer software,Hangzhou,New Tier 1,11000,22000,11000.0,22000.0,month,16500.0,3-5 years,Master,同上（这HR偷懒）,https://www.zhipin.com/job_detail/0eea06f3c256bda80nNy2t25EVpR.html?ka=company_more_job_0eea06f3c256bda80nNy2t25EVpR,0,0,0,0
+B1_12,B,2026-09-27,BOSS Zhipin,数据分析实习,数据分析实习,Data Analyst,1,极氪智能科技 ,Smart Hardware,Hangzhou,New Tier 1,150,200,150000.0,200000.0,month,175000.0,NA,Bachelor,"职位要求: | 1、对业务数据进行多维度分析，根据数据结果给予业务部门运营优化建议; | 2、负责日度/月度/季度常规报告，针对KPI指标趋势变动做归因分析 | 3、追踪复盘:线索追踪、项目追踪，并对相关数据进行复盘，通过挖掘数据的内在关系，发现销售运营中的问题，并推动问题的解决,协助体系搭建。 | 4、与业务部门保持密切沟通，了解他们的数据需求，提供定制化的数据分析解决方案，支持业务部门的日常工作和项目推进。 | 5、善于数据分析，用数据驱动业务发展，善于发掘增长点提升改进或者创新方案，为指标负责。 | 任职要求: | 1、实习期3-6个月，每周工作5天;有新能源车企实习经验 | 2、专业为统计学、数据、经济学或其他相关方向优先 | 3、优秀的学习能力、逻辑思维能力和独立思考能力，善于解决问题; | 4、优秀的团队协作与跨部门沟通能力，工作细致，条理性强;有之前的ppt作品可供参考; | 5、会使用excel表格进行数据处理分析，需掌握基础公式:VLOOKUP，IF;会熟练使用ppt进行课程制作和美化, | 6.具有较强的抗压能力，积极应对挑战，适应快节奏、结果导向、不断变化的工作环境",https://www.zhipin.com/job_detail/53b580056a02657a0nN429W-GVFQ.html?securityId=ncQtpKSF8psaK-t1CZcTjeYthyMcEfKCh04lAkDQOs1GECQMs2bTMlUETGAtSIicRN6gHI2dvQ7T-2SGVx7raoMdbSLt3sUX35HZ0ErnNvIdbPL9Faq88obGDKGwJoVxBb9Tn_2rpT4lWR2mBhhOUBhW4-wInt_7d8xsYHL66UdenQJAN1Rd6d4PtxYZA3bZgVzCNPEVwHmWnykLr1HjscD6hZE9ZZHIke8anrdqEhCQ7ywuXZZH5Ko8dLVuQr09CYXUrzmy6iVU758tvN_LXwPoMLsAspUHS7Pi3-6___tgc-gq4wvDm4IPVHGm7WOyVGxUi2B_LFuZSY8k5NBY7OvFyHWKYFaSNSiEfE88ylnun3QZhEh_3eRIOs1tpJ61r1-S_QsLrw3Mmw2dAMdlLCu9-y7rGsg4Cyl-&ka=company_more_job_53b580056a02657a0nN429W-GVFQ,0,0,0,0
+B1_13,B,2026-09-27,BOSS Zhipin,物流数据分析专员,物流数据分析专员,Data Analyst,1,一诺教育,Internet,Hangzhou,New Tier 1,5000,6000,5000.0,6000.0,month,5500.0,1-3 years,Bachelor,职位描述: | 1、负责物流风险处置，及相关问题分析答疑 | 2、分析监管查扣风险，定期输出分析报告 | 3、日常监控风险水位，为风险决策提供支持,https://www.zhipin.com/job_detail/944825258759df7c0nN52dW0E1BU.html?securityId=4HOtJO5jSrRwx-i1qD18QYZOaHyiMkVmVlBRQDyHNP2v8sm3Am4okQKc5o86bWZxdcLHRy99xG4qEJG-5pPfD8YUk2AxcrqgQGb07UDarFRHxVp3z4z43JN51n7Sljl3DKcbKo_ZHjDgly8u9HwX-vZJdSfsOPy7lOK63nfX0kopPkfCDDH2jWr9w76QTggUePWDP2rDR9q2fsuNUFJJLCxpT-npj1BinX2giY3vE_q64ZHYYQmlT-eDblsRzWqddGRG7uyajDnqeNePr6ecDGTluYhjLysXtNz-cUVkqz6zy89UL11NpdYtEmGaVsEaBMHegvqnaytSt1X-C0TbPWxWngpq4xbfTCECsY3k-46pEVIQQlVndCz9Lw4IiNV8Ty2Rs4tiF80dxBbKqxsfzZFTzbFRfumqPkg0&ka=company_more_job_944825258759df7c0nN52dW0E1BU,0,0,0,0
+B1_14,B,2026-09-27,BOSS Zhipin,数据分析师,数据分析师,BI Analyst,1,大有智安(杭州),Internet,Hangzhou,New Tier 1,8000,10000,8000.0,10000.0,month,9000.0,3-5 years,Bachelor,岗位职责: | 1.负责项目数据的清洗、分析、整理工作。 | 4.撰写数据分析报告，提供数据支撑。5.对链上数据进行分析研判，并输出分析报告。 | 2.运用SQL、Python等工具进行数据提取、统计分析及特征挖掘。 | 3.制作数据可视化报表(桑基图、趋势图等)，协助资金链路分析。 | 任职要求: | 1.中共党员或入党积极分子优先，政治立场坚定，家庭关系清晰，无境外敏感关联。 | 2.能接受项目期间出差及保密工作纪律，工作认真细心、责任心强、为人正直。 | 3.熟练使用Excel(数据透视表、函数);熟悉MySQL，能编写SQL进行多表查询。 | 4.熟悉Python数据分析生态(Pandas、NumPy)，有Plotly等可视化库使用经验者优先。 | 5.了解Power Bl或Tableau等BI工具，能够制作桑基图等高级图表。 | 6.具备良好的逻辑思维能力，掌握常用数据分析方法。 | 7.具有良好的团队协作精神和书面表达能力，能清晰地阐述数据结论。 | 8.有数据清洗、分析、可视化项目经验者优先考虑。 | 岗位福利:周末双休、法定节假日、五险一金、话费补贴、餐费、交通补贴、年终奖金等,https://www.zhipin.com/job_detail/fc975320a665f3cf0ndy2tu6EFBX.html?securityId=nJSy1jb4_okK0-E1QOlE1u-yZq8Kzja1ez_UCqHLD4CBP_npv_iNRLHv8p1rbRnAMYg0QUNzblb0IzRnv2VYAZm-FXGmtCq2CfNEogphWxY7J7zj8mVWfKs5wypcgf9al3n9ETero4_O3iqckV92pqZKRCkJ0XaVt-oYXtwiY_vBUiDDj1ac4GcZEHtRLXEidJCu_GyjTK0raBDOfj-ZBdMIJG2fwpmPb2FdfcOLdQtGW8t7USuRfg9Aie0dGJNiNesvBWPEk6ldOeso12LQNDPTUduUK1_DE3NhLWV2cRDIepl4xkehjVyL7Cl_4TB7qEAGI9UW7ygbVFG69_cb-2tK0j2k4TO_3LAkg9tv85ozxBzfT5F9eBVo7EJjJS0qgMgK55ug_JYg647u-QM7RhuLGxykhOSgkpAt&ka=company_more_job_fc975320a665f3cf0ndy2tu6EFBX,0,0,0,0
+B1_15,B,2026-09-27,BOSS Zhipin,BI数据分析实习生-双休(J11718),BI数据分析实习生-双休(J11718),BI Analyst,1,网营科技,E-commerce,Hangzhou,New Tier 1,150,160,150000.0,160000.0,month,155000.0,NA,Bachelor,工作职责: | 1、负责电商行业数据库开发、数据报表开发、数据分析等开发工作; | 2、负责ai智能问数产品训练及测试: | 任职资格: | 1.计算机相关专业本科及以上学历，27届应届生，具有较强的学习能力; | 2. 会excel powerquery、 Python; | 3.熟悉常用数据库如:Mysql | 4.对于ai应用有了解;,https://www.zhipin.com/job_detail/381459e8cdea98cb0nN83dy-F1RW.html?securityId=hHv8ie_OEYa7t-_1h3gu791T8LAhNhcHMCpyytFbF0PNjpCbt0PT6UQSRxUKiin7ZAajygHMFkCSlg4vvqm0PSmemYlrMPS7gQq6iogXCma4V9MN2jVFX1RWTMb8PejIsZrFbXDK929SJTYyNoaVrRifqZHxSUH7rTtZlGeERRomkT4kXeUPZeZjeln4GwUnEBiu7vCAwEDW5f9ImAN4pOLkkbdZvBNRa7FEieiku0VAdMYmmySVkAj0iDw0dyclNZj92xYzJ0JACFv2gpbpysqbHwtg5fa7GIQs15zWlycQsXd19cYA85g_C3hpwQQRqjrKW7cXsUOGuyhAEnqaKzJvgE1Xt9xsLNz9zaS7lXijXeuLbvnrrOIZ33-zfbOWZfaUVepltM9SJpk3-Y25-h9bwyZ2p4YnNA~~&ka=company_more_job_381459e8cdea98cb0nN83dy-F1RW,1,0,1,0
+B1_16,B,2026-09-27,BOSS Zhipin,Sr. Business Analyst （商业分析师）,Sr. Business Analyst （商业分析师）,Business Analyst,1,上海远见众致管理咨询,Consulting,Chengdu,New Tier 1,12000,20000,12000.0,20000.0,month,16000.0,1-3 years,Master,【职位描述】执行，保障项目落地效果。析与交付任务。案，确保高质量完成项目交付。 | 1、对接客户梳理业务痛点，精准定位核心问题并拆解分析议题，制定可落地的解决方案，全程跟进推动方案落地 | 2、运用定性、定量分析方法及各类实操工具，结合本土商业场景推进项目模块工作，协同内外部团队高效完成分 | 3、与客户沟通对接，及时同步项目进度、反馈问题，参与项目各阶段客户汇报，根据客户需求快速迭代优化方,https://www.zhipin.com/job_detail/665422d2de8194190nZ80tm7EFJY.html?securityId=M0vzRQS7JInIh-Y1FEG3xIOMdy4kpDbTGaL88eplXeXMa9riLjlsMSMThk2PYfuvkdij880rsXXlDIVHcdOJ3Z-j-6d3_n4uE__Mx2-XhZkFlmCMRwe8yjKcgtOxG99x4usWLaeFhYJtctRAB0qiBfzsUcW88A2CLVxdLH3q7-tCBvtBUObMOEV7TfrQRAdoS9demmLuKptem-CO9VccdRT825Fb0ONZ0PAUC7lhU0-7RADZErBKtBwPrPCYZG1rIELd8Ru_KIT19zi7-_yhhFribwPB-Ltumdl0Lbxyw5NgFmuCikue6MbohGymvhDK2HtPVQ-kottddUlIZ8JzGkxnHxAxNtSr27WdE0S1zxUevd1jATsYFkNXlYuAcShZ0nUPToVsMg1FfJE6zk7kIzcEmKWxbv_TLps8&ka=company_more_job_665422d2de8194190nZ80tm7EFJY,0,0,0,0
+B1_17,B,2026-09-27,BOSS Zhipin,快手正编商业化广告审核团队模型运营6险1金,快手正编商业化广告审核团队模型运营6险1金,Data Analyst,1,快手,Internet,Chengdu,New Tier 1,7000,10000,7000.0,10000.0,month,8500.0,3-5 years,Bachelor,岗位职责: | 1.广告审核相关大模型的运营与迭代: | a.负责广告审核大模型的日常运营、效果监控与持续优化，基于大模型能力，匹配风险治理场景，制定大模型应用策略，尝试通过自动化workfow、agen等方式解决业务风险问题，或通过模型微调的方式，提升大模型结果的精确度，满足风险治理需求: | 提升: | b.基于广告审核业务痛点，定位模型badcase、误伤/漏放问题，输出优化方向与运营策略，推动模型迭代与效果 | c.结合业务需求，推动算法完成模型训练需求，并统筹模型数据清洗、标注及质检，保证模型的应用效果。 | 指标监控与风险管理: | a.建立大模型指标监控体系，包括准确率、召回率、精确率率等核心指标。主导模型上线前的灰度测试与AB测试，以及上线后的模型效果数据跟进，制定严格的模型准入准出标准，确保模型迭代不带来安全风险敬口; | b.负责对广告审核大模型的合规性把控，识别运营过程中的潜在风险，建立风险预艺、拦截、回溯机制，杜绝运营过程中产生的业务风险。 | 3.流程与工具优化: | a.基于业务治理需求，协调各方资源，推动运营工具/平台的功能迭代与更新，提升运营效率; | b.沉淀广告审核大模型运营方法论、sop与最佳实践经验 | 岗位要求: | 1.本科及以上学历，具备数据分析能力及项目管理能力;场景治理，深入理解AIAqent原理，能够灵活应用大模型工具解决业务问题; | 2.熟练掌握模型技术，具备出色的PE经验，能够独立设计并优化复杂的prompt策略形成工作流，以应对不同的风险执行: | 3.有较强的逻辑思维能力，能通过数据分析挖掘风险问题、制定解决方案、探寻优化空间，并协同國队共同落地 | 4.具备较强的学习能力、执行能力、沟通协作能力与自主思考能力，能够适应快节奏的工作环境; | 5.具备代码编程能力，掌握编程语言(如:Python/Java)者优先:综合工时，周末双休，季度工时，早10晚7，中午休息1个小时 | 6.3年以上互联网风控相关工作经验，有商业化内容安全相关的模型运营工作经验者优先。 | 画像:第一类:竞对复合型候选人一具备审核业务理解、机审策略经验、产品/平台化能力和AI/大模型相关认知 | 学习能力 | 第二类:Al+产品/平台型候选人一有Al产品、大模型产品、策略产品、平台产品或流程产品相关经验，重点关注 | 截率等指标 | 第三类:审核背景+机审策略经验一熟悉人审与机审协同机制，理解审核链路中的召回、误杀、漏放、通过率、拦 | 第四类:PE执行型。质检QA转PE的，专业知识不OK，内部做基础运营的可以 | 模型运营+策略思维，综合能力:什么样贴近(产品或产运，A产品的，搭建过agent、横向视角去看业务全链路的),https://www.zhipin.com/job_detail/d445605882023f580nN50tS_EVtZ.html?securityId=QV7b2WIzsHihB-X1AaxcgaQLQei94LF4C7OBD6urj85Eu_Pu55UZoiBojP9lWOBYKqYclfQc1RHbjgIj4BKrqoboJm1pwyNSx_kPaRy4-she6fQ5ZqAMTKzIogpsHm8oCxf6QrtoZsg0-7ip9SbGew_eYmUDlzZmon02bueq4iOLK_zddlYEyebMC1GoNJP_oc3NSXztgywFenxLzrn2NXrwJUi793wY06X7wqzurrYSJQHDHSonDbQHOBKCeVopUAca0sCuokVnMXsX5rHeKS8LIsMp1V4f6ub583Yau1LeLJK5TcODNcA1rkELTNxuvzW4alAZ4YQN1Xu2PQVF5mnqdUIi9t6EARxTl2S0s-p0zbY540OlsSrMnInQpgXhbITs1lzInQcfovrWyszhaN-Edx3iPQ~~&ka=company_more_job_d445605882023f580nN50tS_EVtZ,1,0,1,0
+B1_19,B,2026-09-27,BOSS Zhipin,数据分析师,数据分析师,Operations Analyst,1,成都知遇之姻信息科技,Internet,Chengdu,New Tier 1,5000,8000,5000.0,8000.0,month,6500.0,NA,High school or below,数据运营双休岗 | 你的工作将是管理平台分析数据处理订单场内办公无需外出通过线上平台进行指定产品的进出单预售和预购 | 1:对平台运营有浓厚兴趣 | 2:会基础电脑操作 | 3:擅长数据分析善于发现问题和解决问题 | 4:善于沟通热爱团队工作 | 5:有反向思维敢于尝试新事物 | 6具有较强的组织协调力统筹力执行力 | 薪资福利待遇: | 无责4800+200+全勤+提成+奖金，周末双休节假日正常放假,https://www.zhipin.com/web/geek/jobs?city=101270100&query=%E5%95%86%E4%B8%9A%E5%88%86%E6%9E%90,0,0,0,0
+B1_22,B,2026-09-27,BOSS Zhipin,数据分析实习生（成都）,数据分析实习生（成都）,Data Analyst,1,麦可思数据科技,Internet,Chengdu,New Tier 1,180,220,180000.0,220000.0,month,200000.0,NA,Bachelor,【职位职责】 | 1.协助数据分析团队收集、整合和清洗数据; | 2.使用统计工具进行初步的数据分析; | 3.参与高等教育领域的市场研究、需求调研和数据采集; | 4.在团队的指导下，完成特定的数据分析项目，输出分析报告; | 5.协助团队进行数据分析产品的测试和优化; | 6.参与团队会议，提供自己的观点和建议。 | 【职位要求】 | 1.本科及以上学历，统计学、数学、经济学、社会学、教育研究等相关专业; | 2.对数据分析有浓厚的兴趣，愿意在这一领域深入发展; | 3.熟悉掌握Python; | 4.良好的沟通和团队合作能力，对数据具有敏感性、注重细节; | 5.对高等教育领域有基本的了解; | 6.一周实习4天及以上，实习周期最短3个月。 | 【公司背景]我们是一家专注于高等教育大数据领域的咨询服务公司，我们拥有: | 1.行业领军地位:成立于2006年，是产业开拓者和领跑者，已深耕高等教育20年; | 2.超半数的市场占有率:服务了北大、浙大、复旦等超过1600所院校，拥有超60%的市场占有率; | 3.权威和公信力的官方认定:中国科协、人社部、司法部、世界经济合作与发展组织等机构的研究合作单位，并是北大、北师大、清华等高校的产学研基地;就业蓝皮书数据及《中国-世界高等教育趋势报告》核心议题得到了权威媒体的广泛报道; | 4.数据改变教育，我们的工作价值体现是推动中国高教发展。 | 【团队介绍】 | 在这里，我们相信数据不仅是冰冷的数字，更是赋能高等教育管理与决策的力量。作为公司核心团队之一，数据分析部承担着数据建模、深度分析与产品优化的重要使命。 | 我们是一群年轻、富有好奇心的伙伴: | 1开放分享:每一次交流，都是思想的碰撞;每一个声音，都值得被倾听。 | 2协作共进:我们追求专业与高效，更注重彼此支持，让工作成为成长与收获的过程。 | 3持续学习:无论是行业前沿讲座，还是团队内部分享，学习对我们来说从不是任务，而是一种习惯。 | 4共同愿景:将复杂的数据转化为清晰的洞察，为客户的精准决策提供有力支持。 | 如果你希望在一个积极进取、自由探索的环境中，与志同道合的伙伴携手解决真实问题，欢迎加入我们，让数据真正改变教育! | 【我们为您提供】 | 1.快速成长平台: | 在高等教育+AI的前沿舞台，参与从数据建模到智能分析与诊断的核心项目设计。真实业务场景锤炼，让你快速提 | 升AI应用能力，积累独特的行业经验。 | 2.清晰的发展机会:步成长为具备AI时代核心竞争力的专业人才。 | 在顶尖大学的真实业务场景中，你将通过项目实践与系统培养，锻炼数据驱动的决策力、协作力和系统化思维，逐 | 3.多样的福利关怀: | 1办公室下午茶&不定期加餐，活力满满2部门聚餐、主题活动，轻松有趣的团队氛围,https://www.zhipin.com/job_detail/4bf50c136489ec671Hd-2t2_EVVV.html?securityId=FCDg4GKsZKmV0-g1sqmnKjI6hFiYlnF2XgBJGFA_HU9ws2alKEiUZ3jE1QGHeAuYrDlkyKNyi38yaQIOfNr-8Uj4VcCbYUwn-ilD4nN7ANbrWWj0lNusDXGdw-Wt6ghLivSotbiqm-W1DjNV90j2XChhdWEKU1sPFrgl9-i7Mlwym0FGP5cDkgVoKXFXMZjjL-WSMdY3kSadMPcvco-fC8roX7C2vs6FB_qP-B-Ex4GJk8z6qrj1-6mk1pt2y8XjZGJTZFLnOsml0lfU2BrljTnnG3g2SSj18JClldH-pazPwHlCS0_yhtI8T3KsVV1XePQIXmfyfGCFbTVUXE6aHIKofN186fYG7rqQzoSeMOCslZ1iaJY_YgU-CQ-kJYVTprp5srt-nt3AmIxpX3OTijMBdqnz_u42tn3o&ka=company_more_job_4bf50c136489ec671Hd-2t2_EVVV,0,0,0,0
+B1_23,B,2026-09-27,BOSS Zhipin,数据分析师/数据BP,数据分析师/数据BP,Business Analyst,1,茶百道,Dining,Chengdu,New Tier 1,8000,13000,8000.0,13000.0,month,10500.0,5-10 years,Junior college,"工作职责:与增长逻辑; | 1、以“数据BP""的角色，全面融入业务团队，参与关键业务规划、目标制定与复盘会议，深入理解业务流程、痛点 | 2、通过系统性数据分析与建模，主动识别业务增长机会、风险点与效率优化空间，提供数据驱动的策略建议、可行性方案及量化效果预估，输出具有可操作性的洞察报告，推动数据与业务策略紧密对接; | 3、负责构建与优化业务线数据指标体系，确保数据体系能够精准反映业务健康度;准确触达业务决策层; | 4、主导数据看板、自动化报表及分析工具的开发与迭代，提升数据可视化与自助分析效率，实现关键数据实时、动业务优化; | 5、主导或参与跨部门数据分析项目，协同多方资源，输出结构化分析结论，推动分析建议落地实施，实现数据驱 | 6、持续跟踪行业动态与竞争情报，结合内外部数据与行业认知，输出具有前瞻性的竞品分析与市场洞察，助力业务创新与战略发展。 | 任职资格: | 1、专业不限,数学、统计学、计算机、信息技术等相关专业优先; | 2、熟练使用SQL、Python、Excel函数、BI等工具(这些是基础能力,工作会在此基础上开展); | 3、5年以上连锁零售/茶饮行业运营、经营管理、商业分析或战略咨询经验，其中至少2年直接参与过跨部门决策协调。 | 4、较强的业务理解能力，数据分析能力，沟通能力，团队协作能力; | 5、具有较强的学习能力和数据分析技能，能够运用创新且可落地他的分析方法以解决业务问题。",https://www.zhipin.com/job_detail/66d04be6dfef7fb80ndy09S8GVpX.html?securityId=8sKS7pT2qqMkK-m1rWlXZJ9BUojsePzZXeFGHNv-VLjzZCDS8vM1USUbRsVAkV0nFpG5CCpiehc4YXvCF67zTI7NcqnWJtwSaWkuEW67-iwdrpgTz7fgKyQuPHrYyBC0ZivFoyWUezvoYtiWOC25cWmZ1-OSQrNHX8IT9GxF5cTtiPj4vpnMX8iFcVJehLUptTB-5-8iNUeB4grgVbBNiK5WjN6Clr1gc4AI525m96_6F4oYrDjaSffuW2ZCvQXU6fIcdh7k8f1yrvct28-MWLB1_vbPvbGsZ5stN2L1ZLu-iBiW_csHurtJC05ZzrS8FgKgeIHwKtmXH3l4lAVjkIbSUGq2hP-mMTVXMZPabpBcIwTmdiQmEuIvGKu-zlmlsBuhcLt5IkWU4-j6cos3GydG4mjNpvgdXg~~&ka=company_more_job_66d04be6dfef7fb80ndy09S8GVpX,0,0,1,0
+B1_28,B,2026-09-27,BOSS Zhipin,大数据分析师,大数据分析师,Data Analyst,1,河南车柿供应链,Logistics/Warehousing,Chengdu,New Tier 1,7000,10000,7000.0,10000.0,month,8500.0,1-3 years,Bachelor,工作内容 | 1、负责汽车销售数据的统计与分析，为业务决策提供支持 | 2、维护CRM系统中的客户信息，确保数据的准确性和时效性 | 3、协助团队完成销售目标，提升服务质量和客户满意度 | 任职要求: | 1、具备出色的数据分析能力，会函数，能够有效处理销售数据 | 2、沟通能力强，能够与客户建立稳定的合作关系 | 3、具有良好的服务意识，能够在团队中发挥协作精神 | 4、需有汽车行业销售数据分析工作经验，无经验勿投，感谢配合! | 薪资待遇:7k+早9晚6,https://www.zhipin.com/job_detail/ccf7331f562b3ef30nF-2Nu_ElpQ.html?securityId=yuYc2kbN6EJU_-D1Nj6WL0Jo4gOlM_sqkyrYmTzkQeOBYhJmMBqfCZYJRLE0aDR2k0oIF3MeunrX2qXJfRXXXvlD3CjIudQWWAukV45SrhntXbyS9HD3mb9WjkJL1WpmQK8WDVam3Su3cl2XbiIahHiBdyeIBN8mEmiW3uiC8uCW9RBzvjp2h1IWu_syWGi-nn3vJ0MudG8bZepC7KDzI2CNKfJrS107VZkP251_kBYUhwFsiHIMcC4-INKmEXYjURVoyHUlq0qJ00Eb1eqqDWRmVjehLGrkZpRArd2pNKzsAqe90yhdKyFoorMCFol49CvLNRyyWwXEHaby5fVSRPKXzXtrV0LVsJVdIry7M3xkHRcZytUtGXAzHjtkAncI0ERVVGEp43R5ucbfL4-5CzgJpYWRhFpLI6B3&ka=company_more_job_ccf7331f562b3ef30nF-2Nu_ElpQ,0,0,0,0
+B1_29,B,2026-09-27,BOSS Zhipin,大数据分析师,大数据分析师,BI Analyst,1,成都东坡树下餐饮管理,Dining,Chengdu,New Tier 1,6000,8000,6000.0,8000.0,month,7000.0,3-5 years,Junior college,岗位职责: | 1.搭建部门工作SOP与流程规范，统筹日常数据工作开展，对接运营、供应链及管理层核心需求; | 2.统筹全部门店核心经营指标体系，输出日/周/月度经营报表，覆盖营收、毛利、订单量、客单价、坪效、同店环比等维度，拆分堂食、美团/饿了么外卖、抖音小程序、到店自提等渠道数据，审核报表数据质量，对经营异常波动及时预警; | 3.负责商品维度全周期分析，包括SKU销量排行、动销率、新品7/14/30天表现跟踪、爆品与滞销品识别、促销活动效果复盘，提出上新、下架、调价等运营建议; | 4.开展区域商圈对标、门店分层分析，按城市、商圈类型、门店性质做多维度对比，为新店选址、区域运营优化提供数据支撑; | 5.针对单量突发下滑、毛利异常波动、物料损耗超标、出杯设备异常等核心问题立项专项复盘，输出新店评估、闭店分析、新品生死复盘、商圈对标等专项报告，筹备周/月度经营复盘会材料，将数据转化为业务可理解的结论与可落地建议; | 6.联动运营、供应链、招商加盟及美团、抖音、食亨等第三方平台，推动数据结论落地执行，建立数据驱动的业务闭环，跟踪整改效果并定期复盘; | 7.评估BI系统、第三方数据服务商(食亨、美团...)，提出采购与优化需求，保障数据链路稳定与数据质量持续提 | 升。 | 任职要求: | 1.大专及以上学历，统计学、数学、工商管理、计算机等相关专业优先; | 2.2-4年连锁餐饮、茶饮或零售行业数据分析相关经验，有1年以上团队管理或项目牵头经验优先; | 3.熟练使用Excel高级功能、数据透视表与可视化图表，会使用观远、帆软等主流BI工具;具备基础SQL查询能力者加分; | 4.熟悉连锁茶饮全链路业务逻辑，精通门店运营、商品管理、供应链损耗、外卖平台运营、加盟管理等核心业务场景; | 5.对数据敏感，逻辑清晰，具备独立的问题识别与分析能力，能主动挖掘经营异常并输出落地建议; | 6.具备较强的跨部门沟通与推动能力，能将数据结论转化为业务动作; | 7.工作细致、责任心强，能适应快节奏的连锁餐饮行业节奏，有茶饮品牌从业经验者优先。 | 薪资福利: | 薪资:6-8K·13薪，根据工作经验与能力定级; | 基础保障:入职缴纳五险一金，带薪年假、法定节假日正常休息;行业特色:每月饮品福利、员工内部购饮折扣;成长发展:清晰的晋升路径，定期业务培训，参与品牌全链路经营决策。,https://www.zhipin.com/job_detail/c0673ea7e7d665110nJ-3960EFpS.html?securityId=svhp6C1pBC8aC-f1Qg-9p2mCWuQOWV-BYmC5yt9KekaATO1poDXplGRCjFdqZLq_-e6utxknuZ0ifl-u_HjvtgS44MoAvLkYGcUwLXaDx2bk0_8tHgy-bRSVBd8uxVF11tYOFPWs-keiKAw4s2hGQvD-DNCoDI_x0DIpNKUJG7zzd1UJZ-pZRTdJCzZfOmPPtznZL2ELiDDNayRna1SjSUUYO1P83bW31g5wsV6WuYawlDlKUM46dOPPscuIgxfbVjAnTkTEcPk4qrwDt87gTGa1o1EuFg5iOOCysIoXt8QwsGKyJDBs-J0QRDmcGVMAXTt0uJ9BGLDZ6axfST-2A2PhdQSSwVGhOu5scw3j6XGftflkgO5Bjk1lHc1bq0QPo45dduNS-w3rhEkqaP7VQ7_3QWe1eQV4sp0~&ka=company_more_job_c0673ea7e7d665110nJ-3960EFpS,0,0,0,0
+B1_31,B,2026-09-28,BOSS Zhipin,电商数据分析师（10-15k，包两餐）,电商数据分析师（10-15k，包两餐）,BI Analyst,1,左荣电子,Smart Hardware,Wuhan,New Tier 1,10000,15000,10000.0,15000.0,month,12500.0,1-3 years,Junior college,"公司背景: | 2016年成立，日用百货全链路自营电商头部企业，全域运营淘宝、拼多多、淘工厂、1688多平台多店铺，类目排名全国前三，团队规模400人。业务覆盖线上零售+源头批发双重模式，自有完整仓储供应链体系。现阶段重点推进供应链数字化建设，招聘供应链进销存数据分析师，岗位独立负责全渠道销量预测、备货测算、库存数据分析，输出进销存优化数据策略，统筹采购、仓储、销售数据闭环岗位职责: | 1.深入分析电商平台的用户行为、商品管理、运营活动等业务流程，为企业提供数据支持与分析。 | 2.监测和评估电商平台的销售预测、用户转化率、营销活动效果等，提出优化建议。 | 3.与业务团队合作，通过数据指导采购策略、商品定价及供应链优化。 | 4.设计数据监控体系，定期报告数据分析结果，协助企业决策。 | 任职要求: | 1.对电商行业有深入理解，能够独立分析数据，提出业务改进建议。 | 2.具备优秀的数据分析能力，能够处理复杂的数据结构。 | 3.良好的沟通能力和团队合作精神，能够有效地与不同部门协作。 | 4.对数据敏感，能够快速识别业务机会和潜在风险。上班时间:8:30-12:0013:30-18:30 中间休息1.5小时,入职包两餐 | 薪酬:10k-15k(根据候选人资历浮动,面试时面议) | 我们希望你: | 1.做过电商公司后端进销存数据分析岗位工作，团队就1-2人负责 | 2.会使用爬虫/影刀/rpa | 3.可以独立搭建数据库，通过数据源搭建bi看板",https://www.zhipin.com/job_detail/38d0b803e71163d30nNy2di_GFFV.html?securityId=HKfDk2_k-Pfj3-J1k7A6D6h9MC70Y2tbA8tVOEAtM04FworhxgjnKNo7_6B34USvbLzCKCC4j_A907XJE-9TdSUCSfvddXD45upMZ70sqZo81faaZ3s4gHipr_ruAZ37-TnW-fBaGZMc4kTd3nN1-eZXgB7lZNLdWCcXjxoicBCExvnpHFKJe5xLAkia-Mu0l_iZQtYPW6f-dIP2y52zqDKxjk1Y9hhLeJSK7-TuYcvAJNVeOEiEM0dITDel6lppI4jIXq2uNKzzgyo9rIhaCmO_WRt-cACUfhiujhXmqUPj9exDEJ2lyNnWxvzLX4whXIaAky0vTMusv3HdOH9w9scMgL1_iLzQ0xB562NUX_KEbXbwB6KN3fUjlXKd0lZJo6VrekQo6FFDbySZ2AuUAN-3VZbyVkIxxWfc&ka=company_more_job_38d0b803e71163d30nNy2di_GFFV,0,0,0,0
+B1_32,B,2026-09-28,BOSS Zhipin,商业运营经理,商业运营经理,BI Analyst,1,创联凯尔,Smart Hardware,Wuhan,New Tier 1,6000,9000,6000.0,9000.0,month,7500.0,1-3 years,Junior college,岗位职责: | 1、负责商场、商业街、临街商铺整体日常运营管理，包含商户日常维护、经营督导、巡场管理、现场秩序与环境卫生管控，保障项目正常经营。 | 2、对接入驻商户，做好日常沟通、合同履约跟进、经营情况跟踪，及时处理商户经营问题、投诉及各类日常对接事务，维护良好的商管关系。 | 3、负责场内业态氛围、日常经营秩序、橱窗陈列、外摆规范、营业时间、卫生保洁、设备巡查等现场管理工作，提升整体商业形象。 | 4、协助策划、落地商场日常引流活动、节庆促销、主题美陈、市集活动，配合完成活动落地、现场执行、氛围布置、人员统筹。 | 5、收集商圈动态、竞品活动、市场行情，整理运营数据(客流、销售、开业、空置率)，定期输出运营报表与工作总结。 | 6、负责商铺空置点位跟进、招商协助、铺位摸排、客户信息整理，配合招商团队完成铺位去化与业态优化。 | 7、统筹处理客诉纠纷、场内突发事件，做好安全巡查、合规管理，保障商业项目平稳运营。 | 任职要求: | 1、大专及以上学历，1年以上商业广场、商业街、综合体、商铺运营管理经验，有商业地产、商场管理经验优先; | 2、熟悉商业体日常运营流程、商户管理、现场巡场、活动落地流程，具备基础商业运营思维; | 3、沟通协调能力强，擅长对接商户、统筹现场事务，抗压能力强，做事细致、执行力高; | 4、熟练使用办公软件，可独立做报表、台账、工作总结; | 5、形象端正、服务意识佳，有责任心、有团队协作意识;,https://www.zhipin.com/job_detail/230c0a2261dde4d40nNy2N68ElFT.html?securityId=Q0iCTze1Ca2j7-U1tZzpFnbCi3ztxFDy82kf5X_4-zxRlYwThxGxh4-cSfvpAoXjMIjfpwGLMJM2VPkmFs8mBf-KK2gY6OOXBKOZ67rcooQL8AyqXjsreGP7dz_VsjJjdRc13CDb7pEnePiMokLvjdgLNWifzaFeVXA782IeAzfMgqRigg1RzdVlpv4dzkW6Do7sA64ouWt1qdI-xpW9pryydXe6PuOMz2Gs-Q9xLcatnboHt7XyHSadUVz2v9Iettyx17FJb1B_K9tHjLgsYwYkrkH8Xj9J5bQFRWddu4iBLZwS1gZ_8ELr3UXtEfp_BfLB5Vm_MG9Dn1E2YKJC6Lu15WcL0JGGY3VXw7bZCV1v-PPeACPAHftBlcpPDvBIyl1relPalWOr1jpySiQt3ofKWurxcq-l&ka=company_more_job_230c0a2261dde4d40nNy2N68ElFT,0,0,0,0
+B1_34,B,2026-09-28,BOSS Zhipin,商业分析师/产品分析师（PA/BA）,商业分析师/产品分析师（PA/BA）,Business Analyst,1,上海盐语勤,Internet,Wuhan,New Tier 1,15000,20000,15000.0,20000.0,month,17500.0,3-5 years,Bachelor,[岗位职责] | 1.负责公司平台产品数据的埋点规划、采集与分析，搭建产品核心指标监控体系(如活跃用户数、下单转化率、留存率、客单价等) | 2.跟踪产品各功能模块的使用情况，深入分析用户/商户行为路径，挖掘产品体验痛点及优化机会; | 3.设计并执行AB测试，评估新功能上线、页面改版、运营策略调整的实际效果，输出数据结论及优化建议; | 4.定期产出产品数据周报/月报，跟踪核心指标变化趋势，识别异常并及时预警; | 5.与产品经理、运营、技术团队紧密协作，参与产品需求评审，提供数据支持及决策依据; | 6.开展用户/商户调研与画像分析，洞察客户需求及市场变化，为产品迭代方向提供参考; | 7.建立并完善产品数据分析体系与看板，提升团队数据自助分析能力; | 8.跟踪同行业产品及竞品动态，输出竞品分析报告，为产品规划提供参考; | 9.完成上级交办的其他产品分析及数据支持工作。 | [任职要求】 | 1.本科及以上学历，数学、计算机、经济学等相关专业优先;英语口语流利可作为工作语言优先 | 2.有产品分析/数据分析相关工作经验，有B2B、餐饮、外卖或本地生活行业经验者优先; | 3.熟悉产品分析方法论，如漏斗分析、留存分析、AARRR模型、A/B测试设计与解读等; | 4.精通SQL，熟练使用Excel、Python及数据可视化工具(Tableau、Power BI等) | 5.具备产品思维和商业敏感度，能够从数据中发现问题并提出可落地的产品优化建议; | 6.良好的逻辑思维能力和文档撰写能力，能独立完成分析报告及需求文档; | 7.优秀的沟通协调能力，能够高效对接产品、运营、技术等多部门协作。,https://www.zhipin.com/job_detail/527c3e9b170ea3f60nN629m9ElFY.html?securityId=lWMdUc587z4MV-R1OxeNXqsVOQb09R87EW8a7lY3JeKr2Fn_yQEYeh_1LNPbO08xXNlZFcistZwXA_uQrk-gYfvVH_8wD5JS34voUcytcHTXcAy22wL7DJu49KzVYjjaYqMk48a-TrxbCla4FK9-_h8tznb2PeZCXsp9N_fKzCmXgQ326WCcl_G0WmH2NWioaBHui_psuqikEc8kh4BmjEPwmhUHAhpUED91DGg_B_5IqysAUeNARrLDsXS6ccsDe8INGAkzTozrzsWM8GJdxjbhiF8J2hxrax0wJ9vO0AsE5GyAEkqctjiP0qIQ0LOVS078iFci2-FH3oP3-cBwjgk0i40VcdI7mv35K8DosFk-HfWZXopoQw686yT3PbTwogVEAoOvRQEoNZHVr0-LM55cp-SD8Yl2nwhc&ka=company_more_job_527c3e9b170ea3f60nN629m9ElFY,0,0,0,0
+B1_36,B,2026-09-28,BOSS Zhipin,市场管培生（商业分析方向）,市场管培生（商业分析方向）,Business Analyst,1,精臣,Smart Hardware,Wuhan,New Tier 1,10000,15000,10000.0,15000.0,month,12500.0,NA,Master,岗位职责: | 1.承接公司管理层提出的分析课题，围绕市场大盘、竞争动态、核心经营指标等开展专题研究，输出逻辑清晰、结论明确的经营分析报告，为高层决策提供依据; | 2.参与搭建业务经营分析体系，拆解各阶段核心关键指标，持续监控经营状况，挖掘增长机会、预警业务风险，并输出专题分析报告; | 3.针对业务方或管理层提出的专项需求，独立开展数据采集、清洗、分析与洞察提炼，产出逻辑严谨、结论清晰的完整分析报告，并推动业务改进落地; | 4.持续跟踪行业动态及竞品产品技术变化，辅助制定产品策略、定价策略与运营策略，为内部决策提供外部视角支撑; | 5.在理解业务目标的前提下，主动识别值得深入研究的分析课题，独立发起并完成专题分析，输出对业务有实际指导意义的策略建议。 | 任职要求: | 1.硕士及以上学历，统计学、数学、计算机、经济学、管理学等相关专业; | 2.具备优秀的数据敏感度，较强的数据挖掘、信息采集及逻辑分析能力; | 3.能独立撰写商业数据分析报告，逻辑清晰，表达准确，结论有落地价值; | 4.善于跨团队沟通协作，具备较强的学习能力和抗压能力; | 5.精通Excel和PPT，熟练使用SQL、Tableau或其他数据分析工具者优先; | 6.对商业逻辑有好奇心，不满足于“交出报告”，关注“业务是否变好”。,https://www.zhipin.com/job_detail/c7313458807edd650nF90t6-ElNZ.html?securityId=5vCTrKjyxQwHm-y1v8D7GIunrtiU52CWfoE2qIKZ7kQfiOJQOQlNojeXGQI4OZPaP5EZerxwRJTAHnQdMgMgSf_co7aiMR73zrcDtOzls_8Ze5UOVBRHqGYZOJZaKluaSJr515iBEGgSVxFuv0PXVwbODTmAf5kTIS9wiEj8P4jINI_l-lopAy_ifmtznHWImxgP_tHssr6SI-O0fsHqsG-CM6tlOk8bAy7tqpNXTDHg9a_1ChFirEyy_QWHagF3ohZCjREY8FAGN5r8yrCBMQKhloeP6OKLddA17Ml4WE4ROzjGL5VmvyxZ2_DBUnNz7FeDfwd1nOj_UJq3yqIzWgxfgLielA3gPNz7UKcqiORzKo_kW2CD9vRwwoTPPFAKnj6muv-yOvXWsGGTprx62A8ELA5oRnq5&ka=company_more_job_c7313458807edd650nF90t6-ElNZ,0,0,0,0
+B1_38,B,2026-09-28,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,橙果探索（广州）数据分析技术有限公司,Computer software,Wuhan,New Tier 1,4000,7000,4000.0,7000.0,month,5500.0,NA,Junior college,全国各地二手房数据采集,https://www.zhipin.com/job_detail/6dfd6900ec9565811HJy09m5GFRZ.html?securityId=0aPWKqblSzNIw-S1PGpAK8NOEC-XcoXTPUtG49rBh-PpgsK_g5RDUynnrWLBWMdEoWXOwy7n1X-MoPCC8qr0dtVdZP6ozRhH0-atCi6ySpycJYHY16i7CpSuWre2WRHZMRa8Lo9MPq-bxb7NBpNR22X8jmcqEC01nC894LkgqPEKilM05WUJwiOADC3DRVtXThtVTxw2p6-G0PWPO3fiW-yrg0BpbYrk0RL_vd6mKswXYq0ORIepnKrLcJUlnMCmYjrgFBSNKZ-ZVqkgW1So6bowTRopuVQfhbrRBPPX77Q0Xi72gguEn7guUea4y7LP0vEf7l6Rsi7cBQ_3TZz-0mDLX4_SjzXA6OyqveaXMWAKNsIM0lBZSQZeaOKg31RTdg-KI45fkrthgtGnWnZt_eFD9bEjtUUWX-Na&ka=company_more_job_6dfd6900ec9565811HJy09m5GFRZ,0,0,0,0
+B1_39,B,2026-09-28,BOSS Zhipin,商业分析员/初级咨询顾问,商业分析员/初级咨询顾问,Business Analyst,1,中大咨询,Consulting,Wuhan,New Tier 1,10000,15000,10000.0,15000.0,month,12500.0,1-3 years,Master,职责描述: | 1.参与多行业咨询项目运作，协助团队为央企及其他大中型企业、国企提供战略管理、人力资源管理、组织管控、流程管理、财务管理、风险管控、IT规划、数字化转型、企业文化、品牌营销、精益管理等咨询服务; | 2.根据客户和项目需求，收集资料，分析数据，参与访谈、调研，撰写研究文章及报告; | 3.参与项目解决方案设计，从问题出发，制定符合客户发展实际的问题解决方案; | 4.关注相关行业动态并参与行业研究报告的撰写; | 5.参与标杆企业研究，完成数据搜集及分析工作。 | 任职要求: | 1.学历要求:高校硕士学历及MBA; | 2.专业要求:专业不限，管理类、经济类、信息技术类、理工类等相关专业优先; | 3.核心胜任力:具备较强的分析与解决问题的能力、表达沟通与团队协作能力、逻辑思维以及学习能力等; | 职业发展: | 商业分析员咨询顾问高级咨询顾问资深咨询顾问咨询总监事业总经理 | 我们对中国咨询行业，未来由自主品牌占主导的前景，充满信心! | 邀请你一起来见证这段从追赶到超越的发展历程!一起争取获得行业荣耀的历史地位，成为有故事的Somebody!,https://www.zhipin.com/job_detail/8c573f030055fa521XF_09W8EVFT.html?securityId=fNgH3giSnBeJT-Z1OEHbAzRSMzXErAfre07IUn8KCqJth9U00WEvsi5oHkl9qxFSHALvY8cGIaTUQCKOkDp7n2OIm0_MB2TkMY3xPRN1LznHldI_w6wkAxkRrcTnoFJj-DrnhwzaJpAiJYpL50WPNX_iCA96Dl2W2hjZKX3g9uN8fv_2W4qc8W4Hwy8AiGWnUYdZeYNP_816mF1blJ9xCrEUMNpqs7cGOrpo2mwuKv2EStNxrjpXzdbKdWDr86a9OtTLSp3xkZxxCH-Zdnts__k8pqqCYHgCk81VGrChW3mOTUtnw-0T0cjiuJEo4W6vjIaTOfOHcpgVY5_3jx3p-DCJw_8uk8qLC-0O-W6U07sv7QFeUaS0oNz_mr7HjExV4SeYFBcGTC4E_wVwRly3fyhW1PHPTdTZ3A4J&ka=company_more_job_8c573f030055fa521XF_09W8EVFT,0,0,0,0
+B1_42,B,2026-09-28,BOSS Zhipin,数据专员,数据专员,Data Analyst,1,武汉龚娱星宸文化传媒,Internet,Wuhan,New Tier 1,4000,5000,4000.0,5000.0,month,4500.0,NA,NA,一、岗位职责 | 1、日常基础数据统计整理 | 收集汇总直播、达人、投流全渠道原始数据，每日核对平台后台流水 | 2、达人结算核对工作 | 负责全公司主播音浪计算、核对明细;同步修正数据 | 3.核对合同 | 负责审核员工合同是否填写有误: | 二、任职要求 | 1、专业与经验 | 大专及以上学历，有财务、会计相关专业最好 | 2、硬性技能 | 熟练使用excel表格等办公软件 | 3、核心能力 | 对数据高度敏感，细心严谨、逻辑性强;具备独立数据分析、问题排查能力 | 4、综合素质沟通对接能力良好，能高效联动业务与财务,https://www.zhipin.com/web/geek/jobs?city=101200100&query=%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90,0,0,0,0
+B1_44,B,2026-09-28,BOSS Zhipin,软件数据分析师,软件数据分析师,Business Analyst,1,武汉市东西湖区云轻软件工作室（个体工商户）,Computer software,Wuhan,New Tier 1,12000,18000,12000.0,18000.0,month,15000.0,1-3 years,Bachelor,岗位职责: | 1.负责公开市场信息、行业基础数据的采集、清洗、分类与标准化整理 | 2.设计软件分析框架与评估模型，对多维度数据进行深度挖掘，输出可落地的业务分析报告 | 3.搭建核心数据指标体系，定期输出周/月度数据洞察，为业务决策提供数据支撑 | 4.配合团队优化数据采集规则与整理流程，提升数据处理的效率与质量 | 工作时间: | 9:00-17.30或13:00-21:30，时间自由选择 | 吃饭与休息时间也可根据工作进度自行安排 | 周末双休，法定节假日正常休息 | 任职要求: | 1.本科及以上学历，统计学、数学、计算机、信息管理、工商管理等相关专业优先 | 2.有市场调研、商业数据分析、行业研究，软件开发与分析相关工作经验者优先 | 3.对数字敏感，做事细致严谨，具备基础的分析思维与逻辑梳理能力 | 4..逻辑清晰，表达能力良好，能将数据结论转化为策略和方向 | 5.QS前30，985，留学经历等背景优先考虑 | 我们诚挚期待与优秀人才携手合作、长期发展，共同成长，祝愿大家2026年工作顺遂，生活愉快!,https://www.zhipin.com/job_detail/9944b229b3c626350nN62d68E1NV.html?securityId=pUszTdlbzWcdd-818DQJmZUaU2TMozux02d2vxoXzeI7NZWvQ9O_0N-zCj_mBqrNOTCw4EKPY8XH0vFMvgxOkqAyCDHoKH7dQWeLXNZQ0W60tvJXn5LL1mNkYDy9TXt5K-ZauBPKXUGL1XpUd8BmPs-tM-edHExqwoLnB3OPAj9qTnZWnRh4XZHJ4ROkVRe2i6n1zpA-dE7nIgFQQ0E1-xTRLlvVBdtT2ou2b1ow_l2eWkTkSCgoBIASv_9slTubzkrkO_6Gpbyx_NXpM_IGTaFaOjJy4m3TweMYHPxWUz1vMpW3U00CQe0kta0m4VJx6QJPNuIZ7r0BmjK9r2Yx0sW-sEbygHw6XBzwOb7QOY-PYsm6muhKFCYIyzedbAr2T5I81N4Xe0i1TShM3InBHJoGAsNxZZNMwezd&ka=company_more_job_9944b229b3c626350nN62d68E1NV,0,0,0,0
+B1_45,B,2026-09-28,BOSS Zhipin,H93635岗AI大模型数据分析,H93635岗AI大模型数据分析,Data Analyst,1,武汉佰钧成技术,Computer software,Wuhan,New Tier 1,7000,10000,7000.0,10000.0,month,8500.0,1-3 years,Bachelor,岗位要求描述:做过文本标注/AI数据标注/搜索评估/经验统招以上学历,https://www.zhipin.com/job_detail/388dc91fde6bb4f60nN629S8ElRT.html?securityId=TCMak0RcfuZpx-e1EOmx1ZxlKpQ9zNKy0AGIDx61jUHCmtF5bRFsZDTSFN23fy43w4_5PkCBnmH9urvTFIRuNoEWWPTXansedPk6ZuWhsgzVxcAX1ytfY5D_tyveUN8MFP_lJ8lYQVSWGwjyDYfWlFKJoi74bmJja8mtCi-AxEhS4efJzfIfdlQiQwYyUZ4NIK0WG09WsvII7A2j89NKOPLovswOr2pPpCFAzheQcA8p8JU6sKugamDwunXHBqhspkehFWJwfGCn56OvS7wWj5hbohiZM5YDjpk5Zcm98YyAyY2uSjUCSI_xsmaXZ3m6p7wwHrjmqdx6KhNRqEzyF0zumT8Ay1nfVx80gjcCdo_fysZPuF8g6B-lCwCyBKt8Xg-AFF_br7ZlVAG5NgqHUQqmLh4C3k9F&ka=company_more_job_388dc91fde6bb4f60nN629S8ElRT,0,0,0,0
+B1_46,B,2026-09-28,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,重庆轩峰旭科技,Computer software,Xiamen,Tier 2,6000,8000,6000.0,8000.0,month,7000.0,<=1 year,Junior college,[岗位职责]: | 1.负责钢材相关数据的收集、整理与统计分析 | 2.协助完成决策支持的相关内容 | [任职要求]: | 1.善于沟通、按时完成上级交给的工作 | 2.拥有良好的团队合作精神，能迅速融入团队 | 3.具备良好的学习能力，能够不断改进工作方法 | [上班时间]: | 上午9:00-12:00，下午13:30-17:00，双休，法定节假日全休。 | 不是电销!不是电销!不是电销!重要的事情说三遍!,https://www.zhipin.com/job_detail/88368370a1e1977b0nN909y_FFFQ.html?securityId=S4noA6es3KDT5-p1XPZ17NC6KxPhKCh_dYxchKwpdfivzozsB_Tgisusb761IeFNiJgIG_491XWiDr8lw-Shd8bR6cXoOoWl53BE8J0A7LTEfRBxjGi-Oo21502KyVB9ptp--yOdVkYm_1HFW-0UyiSh2JhAiZV4zjL292QafW-itPI24SsSSRFLNPHayQmxMII8mrUxDMaLCm2ULB2xFCZK7lo0VvaLDvS9Cweuxu0QFl7B336ojF7pcPQizFbl56fIm97GGtNJ4kH7ewGmk0IOgBkJtVFK9YKsJOjTs52epqUQCcuCXIfQUMd9b9eIInX8V6xAZuUikZ2x9NbHHKuVaqZkcp3FJDf2Lkk0qm-i62JKDpxPSP8yihWOvvXlRxDh5Etz9eT_JZDzGw03k8C8-nBYIZt-583S&ka=company_more_job_88368370a1e1977b0nN909y_FFFQ,0,0,0,0
+B1_50,B,2026-09-28,BOSS Zhipin,大数据分析师,大数据分析师,Data Analyst,1,厦门国海,Finance / Audit / Tax,Xiamen,Tier 2,6000,8000,6000.0,8000.0,month,7000.0,1-3 years,Junior college,对股票期货进行大数据的分析,https://www.zhipin.com/job_detail/c2f8b78051792a880nZ82N-0F1dR.html?securityId=WzNRbumw7W2ha-E1pvMujYGZzwWPLqprqLMzs_lPxA4mxUbaWEFrom161mMYicF65-tnzwwrUgNhJiQ9oV2okz2zh0Gntrqh534gk0V9jgvPACrp6QL-EMVgkgl_CP14yJN6b5QnZOePBlwlBCqHoeeQMIZaOsK_gI68kXJpogp9j2X8IuuUOLSy004SqXfDpP9-2tkpnfE8I8FxbpY-lxcYNe0O7QwObArWMEcJE8ua6WdJhp7-_3uNcKXF0kKk-mDQYieJ1YVzw-iTXgG1duMjMXkHYQeCl5hWcRzEdvpNme00R7d7e2rN_sA-DcHDrRt6zeu3eOK4rAJLHhnX8ZGsnckuGBWmmbCeOXoGOl6fZGgfy-0AuOcxggpjjA08tJ0iF1PxxDOBLz_97LOkwHtYirETSjvXEQSU&ka=company_more_job_c2f8b78051792a880nZ82N-0F1dR,0,0,0,0
+B1_51,B,2026-09-28,BOSS Zhipin,经营数据分析师,经营数据分析师,Business Analyst,1,厦门木木三有限公司,E-commerce,Xiamen,Tier 2,6000,10000,6000.0,10000.0,month,8000.0,1-3 years,Junior college,岗位职责: | 1.负责经营数据的收集、整理与分析，确保数据准确性和时效性; | 2.分析业务运营表现及关键指标变化趋势，输出分析报告支持管理决策; | 3.监控企业经营各环节的运行状况，识别潜在问题并提出优化建议; | 4.协助搭建经营分析体系，完善数据监控和预警机制; | 5.配合相关部门提供经营相关的数据支持与分析服务。 | 任职要求: | 1.具备良好的数据敏感度，能熟练使用数据分析工具进行多维度分析; | 2.具有较强的逻辑思维能力，能够从复杂业务场景中提炼核心问题; | 3.工作认真负责，具备较强的执行力和结果导向意识; | 4.具备良好的沟通协调能力，能够有效推动跨部门协作; | 5.学习能力强，能快速理解业务模式并应用于分析实践。,https://www.zhipin.com/job_detail/58878757eb13ae8b0nN93tq6GVVX.html?securityId=Y3jYIpoR9fanw-B1Ke_o_0XLbLZW4ra0-q0Rmv4ILUE4Q9K5pPcqcJ4nCRyI4Gd--N5bsmZLyFYnVF69M9cK1HAKjCRho2IEIZw3njiCb0KrzqaVPYsjTjGyKyJCVbXe0MVy5iW6NgCAwgceqP6_9E1CZBpgE5bPuW7_KzGOq_w2AUB42y6wQ4p8ZOHvK0K8XNHW126YQ71-wBclmMFY68BGy3tCGEHHJzxObuRe1iqj1rqxMDTL_M3ijJJxorDAgqbCmU4CSgjgV5vMG_BQZinfjMi4hWYSzNEXizWp94KyIDM_f6js3HqStXZlKr9iP2-7jxWD928q3v7DFDOgVDjk3HcF82N6B2SzmPvQaVCeUGIec9MIsLVq_5xgbJ7zvWWDfoAv0wSzRWwxG3OkhkFwDonAeB4yXDc~&ka=company_more_job_58878757eb13ae8b0nN93tq6GVVX,0,0,0,0
+B1_53,B,2026-09-28,BOSS Zhipin,互联网自研双休数据分析师,互联网自研双休数据分析师,BI Analyst,1,猎宝网,E-commerce,Nanjing,New Tier 1,15000,25000,15000.0,25000.0,month,20000.0,3-5 years,Bachelor,岗位职责: | 1.数据基建:围绕流量、用户、供需、转化、营收搭建业务指标体系与可视化看板，统一指标口径，支撑全链路决策; | 2.深度分析:独立完成拉新/留存/转化链路、账号供需与库存周转、营收拆解等专项分析，定位转化卡点与供需失衡，挖掘增长突破口; | 3.竞品对标:拆解同行平台流量、定价、运营策略，结合业务现状输出差异化优化方案; | 4.策略落地:基于洞察输出增长方案，联动运营、产品、技术跨团队推进落地并跟进复盘，直接对订单、GMV、收入增长负责; | 5.数据化运营:沉淀分析方法论，用AI工具赋能业务团队自助取数与分析，提升全员数据决策能力。 | 岗位要求 | 1.本科及以上学历，3年以上数据分析经验，有游戏账号租售、虚拟物品交易平台经验优先; | 2.精通SQL，具备统计与实验设计思维，能独立完成取数、分析与结论验证; | 3.熟练使用AI分析工具，并能识别、校验AI输出中的口径与逻辑错误; | 4.极强的业务敏感度，擅长拆解流量、用户、转化、供需、营收链路，主动发现业务问题与增长机会; | 5.优秀的跨部门沟通与项目推进能力，能独立推动方案落地迭代。,https://www.zhipin.com/job_detail/118b8b51f4a5f82c0nNy39i8EVJZ.html?securityId=CEzZUG5ZehcmU-I1CxfVLvFsD4GYge0h3XJw71FzLJ2dQ-amXpJEHDHWMEDlSFuLFfYoPJOlqjyDhn8F6iyf9sBUl0b0p8hINKWDgF0jwj-gc8fbzewfNBB6G5zS-cMQ5pHtpT3kja2lasv1NwXtUUrFsdMTkSE6g_5X2fdq2GBmIm9prbTHmO23kX5R80308wJ7cvkfJjNqFdqfjchpv9eN2A9r5pnx6H2EYx2edtSH0XCDVRC3-Mdn2XETRX-IAEZBQdw_gw3uKY2MQNKe4waYIZViXQowqSCzUOP-jVlTwbmyq1sJi-cdcaDtE4B7aydlGmV87G6c33kpnAWM3eFa6Mv_lZB_Ir28hX65QalJpZbBrrytrVLsCaOIeotuhrhXe3QB7QvQxKZ5tQW6zHiDSj7lHPSOEg~~&ka=company_more_job_118b8b51f4a5f82c0nNy39i8EVJZ,0,0,0,0
+B1_54,B,2026-09-28,BOSS Zhipin,数据专员,数据专员,Data Analyst,1,南京蕊宴科技有限公司,Computer software,Nanjing,New Tier 1,6000,8000,6000.0,8000.0,month,7000.0,1-3 years,Junior college,"数据分析/挖掘经验您的工作职责: | 1.对公司产品数据进行系统分析，熟悉公司产品; | 2.对线上订单进行及时处理 | 我们的优势: | 一优越的薪资及福利体系 | 1.试用期底薪5k+提成(根据完成量而定) | 2.工作时间9:00~17:30,周末双休 | 二专业的培训，人性化的管理 | 1.公司管理团队由行业内团队核心人员构成，前期老人1对1培养 | 2.提供系统性培训，有充足的学习机会 | 3.公司不收取员工的任何费用，工作中不含任何销售类内容",https://www.zhipin.com/job_detail/dee7da74b81570900nd42Nm4FFZX.html?securityId=Gnd2QziCzRuyN-u1I66jIHe2qiI94qA6rob7m88N7rzkB13z3nShNbPrDDk6veV9yN9yxC29DtCXWSd3iwMCt92ChiE1eWu56m_Pyk6k8fsbJgvKqtzkX9JZmn451vt1I3dBVkc_6zbw1kusMFTBS7gb9JUqpxaKGrArgQkCpQYfo_3Wxdeyon0QUKmv7oevzr4T9qtbjUmsqlTsgNe0IhT-Kx-Quea-cU5AtaplUTBeEI6MZs6RbwfgLAII8WXkc9zLvJjcxkb79UajQ69eRFwdq8qRAcPv8vHg16xOHm33c7fgsU0NqFEuZamfFQSifnhgc3Bi1Dhr4Uz3ybiUST7qlh37VF54fDJ0tkYonwvgcd_Pzl4IpdhjmmgdGU_avWQCzXcTFSePngiksYvFoA6uaAH4RlM_U_D1&ka=company_more_job_dee7da74b81570900nd42Nm4FFZX,0,0,0,0
+B1_55,B,2026-09-28,BOSS Zhipin,数据助理-双休-5000-7000元,数据助理-双休-5000-7000元,BI Analyst,1,华财教育,Internet,Nanjing,New Tier 1,5000,7000,5000.0,7000.0,month,6000.0,NA,Junior college,岗位名称:数据助理 | 一、岗位职责(工作内容) | 1.数据统计与汇总:负责公司日常经营数据、考勤数据、物料数据、销售数据等各类基础数据的收集、核对、统计与汇总工作，确保数据真实、准确、完整，无错漏、无偏差。 | 2.报表制作与更新:按照公司规章制度及工作要求，定期编制日报、周报、月报、季报及年度统计报表，及时更新各类数据台账，规范台账归档管理，为部门及公司决策提供精准的数据支撑。 | 3.数据核对与复盘:对接各部门工作人员，核对各项往来数据、业务数据，及时排查数据异常问题，梳理问题原因并反馈上报，跟进问题整改，保障数据闭环管理。 | 4.文档内勤管理:负责部门各类单据、报表、文件、资料的整理、分类、归档、存档及保管工作，做好电子档与纸质档双重备案，便于日常查阅、调取与溯源。 | 5.日常内勤辅助:协助部门负责人完成日常行政内勤工作，包括通知传达、信息登记、会议基础协助、资料整理，日常事务对接等，保障部门日常工作有序推进。 | 6.数据上报与对接:按时向上级领导及相关部门报送各类统计数据和报表，积极配合公司各部门的数据调取、核对工作，及时响应各类数据咨询，完成领导交办的其他临时性统计及内勤工作。 | 二、任职要求 | 1.学历:大专及以上学历，统计学、文秘、行政、工商管理等相关专业优先，有无经验均可，25-26届毕业。 | 2.技能:熟练使用Office办公软件，精通Excel表格制作、函数运用、数据透视、数据统计分析等基础操作，能够快速完成报表制作与数据整理。备基础的沟通对接能力。 | 三、薪资福利薪资待遇 | 1.薪资面议/固定薪资5000-7000元，15号发薪; | 2.试用期3个月，转正后薪资上调，工作稳定，适合长期发展。员工福利 | 3.能力:工作细心严谨、责任心强，具备良好的数据敏感度、逻辑思维能力和抗压能力，做事有条理、效率高，具 | 4.素质:遵守公司规章制度，踏实稳重、认真负责，有良好的团队协作意识，服从工作安排，能够长期稳定任职。 | 四、工作时间朝九晚六，周末双休 | 1.基础保障:入职缴纳社保(五险)、公积金。享有法定节假日、带薪年假、婚假、产假等正规假期; | 5.额外福利:定期团建、年度体检、带薪团建、员工聚餐，每逢佳节发放福利物资，定期组织团队活动。 | 可以先投递，国庆后安排联系面试 | 面试流程:投递-部门管理筛选-电话沟通-线下面试-体检入职,https://www.zhipin.com/job_detail/26056f73c85c774f0nN83Ny_F1RQ.html?securityId=6ZdFhw7lJCfED-l1v1WeNURND_u84omCkYIX7fRBHezwXZGxAHNB4CLM7rcduhGYzoJNMTgZTg2Z6bfIFeu4I220hPpbJKxghfmpOQizKX_G6FPiEsI_0rnWaK7xmKK4AjIVuDa2bckeDOUn9Lg5GxRqWgEF7kIZTqrXxPRcMkME_o2VlW5sGyF9vfeivM9lV8CpIg7l-FcGxohAmLDnN1dYvibta06LIzl4jX9iJbW3kOsp5iBUo-nQlZMvjHuVG9bmJZeBhv7vgfQr6815B5Tyyb75AYRW8RrfH6edbL1qLtfMce2EbU-bBziELFIlaJgAbEZA2BFkc0jtVsmHqfQlyYFe_vavFvw2OX4lGQ4F0FPG100KJYTJ4fEUrCQ6VVleMqGpHWhlsl4rtMa8mL2hTxNsaR4RIzE~&ka=company_more_job_26056f73c85c774f0nN83Ny_F1RQ,0,0,0,0
+B1_57,B,2026-09-28,BOSS Zhipin,AI应用数据分析师,AI应用数据分析师,Business Analyst,1,江苏天鼎,Finance / Audit / Tax,Nanjing,New Tier 1,9000,13000,9000.0,13000.0,month,11000.0,1-3 years,Bachelor,"核心职责 | 1.深入产品服务中心业务，理解用户路径和产品逻辑，搭建产品数据指标体系，持续追踪核心指标变化 | 2.围绕退费、用户留存、产品转化等核心问题，做深度归因分析，定位关键影响因素，输出可落地的优化建议 | 3.参与产品服务中心日常会议，主动发现业务问题，用数据支撑产品决策，推动优化方案落地 | 4.沉淀产品分析方法论和数据看板，让数据能力可复用，降低对个人的依赖 | 5.探索AI工具在数据分析和业务场景中的应用，提升分析效率和业务价值 | 任职要求 | 1.学历背景:本科及以上学历，统计、数学、计算机、金融、经济等相关专业优先 | 2.工作经验:1-3年数据分析相关经验，有互联网、金融、咨询等行业经验优先 | 3.数据分析能力:熟练使用SQL、Excel等工具，能独立完成数据提取和分析;有AB测试、漏斗分析、用户留存分析等实战经验 | 4.业务理解力:对业务敏感，不满足于只做数据提取，能主动从数据中发现问题、提出假设、验证结论 | 5.AI工具应用:熟练使用各类AI工具(ChatGPT、Claude、Cursor等)，能将Al融入日常分析工作，提升效率和深度 | 6.沟通表达:逻辑清晰，表达简洁，能把复杂的分析结论用业务听得懂的语言讲清楚 | 加分项 | 1.有金融投顾、证券、财富管理行业数据分析经验 | 2.有产品经理或产品运营经验，懂产品逻辑，能和产品团队同频对话 | 3.有数据BP、业务分析、经营分析相关岗位经验 | 4.懂埋点设计规划，熟练使用神策等埋点系统 | 5.会Python、R等编程工具，能处理复杂数据 | 我们希望你是这样的人 | 年轻有冲劲，不满足于做”取数工具人""，想真正用数据影响业务决策 | 能沉下去扎到业务里，不是坐在办公室等需求，而是主动找问题、找机会学习能力强，愿意尝试新工具、新方法，特别是AI工具 | 结果导向，不只关注""分析做了什么""，更关注""业务改变了什么""",https://www.zhipin.com/job_detail/3723e9e8f30f4fec0nN_09q4EFNQ.html,1,0,0,0
+B1_58,B,2026-09-28,BOSS Zhipin,助理数据分析员,助理数据分析员,Data Analyst,1,万得,Finance / Audit / Tax,Nanjing,New Tier 1,5000,7000,5000.0,7000.0,month,6000.0,NA,Bachelor,工作职责: | 1、从事股票、基金等金融相关数据的收集、整理、录入、挖掘工作; | 2、对自己录入数据(IPO、摘停牌、权益数据、财务数据等)的正确率及准确性负责，及时添加校验，梳理数据逻辑; | 3、及时入库新增数据，每月完成历史修复任务，不断优化流程，确保数据及时完整; | 4、针对负责的数据表，完善加工规则，追踪数据源，对数据进行深度挖掘 | 5、承接部门热门项目，跟进开发，统筹人员，产品设计等 | 6、协助数据分析员开展数据分析工作，完成上级领导交代的其他日常事务。 | 任职要求: | 1、金融学、经济学、财会审计、统计、数学、信息管理等相关专业; | 2、有较强的学习、归纳能力，对数字敏感; | 3、工作认真负责，吃苦耐劳，勤恳踏实; | 4、具有较强的逻辑思维，语言表达清晰，善于沟通，反应灵活; | 5、有金融、财务相关学习、从业经验者优先; | 6、英语四级及以上,https://www.zhipin.com/job_detail/99fb6bb0c134cace1X1_3N-6GFI~.html?securityId=_Q52v0D88h-o0-z1so83khnGDwEo7497_SP6zRvT4G8OgvG-1rQYwzVRni9taYpaRLicN2kcDo85Rf8QjgV-VJFJRWkGg1vGLt3HOtnczKsnTwhoIt84ISavr9wbeCkkUQExx3Im5yElex_irbpH5Fx05oB8FuSNSRmbEoisnDcqC7Fr7kwSKGcX6OEWUtM0aLYug-Tu_JYIXLXEPD66fGzL9w6fHI20KOosU04OTsuO69IpMOXa1qXcb9tmUHp9S9aVbt4t3d0U5lPO78oMgxIb0WVn126w3cpnnBrS3W2VZM6CcJIk9Mz884qsDH7s4Kc4GUcs1zbF-XKR37fFfvDNs3p6ZYVuyC0x4RE4rXeeLOLpVcjXzEIh8Yrxh_pu2dfpxw0Bx1zgUu2TxsRqkQSu-oitLcGdcQ~~&ka=company_more_job_99fb6bb0c134cace1X1_3N-6GFI~,0,0,0,0
+B1_59,B,2026-09-28,BOSS Zhipin,寒假实习生（审计数据分析）,寒假实习生（审计数据分析）,Data Analyst,1,毕马威南京服务中心,Finance / Audit / Tax,Nanjing,New Tier 1,150,160,150000.0,160000.0,month,155000.0,NA,Bachelor,工作职责: | -对数据分析感兴趣，愿意学习各类数据分析工具，根据工作安排，熟练运用服务所需的工具技能以及业务知识 | -收集客户财务与业务原始数据，了解原始数据结构，并对原始数据执行标准化格式整理分析，识别各类风险信号利用数字化工具为审计项目提供各类数据分析支持 | -运用专业的数据分析软件协助执行数据整理，会计分录测试、销售、采购以及存货业务循环，及金融业务相关的 | -使用流程自动化工具、人工智能及信息技术平台执行标准化审计程序，提升基础审计工作效率 | -协助并配合项目组完成各类审计程序相关的临时工作 | 实习津贴:食宿自理，实习津贴为人民币150元/天 | 实习时间:26年12月-27年3月，每周5个工作日全勤 | 线下实习转正机会:实习表现优秀者可获得转正机会，优先考虑27届毕业生 | 任职要求: | -本科及以上学历，财会、审计、经管类专业优先，其他专业优秀应届生也可投递 | -已通过大学英语四级考试或以上 | -熟练使用Office办公软件，具备基础Excel数据处理能力 | -能够按要求落实审计工作，善于总结思考 | -专注度高、学习能力强，能够适应多任务并行的工作节奏 | -良好的沟通，能够主动与团队主管同步工作进度，如实反馈工作中遇到的问题 | -严谨细致，具备较强的责任心,https://www.zhipin.com/job_detail/ebedea6a567687660nN52tm6ElBZ.html?securityId=8ZXknCZ7ofa9v-71Ihvpz6MeYtuMVw0-QXt1YC6aWy6e7VaOJdivUIDqOp3qUZ5WLnYsBdAE-_PUkQ8jizc2ymaEk-sRUwxuMk3RbgmO__xOKieans9yUuhmK3VJ5ww4_hGvC8hvbjqsBCA9Ywh06S1LlPnxg_-sLfrgXSxyLzqkGyR5JrwqeC0cv3HjL1bUWyZpdlHqRhggZBaJ6g_yr36iLORYiQGhH9Gf7LnMaj4AG7fPij3TTS-S-JISR6m9XngMWwa_yxRQ20WnmN3zZ1DaJp2RsvflwrFmd2wkbpqIuFbpofgRrKrL6cktI8ykrHsaC6yaC932beeIm0WNipL2MWwgElMb9kkVmOYV6JG3-CCkJiXDdDekWS6WGHw3C8iGrLO-pgg-iGJ6EXERVeKXHD5iUjFTWb0~&ka=company_more_job_ebedea6a567687660nN52tm6ElBZ,0,0,0,0
+B1_60,B,2026-09-28,BOSS Zhipin,数据分析实习生,数据分析实习生,Data Analyst,1,南芥智能,AI,Nanjing,New Tier 1,250,400,250000.0,400000.0,month,325000.0,NA,Bachelor,面对能力、价格和响应速度各不相同的大模型，如何为每个任务选出最合适的模型?如何用更低的成本，获得更好的效果? | 我们正在用数据回答这些问题。你将参与大模型评测、智能路由分析与高质量数据建设，让分析结论直接影响模型选择和产品优化。 | [你将参与的工作】优化的机会。评测数据。 | 模型路由回测与分析:对比不同路由策略的效果、成本与收益，深入分析Router失败案例，发现模型选择与策略 | 多模态与Agent数据建设:参与数据收集、清洗、去重与质量评估，构建贴近真实场景、能够有效区分 | 模型能力的模型评测排行榜构建:参与评测指标与排名规则设计，从效果、成本、速度等维度比较模型，让模型能力与使用价值清晰可见。 | 【我们希望你】本科及以上在读，专业不限，对大模型和AI应用有兴趣。善用AICoding工具，能借助AI完成数据处理、分析和可视化，并检查与验证结果。有好奇心和基本的统计思维，能从异常现象中发现问题、提出假设、设计验证方法，并讲清楚结论。做事细致、主动，愿意深入理解数据背后的任务与业务场景，推动分析结论落地。 | 【如果你有以下经历，会更加分】 | 做过大模型评测、多模态数据分析、Agent应用或相关研究。 | 有用AICoding解决实际问题的作品，欢迎展示你的思路与成果，个人探索项目也欢迎。 | 【你能获得】充足的GPT-6 Token预算:充分使用AI Coding和分析工具，把想法快速变成实验与成果。参与核心问题:研究模型如何选、成本如何降、效果如何验证，接触AI产品中的真实决策。完整的项目实践:从数据建设到实验回测，再到策略改进，积累有实际产出的项目经验。以解决问题的能力为导向:不设特定编程语言或框架的熟练度门槛，我们更关心你能否借助AI做出可靠的结果。,https://www.zhipin.com/job_detail/88dffc19a6b7e92f0nN_2d24GFZW.html?securityId=sF0kBp6Qj2ON5-N1rOl48GLiVIt2mkJGSXum-tV5K9sdA54MnKvkp89w7Yzcrjj6VHWqaAEVZt9nVTSbOeR_zZ1QTjJ3z0cizn9c_1W682oBBzzWC--wHmSQK02apyRHQRPBBmDJSzS2UdQn8iqIMSA7Dvs6goKdUQz3D16TD8NGB2zUOSyoNNg5eD13vFDlOYUpJ1jVdc308BLdxGenZ6pwpvFlOBCWNr42vuAmJvRdGRKAvZgQXJFeFW7AiHxiDUvscneVc9DKtKL0fRo4ibMPxCZO0dZfemJ0OF6HuXfeGupLsCJwXK65S10q0km7wkpdtm2284U9z7D_wNtTNFT5C31i9mlRqYxeHtccxhytaO_JJag0fCb8JmabfZF-52EZC27cZ3J4Y4WRWY2IGNIOgoLDzzf7TBg~&ka=company_more_job_88dffc19a6b7e92f0nN_2d24GFZW,1,0,0,0
+A2_01,A,2026-11-02,BOSS Zhipin,数据分析实习生,数据分析实习生,BI Analyst,1,珀莱雅,E-commerce,Hangzhou,New Tier 1,120,150,120000.0,150000.0,month,135000.0,NA,Bachelor,职责描述: | (1)协助梳理业务逻辑，挖掘数据波动及业务问题，输出分析结论，支撑业务运营决策优化。 | (2)对接团队日常数据需求，完成数据提取、清洗、统计整理，支撑业务查询、活动复盘等日常运营工作。 | (3)负责业务日常报表、复盘报表的制作更新与可视化优化，直观呈现数据走势，为业务复盘、策略调整提供数据支撑。 | 任职要求: | (1)本科及以上学历，统计、会计、电商、数据分析、市场营销等相关专业优先;对数据敏感，逻辑清晰，工作严谨负责。 | 2)熟练使用Excel(函数、数据透视表)、PPT，可独立完成数据统计、报表制作及可视化，具备基础数据拆解与分析能力。 | (3)熟悉电商后台操作与基础业务逻辑，了解美妆电商行业模式，有美妆/电商数据分析经验者优先。 | 一周能实习5天且连续实习4-6个月优先,https://www.zhipin.com/job_detail/923ebd5185b5d52d0nx_2dS_E1pW.html?securityId=AFEKW35yBI60O-V1M52QLLApQEETBkBUwDDZK1rhxH7WMKUhwWFZ8YmKOxYE70Fwx7Ratv8-EyJWMMYYsShnqTDPwfcyt4R8PmOoy2wUdDo_TCw_da0WSyAgblAL7rgkTKgaRfYaZyanqcEpa2Q4vi7VL88_X_ZJXfjzZZLVDcR3wk2PEPbLlyBoCVhs6QS_JjejzSg5WVn4R-kbuzbTOeICoA8HKyGgkznLkO0dGBV4GGW5NIiDNx-lhpdYsY0VoOXBF149g41gBr4gNbZMpom4vwOMjDtX6U56oelHvG7S3NVQdpNsQJUhtAvseIoPBS2Xkgzi9UNYoNVlDAS042gKDYz2ZZ439i-YqDeJ0RCDAxrlA6zWO3CklgwYQk20Ho1f2HU8z92MzbUjzvW-d_tK7ZuW9MlMRA~~&ka=company_more_job_923ebd5185b5d52d0nx_2dS_E1pW,0,0,0,0
+A2_02,A,2026-11-02,BOSS Zhipin,数据分析实习生（有转正机会）,数据分析实习生（有转正机会）,BI Analyst,1,FunPlus,Gaming,Hangzhou,New Tier 1,200,250,200000.0,250000.0,month,225000.0,NA,Bachelor,岗位职责 | 1、协助负责游戏项目的数据分析工作:埋点规范、看板搭建、用户标签搭建等工作 | 2、监控业务关键指标，输出相关结论及建议。包括用户新增转化，漏斗分析，ABtest，玩法参与等; | 3、AI相关搭建工作，包括但不限于框架的优化、skils的撰写、工作流编排、独立开发小型agent等; | 岗位要求 | 1、非常热爱游戏，有在游戏行业深耕的打算; | 2、统计学/计算机/经济学等相关专业毕业; | 3、具备较强的自我驱动力(必须)、独立思考能力、沟通能力和抗压能力; | 4、掌握excel，SQL等数据处理方式，有python基础; | 5、对数据敏感，了解数据收集、数据分析方法，掌握常用统计分析方法和统计模型 | 6、有CCICURSORICODEXITRAE等使用经验，了解AI基础理论。,https://www.zhipin.com/job_detail/26943b65926d92e20nx53t25E1FZ.html?securityId=qCnF8H9dIEOp4-u1dxus4NsVSIjzxu6P8jHUL55OyyXnzBixIiFHbFXLqpfgGwU1a9o-I3cSRw6GQBIk1oHnnlbrShJaCUopL5ac3BJxAmiGPDM4-zDdylecLoLZ8a1XChO85Sc3oB93cSDywGzWiZAVE7w3mLrmX4tGQtHO6xrYnh-KIO2Kxn62qzwm0avfFoLlKy2gcbSQb61KvvJm_Y8TpBR7EDS-6ktU3CxRCQoiybo2LyuarCkerwdcQcQ7dqKeOVVwIS-ZFaxAfk0nyWLk1mKJ8YcVQjsqgxhN6z9J842K2IG_CvhlavZMt6740iEG4iiDKc-o7O_BPmbRIe4uAfwWluvqoH-OuM2zNehGpsf9Z6kjycrb3HE8F0yxrWqkLbAXlhwPgo5ry-yKeno0F31l-FSSbw~~&ka=company_more_job_26943b65926d92e20nx53t25E1FZ,1,0,0,0
+A2_03,A,2026-11-02,BOSS Zhipin,服务数据分析师,服务数据分析师,BI Analyst,1,北京外企德科人力资源服务上海有限公司,HR Services,Hangzhou,New Tier 1,15000,20000,15000.0,20000.0,month,17500.0,3-5 years,Bachelor,"岗位职责: | 1.负责服务运营条线(在线、工单、退款、体验分等)的数据体系建设，独立在阿里内部数据工作台(DataWorks/ODPS)完成取数、开发与调度。 | 2.搭建并维护SQL取数逻辑，参与宽表需求梳理:从字段清单确认、口径对齐到SELECT逻辑落地，保障数据口径统一、可追溯。 | 3.搭建日常运营看板与报表(FBV/Quick B钉钉多维表等)，覆盖退款时效、自动化率、工单库存、新灯塔、店铺体验分、负反馈率等核心指标。 | 4.承担服务数据分析与归因:指标异动定位、杜邦分解下钻(站点一技能组一品类/仓库/品牌)、专项复盘报告输出。 | 5.与运营、产品、技术协同，将业务问题转化为数据问题，用数据驱动业务决策和流程优化。 | 6.沉淀指标口径文档与分析方法论，推动报表自动化和例行化。 | 任职要求: | 1.大专及以上学历，统计学/数学/计算机/信息管理相关专业，2年以上数据分析或数据开发经验。 | 2.精通SQL，熟悉ODPS/MaxCompute开发逻辑(分区表、JOIN优化、UDF、JSON解析等)，有实际取数与建表经验。 | 3.熟悉阿里系数据体系(DataWorks、FBI等数据工作台)者优先。 | 4.有电商客服/服务运营相关数据分析经验优先(如满意度、FCR、退款时效、工单处理、体验分等指标体系) | 5.熟练使用至少一种BI工具(FBI/Quick BI/Tableau/PowerBI)，能独立完成报表与看板搭建 | 6.业务理解能力强，能把""模糊的业务问题”拆成“清晰的数据口径"";具备归因分析和报告输出能力。 | 7.细致、有数据安全意识，对AI辅助分析(如ChatBI/自然语言取数)有兴趣者优先。",https://www.zhipin.com/job_detail/60cdf888ee7146d20nx53NW9FFJU.html?securityId=c0-haWe0eadlT-B1PCNor91zfS-dGat0BUpffo_mx-SsbxlMKi_3IXBOoKJCUuV2sVe_cfRnPMa2m9CVvtotQ9Y6dtiUlWeXrl1AtF8zItu1_FMUN9rKg8KXTLtOfddUg8PSND5yFDFdYou71j2Kd5Qgh4oAjo12VDDMVceIjKZEkB06KWswunYb-CbA61TqCs3-NftUQYTw5UXKTMDeffvQJxTWJkx12lCWEjmOZFJgLpgWG_x7MEXzYlhvrz0db3WgjhW29l66dHg2Gl7rwm_nhTY7x4s6syqhCQloUjQ66jBwq0fPrhQMdyOOETAPC1ls82PYiAt8dZQ3uPSSDy28AgmBqBvUmB1yDoJcps7cxrCEHGG1izZ8Ix7792AYuy36_bW6myJNU7uI6-8PvHih58t4uc6gFmE~&ka=company_more_job_60cdf888ee7146d20nx53NW9FFJU,0,0,0,0
+A2_04,A,2026-11-02,BOSS Zhipin,数据分析师（双休 六险一金）,数据分析师（双休 六险一金）,BI Analyst,1,新东方,Online Education,Hangzhou,New Tier 1,12000,15000,12000.0,15000.0,month,13500.0,1-3 years,Bachelor,一、岗位职责 | 1.负责对接指定业务线，理解业务产品结构、班型逻辑及排课、设班、续班等流程，承接并澄清数据与产能需求，明确口径与交付节点，推动高频需求报表化、模板化。 | 2.负责所对接业务线的日常取数、清洗、报表与看板交付，维护所对接业务线的数据指标口径与基础台账，对准确性、及时性负责。 | 3.负责跟盯核心产能指标，对异常及时预警并提出调整建议，负责业务关键阶段(排班/窗口期等)关键动作。4.负责所对接业务线的专项分析，输出周/月/季分析报告及可落地建议，支撑业务经营与管理决策 | 二、任职要求 | 1.本科及以上学历，统计学、数学、计算机、信息管理等相关专业优先。 | 2.1年及以上数据分析、数据运营或业务运营相关经验;具备较强的数据核对意识，能独立交付报表并写清指标口径。 | 3.熟练使用Excel 函数、透视表及数据清洗;能使用SQL完成多表关联、聚合、子查询等取数，了解窗口函数;至少掌握一种BI工具，如观远、帆软、Power BI等。 | 4.逻辑清晰、细致严谨，能把模糊业务问题拆解为可验证的指标和分析路径;对数据异常能解释原因，并推动问题闭环。 | 5.具备良好的沟通、学习和协作能力，结果导向;能适应排课、开学季、续班等关键窗口的集中交付节奏。 | 加分项: | 1.会使用Python进行数据处理或分析。 | 2.熟悉Power Query、Power Pivot，或有报表自动化、看板从0到1建设经验。 | 3.能够合理使用AI工具辅助进行数据处理和分析。 | 4.有教育培训行业经验。,https://www.zhipin.com/job_detail/ac322e2af190b1cd0nx82dW6EFFY.html?securityId=SrHiXf0t2ow0o-l1Uj3xrHs98fsnPx88g7GS7jRCAwsKEi2P6zSN6hMyDrK62luO9No0V_RY0MhE6-Eq3Nd1Yt1eQj2S6070D1C-EHTZFvOaKmJzI_cheV1qXxEm-5xZ7tIoDJcofBtqM3p7v-rJSoL9lpGTi-iKMsh1WdH2kKYkfdO6dG94B14BuY5KJZT3hiOVuMH5os-Qc6Z4M95IeZp4piffbuGbiFRHPG8R4P519815eW6W2W0aorCI3YctdgSVucfFlOblbjbl59kepJ-cdWMUAtn3dh0qBxXmAPpm9mlvTipr-UvdKj2kZGorf--av4RBcRlP4y0eXK5nm1uFSbuonvFCHJf38cAVJfUMvHU1SqK3jpCalEVtayTQdhvzVEA0OoUWL8zjBXKxnsWsvCDbzgLQr6g~&ka=company_more_job_ac322e2af190b1cd0nx82dW6EFFY,0,0,0,0
+A2_05,A,2026-11-02,BOSS Zhipin,IDC暖通数据分析工程师,IDC暖通数据分析工程师,Data Analyst,1,法本,Computer software,Hangzhou,New Tier 1,15000,19000,15000.0,19000.0,month,17000.0,3-5 years,Bachelor,岗位职责: | 1.数据获取与预处理:在公司内部数据平台上按分析需求完成设备运行数据的查询与导出，处理缺失、时间对齐、采样粒度、异常值等常见数据质量问题，并按规范整理归档数据集，保证口径清晰、可复用。 | 2.故障案例复盘分析:对故障诊断算法输出的告警案例逐条复盘，判定正确检出、误报或漏报，分析背后的数据原因或算法原因，输出分析记录与阶段性小结，为算法改进提供依据。 | 3.能效分析支持:整理运行工况与能耗相关数据，配合完成调优措施的效果对比与现场实验。 | 4.现场实验配合:偶尔赴数据中心现场，按既定方案配合属地运维开展设备实验，记录过程信息并完成数据采集、核验与归档。 | 5.分析工具与文档:编写分析与可视化脚本，将重复性的数据检查和案例复盘工作逐步工具化;整理数据说明与分析过程文档，定期汇报工作进展与问题。 | 任职要求: | 1.本科及以上，暖通、建环、能源动力、自动化、计算机等相关专业优先; | 2.会Python(pandas)做数据清洗、统计可视化，具备时序数据异常分析、根因复盘能力; | 3.掌握冷冻站、制冷系统基础机理，理解温度、压力、能效等设备参数; | 4.可接受偶尔出差上海、南通，做事细致，善于输出分析文档。,https://www.zhipin.com/job_detail/c47521290a698bda0nx-3t-8EVpV.html?securityId=guyleQmFzqc1E-S1k-Yhzke56Ok3eZAS4KI7jMG3zWOjixWR8D2djn9426qKiQ0OZK91fQBKwS0QANlia3lKo9THf4F6eIS0oNGmFAV2xIoYMqgMlpVU0o3Z9MTX_8mu7xnuJq_mcVwk7x3P0wYeFICzKljU3R69MG59NuTEUNUhoNkjKeQ7CZ_SkDr2EfGooAejT3GWCMDKuC8YeFQ3wrFkbrna5zUScgdHrhjgj_7ZJwNEvDbn4WTXDRI_jPntcU1LHIy6uyRq_9gYqu2rt4vTSsKM_pTPWGlC0a2nYweadhbj9-2u7WdgAx3JAZnfrYtWmg_5I5OfQN1A4Ci_ouvI7oiPFiT6XsUw3SuesGnLxJB8jmr2PimzGmpW5Djhr_Cw9gNnT-38CVL-6ZqFFD_vkUsRpZjlpw~~&ka=company_more_job_c47521290a698bda0nx-3t-8EVpV,0,0,0,0
+A2_06,A,2026-11-02,BOSS Zhipin,ai数据分析师,ai数据分析师,BI Analyst,1,沈阳昊宸智创教育科技,Online Education,Hangzhou,New Tier 1,8000,10000,8000.0,10000.0,month,9000.0,<=1 year,Junior college,岗位职责: | 1、负责教育业务数据的收集、清洗与整理，搭建并维护基础数据报表体系; | 2、深入分析用户行为及教学运营数据，挖掘业务增长点，为产品迭代和运营策略提供数据支持; | 3、监控核心业务指标波动，及时发现异常并定位原因，输出专项分析报告; | 4、协同产品、运营等部门，通过数据复盘评估活动效果，推动业务流程优化。 | 任职要求: | 1、具备扎实的数据处理能力，熟练掌握SQL及至少一种数据分析工具(如Python、Excel等); | 2、拥有良好的逻辑思维能力和数据敏感度，能够从复杂数据中提取关键信息并形成结论; | 3、具备优秀的沟通协调能力，能够清晰地向非技术团队传达数据分析结果与建议; | 4、工作严谨细致，具有较强的责任心和自我驱动力，能适应快节奏的工作环境。,https://www.zhipin.com/job_detail/71ff9b99e8b709c10nx_3dy1GFZU.html?securityId=7lPmP8ScXrBKU-j1fdhtlOqnCfidFN9oB-pkTXSVfLFuMP_jhDl7Oemz1SXy5ayihnp6m72B9DajLxexXqPsmv3EYT8gMyc8PGBlHYvR3gKHokTs-THA5G20_V4CexX6Qqirf-q0NEY1xsOJ8ON7nbN7fWM0T_bcXc8MxNAozgMOkIzdGIIGfU6Y2tnyXH4IyxbTfYziry2SfEQjX2TdeIrsE09A0SbVU3-yIStFaii6fW8SJiw6DT26GpK9qtL3UTPLx-OXghySXacSOJdVnbfutsrpGQWndh-mDHLFFQBZxUluQbrxneltbm0nVlGFUgxdUrAF0hEwMEvA8FCs_jADn4PwhYRdC3cLBjA0vcE5SViPYyqiLUjBGEwOLIEp650_8i_9acK9FjppPwHWAsL2Fv6_md1EboI~&ka=company_more_job_71ff9b99e8b709c10nx_3dy1GFZU,0,0,0,0
+A2_08,A,2026-11-02,BOSS Zhipin,数据分析助理,数据分析助理,Business Analyst,1,Babycare,E-commerce,Hangzhou,New Tier 1,7000,9000,7000.0,9000.0,month,8000.0,1-3 years,Bachelor,我们需要你: | 1、协助完成京东渠道经营分析工作，内容包括:经营测算、目标拆解等相关数据处理和分析工作;涉及成本、销售、毛利、利润、费用等指标进行分析下探; | 2、协助完善业务线的经营数据指标体系建设，及时监控经营情况、定期出具分析报告、协调业务日常管理，核实后输出改善建议并跟进结果; | 3、协助对接业务线需求，预测经营趋势，洞察经营和管理中的亮点和不足，为经营提供决策支持; | 4、了解京东体系，能够和平台进行对账、返利单等相关工作; | 我们希望你: | 1、本科及以上学历，财务管理、统计学、经济学等相关专业优先; | 2、具备良好的数据分析能力，熟练使用Excel、BI等数据分析工具，有快消品类目、母婴行业相关经验者优先; | 3、良好的逻辑思维能力、沟通能力和团队合作精神，能够与销售部门紧密合作; | 4、具备高度的责任心、较强的学习能力、团队精神和敬业精神。 | JOINUS: | 如果你心怀炙热，对各种数据分析及策略感兴趣，加入我们，一起为爱重新设计，奔赴旷野。,https://www.zhipin.com/job_detail/99d5f0a6e4be85390nx539m0EVdT.html?securityId=28ALpBCP4SYng-o1wmvJe4zxXCARDGfHejZwhJIXyTm2gtTTwWGJApYcC2sFB2J6phy8WhixaVATkCXfNkI7R4DZ-GC8S2BIyobE-OK9Y-WKzERQud60jle4oaWiMt5q1ij_W-j3MoFx73GlTt8hqmhbXXlj8dncne6Xr8vm3v-PKusN8mvxCNhdJQpkjCdD2Ce4xQQ6tv95ledv3BWW_r1T7K78xTTta3ZD0KKiqc6WhimLW6NlBxGhqrFFKm3FmHQrWMOLaM5Tx0f2MQkLaGgg4z_i06Nu8jSdf6G0IkQ665WIlrY__0DgqdNO18csRzMpAm-74z1wzdT-YL8BHeltK09k4KWyO_zeAksqFfjSfOogPvs4PK5AxEBcWwckU4nJzCnx7Dj_avSUkFxmyoKN_Pv_Td7hKUES&ka=company_more_job_99d5f0a6e4be85390nx539m0EVdT,0,0,0,0
+A2_09,A,2026-11-02,BOSS Zhipin,数据分析师(银行/金融),数据分析师(银行/金融),Data Science,1,云象,Internet Finance,Hangzhou,New Tier 1,17000,19000,17000.0,19000.0,month,18000.0,5-10 years,Bachelor,数据分析师-高级 | 工作地点:杭州 | 学历要求:统招本科 | 工作年限:6年以上 | 薪资范围:17K-19K | (银行经验欢迎投递) | 1.本科及以上学历优先，数学、统计学、计算机科学、金融工程、数据科学等相关专业优先。 | 2.具备金融行业(银行优先)数据分析或建模相关工作经验，熟悉银行核心业务逻辑者加分。 | 3.精通SQL语言，能够熟练编写复杂查询、存储过程，高效处理海量结构化数据;熟练掌握Python数据分析生态，包括Pandas、NumPy、Matplotlib/Seaborn等工具的使用 | 4.深入理解机器学习基础理论，具备独立建模与调优能力。 | 5.具备良好的数据敏感度和业务洞察力，能够从复杂数据中挖掘核心问题与业务价值，清晰输出分析结论与建模思路。,https://www.zhipin.com/job_detail/305917cb54bee5460nx82tW1GFZY.html?securityId=CG7DnTv4e1xpr-n1TgLB_X6vJigPqu5CRdj83OY7Fqusc0BlPNXiD5oQ6-JvzDa_FFSU04JUdk5kBqswai6tK7oQ-V3NWTjVoBD6taoymxUSHJiPnW_EyuYutT_DVLGMQJbKj20-TX5m945KuLRaBDpBTlnw0C-8ggpfPi_0PHzzwIsLih5gUvLJpbrlVLBVIOdJovmhhDvmZrDyFi1WlsydYqDmpOsIprlrgTEAtIQFT88GruW3ENKSlzuznP0o6ccG9uV90uY5vDgfhNR7E9JfVontF2vLnC4pgX_KiLUTinWg1hNHan9fR0aclJGbkzgP9QNKyy4k8HzKvZBneE1aPFD180wqRJpg61p6pnNsgEjxSQAdNt7c19sWHtSrhzKmNVCAjcPuFaK0GeMQ3ne8zu_Xsc_yEg~~&ka=company_more_job_305917cb54bee5460nx82tW1GFZY,0,0,0,0
+A2_10,A,2026-11-02,BOSS Zhipin,数据分析师（调解方向）,数据分析师（调解方向）,Business Analyst,1,法易,Legal Services,Hangzhou,New Tier 1,8000,13000,8000.0,13000.0,month,10500.0,1-3 years,Bachelor,"岗位职责 | 1.输出调解业务月度经营报表，跟踪目标进度、调解率、回收率、人均产能等核心指标，支撑业务经营分析; | 2.常态化监控案件分案、员工作业过程及结果数据，维护专项复盘台账，及时上报数据异常; | 3.负责绩效相关数据提取、核对与交付，保障绩效核算准确; | 4.搭建和维护BI看板，推动报表自动化改造，落地业务数据数字化升级。 | 任职要求 | 1.本科及以上学历,统计、数学、计算机、经管类专业优先; | 2.有1-3年业务数据相关经验优先; | 3.熟练Excel高阶函数，掌握SQL、Python，会使用Power BI/FineBI做可视化看板; | 4.对数据敏感，执行力强，抗压能力强。",https://www.zhipin.com/job_detail/1185bbf6214ef54b0nx-3dm_FlFU.html?securityId=_bMQiLfaQE_ga-D1N1vpaR9UNFQ1bV_D7EVSK7lELkQRKT7Vb2wIQKjbDYs6peLzV1ZZkZ2S5YdJFOn99EKRyv2H1TDPl87uzOllcB6LaaL_irmRurBCBWrI-fW9XzaWyw6eM41odyd3ba8sdaydyCHcnBdJgcxeWLkwEL91ie6yPZjNUAijhV6_AEINt-jke5UAao6dkFqQ2YdsHUEZWDhfO7AZYEmjkWbCgrLNa0is3wfoBNzF1OjpOBead9YRHQ1pxluZN6RCZSwEkoSHP61_HHXoFimspybRMZxFAbmcQk1J29qwKsfHimVD0CIS4Fmc6Ndlundp2Hx_KSb3onIAASkaGAcSedhgcE5YxSVowoZKABpXqiph0xZKDw-mOQoXX95yh5CwkaaSze_kKudsxxT-ORj6zXby&ka=company_more_job_1185bbf6214ef54b0nx-3dm_FlFU,0,0,1,0
+A2_12,A,2026-11-02,BOSS Zhipin,数据分析师-自研产品（云登AI指纹浏览器,数据分析师-自研产品（云登AI指纹浏览器,Business Analyst,1,杭州辰链信息科技,Computer software,Hangzhou,New Tier 1,13000,20000,13000.0,20000.0,month,16500.0,NA/Other,Junior college,职位名称:数据分析师 | 工作地点:杭州 | 岗位职责: | 负责营销业务的数据分析，包括用户增长、活动效果、渠道投放、转化漏斗等核心场景，输出可落地的业务洞察。 | 搭建营销数据指标体系与看板，监控关键指标波动，定位业务问题并推动优化。 | 参与营销活动的前期目标测算、中期实时监控与后期复盘归因，用数据驱动营销策略迭代。 | 与业务、产品、运营团队紧密协作，将分析结论转化为可执行的行动方案，推动业务增长。 | 沉淀分析方法论与数据资产，提升团队数据应用效率。 | 任职要求: | 本科及以上学历，统计学、数学、计算机、经济学等相关专业，2年以上数据分析经验。 | 熟练使用SQL、Python(Pandas/NumPy)进行数据清洗与分析，熟悉Tableau/Power BI等可视化工具。 | 有营销业务分析经验，熟悉用户分层、活动ROl评估、A/B实验、归因分析等方法。 | 具备较强的业务理解能力，能主动发现问题、提出假设并用数据验证。 | 沟通表达清晰，有跨团队推动落地的实际案例。 | 加分项: | 有电商、本地生活、社交或广告行业营销分析经验; | 有A/B实验平台、用户画像或增长模型搭建经验; | 熟悉大模型在数据分析中的应用(如自动生成洞察、NL2SQL等),https://www.zhipin.com/job_detail/b29cd7a1d6dc61150nx509q0GFZZ.html?securityId=MTdE43TUiDS9--91Rb1PL8MFRHxX5der-G2Th2G4nlDZ-t0mEeMsJ1J0j8PanYksPZ7qbqSzsOBE_mytzgkkM7FZj6isxBaPu7g_bOt6yVDjiyBXCg9r18Lsv0ArYecJynyiy2q4dlYK3OUFs2YLk8TPQiHb4sPS7ej14z4oPuBSPVBmSPAa-HxeCiq2GIukH4Jqvz5rt2rodCTgjb4zQLRx3MiXw_EdE4hTE5hAHzg1wysJSGxRsNwjHGtjK_GWzAjlANGEZa4YhjVi_s5LKMt5YFMqrvtIeu9cmW24NxM5xhz1QbU-4T8F-LETJffxKFXKKyT06UsjW4FUBTUW24JmUqMxJZAl0QSlyGbN7b3iCjpEqtmO994KZcmKpPYlAr_YlKOwOG6hjOo6dXlY8txJ8WAZrqUgJlDr&ka=company_more_job_b29cd7a1d6dc61150nx509q0GFZZ,1,0,1,0
+A2_13,A,2026-11-02,BOSS Zhipin,BI数据分析师,BI数据分析师,BI Analyst,1,vala,Computer software,Hangzhou,New Tier 1,7000,9000,7000.0,9000.0,month,8000.0,1-3 years,Bachelor,工作内容: | 1.负责公司产品相关的技术支持，承接客户需求(如APl、客户定制需求服务)，及时把客户的需求进行反馈落地; | 2.日常客户技术答疑解惑、通过线上方式沟通，帮助客户解决问题; | 3.主动深入业务，通过客户反馈、数据监控，及时发现问题、为业务团队提供数据可行性支撑，挖掘业务机会; | 任职要求: | 1.全日制本科及以上学历，数学、统计、计算机或其它工科类专业优先 | 2.有it技术支持从业经验者优先; | 3.精通数据分析工具，至少会使用SQL、hive、Python、R等数据分析工具中的一种; | 4.具有解决问题的能力及服务意识; | 5.有较强的逻辑分析能力和数据敏感性，工作严谨认真负责，思路开阔;,https://www.zhipin.com/job_detail/90b02ecd08a704690nx-09u9E1tQ.html?securityId=lXB2KaT3aTwW9-t1NRF_uiU_6em8qbEeuAw9k8l-SugCpgvk1l45H_60s7KJYt6DPZVrbHewbXNeafcwKTniVVe7ABVs4u5_0dwQpjxTXpPEr4Wyu2LFy2ni6DM4H5fHe8gOZ77fN3kQN1M0Acii7EoGO3KBXZXQAmPts6-jj9dtyGXXManMcsfJtHpxh_1M2rPm2h77Yx8qmHRrzUanJQ_ZWwkPfy18fGe9UMcMTSQ9dAS1-GUzrF-Oeyjgv9iMRr_cckHHjQPep-WAQtYd3UUn7HzbOSPK2l13QMv_WpjODZIQNDU79ajYojP6ty9qnE3srktPjdmoTScReUyUs46gytoSAn3W6i7imyNWKyrhEcrnsPM4gZjF51O5TflsJW_soLPsz2s7T1M0oNovqNKY-AUt6fMbYRgR&ka=company_more_job_90b02ecd08a704690nx-09u9E1tQ,0,0,1,0
+A2_14,A,2026-11-02,BOSS Zhipin,数据助理（可双休）,数据助理（可双休）,Data Analyst,1,成都悠鑫龙商务信息咨询有限公司,Business Services,Chengdu,New Tier 1,6000,7000,6000.0,7000.0,month,6500.0,NA/Other,NA,岗位因扩招在进行招聘，感兴趣的欢迎随时咨询。 | 工作内容: | 1、部门内部相关数据统计: | 2、文件文档的整理交接; | 3、及时更新部门之间的文档信息做好对应的备注; | 4、完成直属领导安排的其他分内工作。 | 任职要求: | 1、会做数据统计，熟练使用办公软件; | 2、做事负责任、细心、耐心; | 3、具有良好的语言表达能力、协调能力，善与人沟通，逻辑性强: | 4、男女不限，没有学历要求; | 5、接受无经验; | 工作时间: | 早上9:00-下午18:00(午休1个半小时)法定节假日正常休息。 | 1.室内办公，环境安静，同事氛围简单无内卷 | 2.法定节假日正常放假，节日礼品、下午茶定期安排 | 补充说明 | 纯文职基础数据岗，不需要专业数据分析建模，上手简单，适合长期稳定发展，有意向可直接投递简历预约面试!,https://www.zhipin.com/job_detail/ffeef1893470505c0nx52ty9GFJR.html?securityId=p6l80Odu4ukQb-A1Mhp_rQJLVdLC37arX-KbRrltzKDS2OAbR1HaYg94zJU4uWiWWldHLY9PXCE87GzoS5FoBfTDZQy64QlJa0W0mwCJNqBcrI2ZX-eJpzVGn4NHKeuyBp8BOrUbFT_PCegwFfaI7bT8W_5Lyxr0-08WMNg0Wp-PUcnPgkJkz9o_jaTvehpZhG48MaLOaeVhV-VublmbghU6Is1kbUH2mN4oLEYxAhQmw-BPMcO3FlpNJeFEN29nH9Ua9M9x87sZO4Nsc5UsP2oz15HSF8cgUcWogKA5zxyQCAR7dkRVhh4DAvJOtwSOFHfqKzn2155sYyuNgh6fjM0-K-AeuiQeSMcR-8l72uPBmTMWvXVKXkz6fcHryUv3ISkDf_W7Ojn6eMtpYfPqzeo1gpdiSPCCL5ea&ka=company_more_job_ffeef1893470505c0nx52ty9GFJR,0,0,0,0
+A2_15,A,2026-11-02,BOSS Zhipin,大数据分析,大数据分析,Data Analyst,1,成都心动驿站,Internet,Chengdu,New Tier 1,50,55,50000.0,55000.0,month,52500.0,NA/Other,High school or below,工作周期:长期兼职 | 每周工期:5天及以上 | 工作时间:不限 | 工作时段:工作日 | 结算方式:日结 | 招聘截止时间:2027-08-27 | 1.负责数据分析和收集，业务推广 | 2.通过网络平台和短视频平台业务开展收集，收集具体分析客户情况! | 3.主要分析客户单身情况和择偶要求 | 4.时间自由,https://www.zhipin.com/job_detail/048a4c7794ea96760nN42di0EFdZ.html?securityId=Urv31NGzJrd7A-m1iH6iHIm_H9kukKS1O7OpujowgMiPSnt9rj3gG6ODUP8IWcu6LXweNsB6l7li4xTR6SDFjqQiy39ndxoAk-fXfcxYjE0NP8QENmdFEKBdMypUgYcDUX0VfC2StEfsmXrPMxrarHZM1aW8IiLtvgz-T0pVbs-5f87nGYwETeipWUoGTam81qVsC3pxWBY3RufexEUI88F6KxiNtn7tJihviEM1wh9BMPwtDKCoNX618FZTV_foEaY4AuP7Vzn-VfVUouxcU-ibnTNLSK5_H55m-GogeabIU8oiHr9CjnGZfkmNLpNMiUMQRR59OK-L_Voe-OBqBNsz75CtNo5mVheV-90JN7Yqgy-vlchTfIYBCPJ8ro9db-6wFaUW0Nz9utO3Vx7OA09CnHWNsNJNCn7V&ka=company_more_job_048a4c7794ea96760nN42di0EFdZ,0,0,0,0
+A2_17,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,绿维源,Financial Services,Chengdu,New Tier 1,7000,12000,7000.0,12000.0,month,9500.0,Fresh graduate/Student,Bachelor,毕业时间:不限 | 招聘截止日期:2026.12.19 | 1.工作详情:交易员，金融方面的对冲，黄金、白银、原油等。 | 2.任职要求:对数学敏感，学习能力强，游戏打的好的加分。 | 3.薪资待遇:完成1500美元后，底薪4000，加30%提成。没有完成可以加上下月。 | 4.具体内容:黄金、原油等不同交易所价格不同，用已有的交易机进行对冲。 | 5.上班时间:周一9:00am；周二到周六10:00-18:30(大小周)；中午2小时午休 | 6.团队刚搬回成都，目前交易员20位，平均年龄25岁左右。工作地点在成都!!!,https://www.zhipin.com/job_detail/05d578277702dec50nJy09S9FlZX.html?securityId=_wmxgV2gUWgsS-81HYTKIPEcGkcVlaoNvVpO1mwb1z5CQzrg7ylUOhkYx14YSCxsCWyv4GaFJruAG_ua9YCrb2fKe_2IWVHuDTVu-ClTAT2CipbBXnJDVB0bU9XcuCofOJpvyraCGtaJkG_Fp5HZDq1sPTe9jSg2aoAeVaqeF8WZsslkCTcfW_YIm_0KKxkyMPzCfIWdarQ8T3oZVIPZhR4aFqR382v2LoYZDxrVjB6zXzwf1EWFUnpB4IRKnKQ9H-eahUf-9tMJhrSo871jxP8PO-pKGuMD4LFLBh4Mh_D5XlU4okHo5JiG_ROJ2QPSD0U8C6OSd81UDydc4eL16r24BcXTRh8PKtOChUxMXoTQYTNjb7hWs8wigONNnxB-HO9EgSt1MWcwyT8XfVTpzQ0-ytgaICSJh990&ka=company_more_job_05d578277702dec50nJy09S9FlZX,0,0,0,0
+A2_18,A,2026-11-02,BOSS Zhipin,SPSS数据分析师--异地+居家,SPSS数据分析师--异地+居家,BI Analyst,1,成都信效度科技,Consulting,Chengdu,New Tier 1,8500,20000,8500.0,20000.0,month,14250.0,NA/Other,Bachelor,工作周期:长期兼职 | 每周工期:无要求 | 工作时间:不限 | 工作时段:不限 | 结算方式:月结 | 招聘截止时间:2026-12-31 | 此岗位为兼职岗位，高薪、可异地可居家，多劳多得，综合到手8000元一20000元，上不封顶! | 技能要求: | 不论你是高校老师、在读硕士博士、留学生、企业职工等，都可以选择我们哦! | 1:熟练运用数据分析软件，包含且不限于 | 2:会问卷设计、清洗筛选数据、数据分析、指导教学等; | spss/amos/stata/mplus/smartPLS/R语言/SAS/Python/Tableau/Eviews/MATLAB/PHP等等; | 3:会基本的谈单技巧，进行合理准确的报价，引导客户下单; | 岗位需求: | 1:及时且准确回复客户消息; | 2:配合店铺处理客户要求及售后 | 3:需要分析师一定要积极、耐心、有责任心、有时间观念完成订单 | 4:一定要时间足够多，能够很好的接单做单 | 5:接受和客户语音沟通 | 6:本科及以上学历 | 工作时间:自行安排，随时接单即可 | (希望你时间多，保持稳定接单，粘性高保持长时间合作的分析师更加受大家欢迎哦!)各位分析师你们好!希望能够通过招聘平台和你们取得深入的合作，如果能够有幸跟你们建立合作关系，我们是能够给予分析师足够的尊重以及公平合理的收入。我们的客服都是经过专业的培训且非常有经验的，能够配合好每一位分析师完成所有订单;如果你是刚入行的分析师，请毫不犹豫的选择我们，我们完全能够替你们所想替你们所优，做好每一个环节的把控，让您心无旁骛的接单;如果你是有经验的分析师，我们也热烈欢迎你的加入，在我们这儿你可以自由的接单，合作起来也是会非常顺利的。我们在承诺客户每一个订单都会优质完成且有售后的同时，也会竭尽全力保证分析师的权益的不受侵害，在这儿不是雇佣关系，而是对等的合作关系，请放心大胆的选择我们!,https://www.zhipin.com/job_detail/837bb0ed91fce4720nB439W6ElBU.html?securityId=_5iKIJtZd06rL-Q1RGFcOKDSXSA8TBaSJtVv9d26DtBIHuxVBx45pDUmqfGFWdp8e8hmpcysWBZvChJ80nlI77v9zcQJ4vtaKyCSjRFJV25qYf16dItNVpiqx_7z92fZgxBLoXEBImJhAi_6mJWhFHClYuUz10ATXRB8YXopbhy-MSYH3U1TkylT3AfG54kbZylDAUwzzv0f20VmUExBWMnJHEiy3V2J0iyK5ckqGrebJHfjMWc8Aj9J7BV9b_uXtWD5xMkqngwaUL57_R0RHiON41tge6CLr2vIEl2Aco-cF-pLSCEi7qC5TJVB1o5q88lAumiJ1IsQahaEYrU6k3FDDfdCJGQScPLUPB4N0vOhkwOf0mIYcTVX8WOWNbats0TmG91nwnujx6rtVm91MPiLf0ifAbVR1-Jx&ka=company_more_job_837bb0ed91fce4720nB439W6ElBU,0,0,1,0
+A2_19,A,2026-11-02,BOSS Zhipin,早九晚六双休 互联网数据分析师,早九晚六双休 互联网数据分析师,Business Analyst,1,成都佳音鸢飞,Internet,Chengdu,New Tier 1,7000,11000,7000.0,11000.0,month,9000.0,<=1 year,Bachelor,"工作内容 | 1.围绕用户增长、内容运营、广告投放、商业化变现等业务，搭建指标体系，开展漏斗分析、AB实验评估及效果归因，助 | 力业务策略迭代。 | 2.依托业务行为日志，运用SQL、Python、Hive、Spark完成数据清洗、关联分析，输出具备落地价值的业务洞察。 | 3.通过指标异动排查、趋势分析、归因分析定位业务问题根因，输出优化建议，推动方案落地。 | 任职要求 | 1.学历:985/211本科及以上学历,统计学、计算机、数学、经济学等相关专业优先。 | 2.经验:具备互联网产品、运营、商业分析、数据运维相关工作经验优先。 | 3.素质:工作严谨细致，对待数据核查分析工作有较强耐心与责任心;具备独立思考能力，不盲从表面数据，善于挖掘定位业务问题。 | 4.基础:熟悉互联网业务逻辑，逻辑思维强，可以快速理解项目数据标准、分析规则与业务口径。 | 5.加分项:接触过埋点设计、归因模型、因果推断;熟练使用SQL、Python、R等数据分析工具优先。 | 工作时间 | 09:30-18:30,双休 | 薪资待遇:综合薪资7-11K; | 1.底薪4000+岗位补贴1000-3000+绩效;岗位补贴依据个人能力核定。 | 2.培训期10天，100元/天。 | 流程:初面-推送简历-业务方筛选，二面--试岗(7个工作日)--通过入项",https://www.zhipin.com/job_detail/54fac3c61f3a45950nx_2Nu_FltV.html?securityId=0ulKQSAarr2Sq-K1SYRA12_lRyo3omez8xTwUNTSI30o7VbCuChfPhgHmyKP5xEPJ6zLFDb5Xx5IE2oAYVub9qwdGxF33KrA7DVEYn1jj9gvOe2wEFDw8fTlY9NWmLbRRrkrjODXAxQtKx142kYXq9999pBfaPpaWuHAcgPnzvJ1zZtOrl3BuppbEtzzNd-1oiCUk_JjgPPpBShfQdPmDxmIM3RjJ5PGo_2fhBRwVr93RbeZfNVk_mFf9ioPVMmGXo3eM5oOofeGrjdfz3STc1XV_77ubCub5jViHul6pBvmLC5ko0RCliAB7MT_q0olHLqjePxLClcQveqqEscuKN8f-KugdmX7SFhE3ogl0MNLdW0SlAUvjoj2eA3BPyDkn-n7dKkt_XtvQmOoGr_E7tVn0as0EXE_xbDN&ka=company_more_job_54fac3c61f3a45950nx_2Nu_FltV,0,0,1,0
+A2_20,A,2026-11-02,BOSS Zhipin,多模态数据分析师,多模态数据分析师,Data Science,1,腾讯,Internet,Chengdu,New Tier 1,12000,24000,12000.0,24000.0,month,18000.0,1-3 years,Bachelor,腾讯全资子公司智研科技岗位，自有员工。【多模态-数据分析岗位JD】 | 一、岗位定位 | 标注团队核心数据分析岗，围绕业务需求开展工作，负责标注全链路数据监控、质效分析，协助管理团队进行人员管理，挖掘业务质效痛点、推动改进落地，为团队管理决策和模型训练数据供给提供核心支撑。 | 二、核心职责 | 1.持续指标分析与优化:聚焦业务方需求，负责标注业务全链路核心指标的常态化分析，挖掘指标异常及根源，结合业务实际提出可落地的指标修改、质效改进及整体优化方案，协助推进改进落地。路数据的实时监控，及时同步数据异常及质效问题给业务方，跟进问题闭环，保障业务推进。 | 2.数据看板搭建与全链路监控:搭建并维护标注业务核心数据看板，实现标注进度、数据质量、人员效率、成本消耗等全链 | 3.标注平台需求收口与对接:承接业务方及标注团队相关的数据分析、平台功能需求，做好需求收集、梳理、收口，对接平台研发及相关角色，设计和搭建标注工作流，通过自动化手段持续提升标注效率，推动需求落地。 | 三、任职要求 | 1.学历与专业:本科及以上学历，统计学、数学、计算机、数据科学等相关专业优先，1-3年数据分析相关工作经验，有标注业务、Al训练数据相关数据分析经验者加分。 | 2.技能要求:熟练使用Excel、SQL进行数据提取、清洗与分析，能独立完成常规数据分析报告;掌握至少一种数据可视化工具(Tableau、FineBI等)，具备看板搭建与维护经验;具备良好的逻辑思维能力，能快速定位业务质效问题、挖掘数据价值。 | 3.工作严谨细致、责任心强，具备良好的问题解决能力和抗压能力;有清晰的业务思维，能紧扣业务方需求解读数据、提出可行方案，协助推进业务改进。,https://www.zhipin.com/job_detail/889239ff4e998b900nx_3Nu9EFVW.html?securityId=9KjyhmHznlRIT-S15z1sSHQ0HDq33cdpGYQk2WChYH0B4O0dMP6jYDq1ntWdzR574bJZLGdPXfOfPfe29MyXsR6qsNFWb9J1u7_dY8kaptCMnJ2ZnHMPmeAIyxnR-YS7AL4xiiWQVIXkIA2XDXN4J7cud7U5U_hoiiZejuI7Ls8CSoAPObHpXuzWsvX4EBS9Nlz9ySILQ95Rxn3Nnt1i07j_33B99YhAiN8NcW6W86JCQMp7Krp63kw0e6hVGQwSzsJ16DlgCFn_Y-oB5avuQk90c99Gs4f1gn2adA-1SVWbeo27mfcUj0BipaRpSEWuQI8kZ_RHNvIPUM_6wTym5-j40ISN11giyH1XfYOOEXpTojb8k25c4FKnOTqcWLT-_xZwbT4dKYeBWkPXo-5Ol3XDx2L5HsUF65qg&ka=company_more_job_889239ff4e998b900nx_3Nu9EFVW,0,0,0,0
+A2_21,A,2026-11-02,BOSS Zhipin,数据助理,数据助理,BI Analyst,1,成都彩虹棉花糖餐饮管理有限公司,Dining,Chengdu,New Tier 1,4000,6000,4000.0,6000.0,month,5000.0,Fresh graduate/Student,NA,毕业时间:2025年-2026年 | 岗位职责: | 硬性条件!!!!!:要求掌握简单的SQL、excel公式，有笔试 | 1、收集、整理各部门业务数据，按要求填写和维护日常统计表格，确保数据及时、完整。 | 2、检查数据的准确性和一致性，核对缺失、重复、异常数据，并与相关负责人确认、修正。 | 3、建立并维护问题及整改任务台账，记录责任人、完成时限和处理进度，跟进整改结果，及时反馈逾期或未解决事项。 | 4、协助制作日报、周报及其他基础数据报表，整理数据变化和待处理问题。 | 5、负责相关表格、数据文件的归档与版本管理，支持新系统建设前期的数据整理、下载和核验工作。 | 6、了解简单的excel、sql和对Al使用有初步认知 | 【薪资待遇】 | 工作时间:早9:30-晚6:00，午休1.5小时，单休、享受国家法定节假日正常休 | 福利待遇:薪资底薪+绩效，均薪4-6K+，购买五险，公司团建活动，生日会。 | 职位福利:绩效奖金、节日福利、定期团建、带薪年假、优秀员工奖金、团队气氛活泼 | 如果你想寻求一份稳定，公平，且有发展空间的工作，那么我们公司期待你的加入 | 任职要求: | 1、学历本科及以上,https://www.zhipin.com/job_detail/9a0c975c8b842fdc0nx_39-5EldS.html?securityId=D7ih3VvXTkNtR-z1MGHCjNxNzhgABAx5jExlbWHbMQkM55QKtkdR-MAPYyYhFNHKrUEcmKcNLc49vwe28KkMRthLl_g6zl6SPlxq8ChRBy9uoqb8WDaeigjVWtx8zy0LXa8_c9FLhIvMLztXgJJtelIOifdJTRt3ftryGQ9NHr2q-6LRhBwqrXw4U5huhMHfqLkyrdwekuQbV3yqXFqpp6CYml6niVw-IU2QZtDEhpyVlWgD4u3FRJUFJyjq2y9usZ7khUuKuiC7wb0eeBVH4rLfVZRbBZ50aA8y4MIZ8_zDbgqSlyH9PjsP_vZ9kpApufjgkoUX46oD4wvctVOTjzH6xuLTIwk9hlF5oAC3IGrO5drv72MnsyxhtpJNsGIxiY7gKp7gSjFUQNeXSW7otOv7OJqi3mvQ6v4~&ka=company_more_job_9a0c975c8b842fdc0nx_39-5EldS,0,0,0,0
+A2_24,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,智器云科技,Computer software,Chengdu,New Tier 1,6000,10000,6000.0,10000.0,month,8000.0,1-3 years,Bachelor,智器云是中国执法调查和情报分析领域的领军者和龙头企业，公司以大数据、人工智能和知识图谱等技术为核心，集软件产品研发、Al平台建设、分析服务和专业培训于一体的科技咨询公司，本公司致力于服务政府及相关单位。 | 岗位描述及相关要求: | 1、支持销售外出拜访客户，作为公司技术专家的角色在现场给客户做技术沟通和需求收集 | 2、使用公司自主研发的可视化分析产品及各类数据分析工具和手段，针对公安、烟草等行业客户需求，及时处理和分析各类案件中的数据及信息并汇总反馈分析结果。 | 3、以客户为导向，有针对性的准备售前拜访材料。 | 4、具备良好的培训沟通能力，能够面向客户进行工具产品的售前与售后培训。 | 5、协助销售同事完成投标及产品交付。 | 任职要求: | 1.本科及以上学历，计算机、大数据等理工科专业。 | 2.有较强语言表达能力与逻辑分析能力。 | 3.熟练使用Office等基础办公软件，掌握EXCEL透视表及函数; | 4.熟练使用SQL或python者优先。 | 5.能适应短期不定时出差(出差时间通常一周以内，地点为四川、重庆、云南、贵州，根据大区需求安排)， | 6、本岗位为社招岗位。 | 7、本职位不是销售，没有业绩要求，但是销售是我们的搭档，二者荣辱与共。 | 入职试用期购买社保、公积金，周末双休，试用期默认6个月，优秀者可提前转正，试用期薪资不打折。 | 我们有完善的培养和晋升体系，欢迎有识之士的加入!,https://www.zhipin.com/job_detail/ba1646145d36d2ac0nR52d2_GVpW.html?securityId=lYctBNcExcWQ3-Y1gY9p3UDnEg_usKAoqhCmEcUVazVSuecLLV64CWrGrH7fEeBxK79yPbrP2gb0nydAh5flRlfvsPKLBd0BA5J06S9UTRZEwj86Pt74i7Q38qadpoSbx5DG-WMGHjuG_oyDhjh0jmfarSCFcTfdEm596oV3Be9UDjP1s4tIPF0nmNX5agAc6iTgmxyHgFLMA8wXa_Pnw3opz1I3-bP5s-OiKwtxuLt3YHQ7farWTedBQwSmLmxyRJLEuv5zh57dddUWwA0gCZ9SCfQhsX8AauLh2BOWaKogAnufxpIkF7E6uxMD8Icq_fm6AvhPaOtkznCnoXphe6hRtQ1GDWhBcH-v02fsWkLjp_ts2vUte718aRDeQ9KPMEK0AneOG0DZdDe4HOvS-y6WXzxXrSK8&ka=company_more_job_ba1646145d36d2ac0nR52d2_GVpW,0,0,0,0
+A2_25,A,2026-11-02,BOSS Zhipin,数据分析员,数据分析员,Data Analyst,1,四川鑫艺晟科技公司,Business Services,Chengdu,New Tier 1,5000,9000,5000.0,9000.0,month,7000.0,<=1 year,Junior college,工作时间:周一至周五09:30-17:00薪酬待遇:底薪5000+提成岗位职责: | 1.负责公司业务数据的收集、整理与分析，为公司决策提供数据支持; | 2.深入挖掘业务数据，发现潜在问题和机会，提出改进建议; | 任职要求: | 1.大专及以上学历 | 2.具有较强的逻辑思维能力和数据分析能力，能够从复杂数据中提炼关键信息; | 3.对数据敏感，有强烈的好奇心和学习意愿，能够快速适应新技术和新方法。,https://www.zhipin.com/job_detail/8b8afe4af348bb8b0nx42Nq1F1dT.html?securityId=NNb2JwqI0Rmzg-B1Sr-1a1qtIA8H5ihGaQWM_ZzI82pXamVIeEKcpQCAXbLuWaux51Nih2DZr0IeKaQFQQDI1i0wrQ9SYWiV2MODC8eh3amapi4_6rDB4OMOJGlVdq2t2M_c4NnLhpLgSNxtaFYaHamXNWFCLtstiRJPRnsiC5HAd0-voMdFQGGYEN9oogcDR5rJpAy6cHpuqxk7IE1TtNt2V1KVW7JKIjY5Cz-WxcSr1Q3ha_fQZpmvMTERb-TJMGP-ujq6sAyJrTaQn9y47guItF6rgc1fpCi2iAK6N4klCyDq8C2XHgQ9boK0_h0zGcBpc4LPrL2QgeVMnPHV_e8_lfwU2bOp6ORHIh6BCsgxxhuizznyZMyRDo7Qy9o88ptxVX0EA_r3e-5eb-cjlG-kzGvZesF4My5O&ka=company_more_job_8b8afe4af348bb8b0nx42Nq1F1dT,0,0,0,0
+A2_26,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,武汉煦旭贸易有限公司,Financial Services,Wuhan,New Tier 1,4000,9000,4000.0,9000.0,month,6500.0,NA/Other,Junior college,工作时间:早9晚5，单休，包餐 | 工作内容:岗位职责:准确完成; | 1、执行高频交易策略下的短线交易指令，确保交易及时 | 2、监控市场行情与交易系统运行状态，快速响应市场变化; | 3、记录并整理交易数据，协助优化交易模型与执行逻辑; | 4、配合团队完成交易流程的合规性与效率提升相关工作; | 任职要求: | 1、具备良好的市场敏感度和快速决策能力，能适应高强 | 3、具备较强的数据处理意识和逻辑分析能力，操作习惯严谨; | 4、具有高度的责任心和纪律性，注重细节，抗压能力强; | 薪资待遇:薪资5k一10k | 工作性质:纯办公室岗，不找客户 | 福利待遇:带薪旅游、每月活动奖励、公费外出培训学习、分公司扶持及股份分红等 | 晋升空间:经理岗、总监岗、分公司股东，公平公正晋升，所有管理层全部公司 | 内部培养，无空降 | 工作环境:宽敞明亮，独立大工位 | 任职要求:年龄25岁~55岁，有责任心，有团队精神，心态好，有抗压性，有晋升欲望，懂合作,https://www.zhipin.com/job_detail/61eceae29114758a0nx539i7FFtT.html?securityId=FMihgpvT6pM4u-V1THY4FWowbO3Yrx2eRk7Ll_Q6LuCTrYxlrHsSM4BFh9gxyC5ySiQgd2bYaAgseZWD_PDnEAowFXpO1VTQzPjua-13C0Hd0HQFwrfBQQfYxh0MUwU4aRUDFWmAbzJB01y-uTPCwKdmy1_5LcMLEZJzU9m9SOzh7A4FfhjC698DkclPuQ6HezXo3ymfPp5Cqgcyuh7SjTeAWpKdFKjcjvDV2I70f2qPlxGaovpaVpoZBFJRxFvTveQnuD2lRsWhzayVE7T7QP1CSUYRL4ZO7yFtq0VhZlQQvehIHlOfpkxNzv4iazn9Ef-6EHUqASJ0Kmd35jS1ZLTBd3k43Jcydsamflwc4wmnucdWvLVrGOzGa87YLdksT7Z03AoMJd9EcPm9q9v-nWWp2VGspglpgRMz&ka=company_more_job_61eceae29114758a0nx539i7FFtT,0,0,0,0
+A2_27,A,2026-11-02,BOSS Zhipin,早九晚五 数据分析师,早九晚五 数据分析师,Data Analyst,1,武汉市妍盛信息咨询,Consulting,Wuhan,New Tier 1,5000,7000,5000.0,7000.0,month,6000.0,1-3 years,NA,职位描述 | 有大宗商品、农产品交易或供应链订单处理相关经验者优先。 | 熟悉农产品交易的基本规则与业务流程，能熟练操作常用交易下单系统及Ofice办公软件，具备基础的台账统计与数据核对能力。 | 工作严谨细致，责任心强，对数字敏感度高，具备较强的风险防控意识，能严格执行交易操作规范，杜绝操作失误带来的资金或货值损失。 | 具备良好的沟通协调能力与多任务并行处理能力，能在交易活跃时段高效处理多笔并行订单，灵活应对突发的履约异常问题。 | 上班时间:9:00-16:30 | 能够适应农产品交易的时段特性，具备较强的抗压能力与执行力，服从团队的工作调度安排。,https://www.zhipin.com/job_detail/b645e416aaa585d30nx-2NS_ElFR.html?securityId=aB7HEuN8Bi5R--J1F4HvVfLpxXSkWDLU-ItSnxXu-QUSLtX7Pyqx-KxWhW-P5ahOQmah-oxekqqKaLC2X7Z-Opq8cOEFALMp0nUNtdAsGU2V2rAOEIzMiiDRlymS4aIEsNDtaHoO5u3Yl6JoBqztorAbqI9OsnVoQNfA2UvTQtpQMneXbjuiapLu5OV3kXJzGkwluk8GtJsEPVrO_gOGTHhotUQFPlpdL9e811nSJnuIuNAsiPauOMugpx8pn-e4O5URRaRs0xM2A-EX43wD5TBJKMg_VbPeiKCnvCD8ROLEbEJ-wltqfqFiBRFgu41RN2p4--VkySlJBJy4nNKFSfw_ehS2pM8FhsJkkn0nMIAGJ9BO7ZjdxYfjSyZYOI2umDjZXwo0CwbD_SByAN-7HUYeBxuvGoWsBN3w&ka=company_more_job_b645e416aaa585d30nx-2NS_ElFR,0,0,0,0
+A2_28,A,2026-11-02,BOSS Zhipin,大数据分析师,大数据分析师,BI Analyst,1,FKCP,E-commerce,Wuhan,New Tier 1,7000,12000,7000.0,12000.0,month,9500.0,1-3 years,Junior college,岗位职责: | 1、深入调研目标市场，分析市场趋势与环境，多维度评估用户需求和竞品动态，为产品优化和升级提供数据支持; | 2、负责公司电商各平台日常销售数据的采集、统计、归类、整理，对各项运营数据进行数据清洗、挖掘、深度分析，制作周销售报表及月销售报表; | 3、负责产品全生命周期进销存数据的分析研究，对各项产品核心指标(库存周转、售罄率、动销率、毛利率、投产比、品类结构等)进行数据分析。根据销售和库存数据进行销售预测，为产品库存结构优化提供数据驱动和决策支持; | 4、对物流运输费用进行定期核对和复盘，通过科学的数据分析方法，为物流策略优化提供数据支撑及合理建议; | 5、了解谷歌、FB、亚马逊广告逻辑，监控、分析广告的各项数据，评估广告效果，为运营部门的广告投放策略提供分析结果及建议; | 任职要求: | 6、负责各类数据报表的开发、优化;与各业务团队进行有效沟通，建立贴合业务需求的数据仪表盘等数据模型，优化公司的商品数据体系、管理流程和方法，实现数据自动化;7、负责公司日常经营中的数据安全维护。 | 1、全日制专科及以上学历;金融学、统计学等相关专业有限; | 2、2-3年以上数据分析相关工作经验，有电商行业经验优先考虑; | 3、精通常用的数据分析工具，如python，爬虫开发，mysql和sqlserver数据库，power bi等数据分析工具，有前端经验优先; | 4、较强的逻辑分析能力，对数字敏感，工作态度严谨细致，具备敏锐的商业嗅觉，可以通过数据分析解决业务痛点; | 5、良好的沟通协调能力和团队合作精神;,https://www.zhipin.com/job_detail/500c4cd833430c7f0nZ43ti_GFBY.html?securityId=b1xKXt7fc0VXR-Y1UT3YTcqKDVmmFjDCXxPqloxWJxjopwt5bSv8Y3peqkzwsuiberFUTq3dNybZ1JZfj2tsg2Nppb-WUQ6fyZiBpVufbEILON5z7dyQ4G9KEmWCMCnVFzji2ohfYSIYK1M8d8E-cPlb7M2AyyP7rhBxUXhGs6qMZRhCqiQOwvhTWWUjHaT3vnaiT2-c2WB2YMN8PlvfUGYiRVDURxOJ9K7wmW7SqWaFt1tBnjBLngpUMoRolY-UWdX-69JEdZlgt0DJT-e602SlgG-_W9cVHUibzCxMEKbkXz3cydSRV7lvoJ6yL3k_D2Vyx0rZWQdVEGsfg3O2kEZ8Loo1f3h7hRsZTht0EzA1eB2hPXjXpMMwJ-ZfnEOvtzxODMl57WID-YbKHoxBgAD0aXn8uRtWFw~~&ka=company_more_job_500c4cd833430c7f0nZ43ti_GFBY,0,0,0,0
+A2_29,A,2026-11-02,BOSS Zhipin,bi数据分析师（业务导向）/早10晚7周末双休,bi数据分析师（业务导向）/早10晚7周末双休,BI Analyst,1,武汉泓易文化咨询,Consulting,Wuhan,New Tier 1,7000,9000,7000.0,9000.0,month,8000.0,1-3 years,Junior college,"岗位职责: | 1.流量管控及预算规划拆分管理:根据流量业务部门预算规划进行细拆，结合渠道实际效率，实时管控投放预算及规划，沟通协调业务与流量端需求，并跟进后续业务端执行情况(如遇周末可协调轮流管控) | 2.每月底对接各运营组排期、开课及预算，汇总同步至各个端口，月中根据实际变动情况及时同步 | 3.负责电商平台线上订单数据导出，归纳，汇总 | 4.业务运营日报、周报、月报输出 | 5.基础数据的整理，归档留存 | 6.应其他需求，能独立编制各类统计报表，确保数据的准确性和时效性 | 任职要求: | 1.熟练运用excel函数，sql,python，3年以上工作经验优先 | 2.学习能力强，逻辑清楚，对数据敏感，善于思考和发现问题，并独立解决问题，可独立制作各类报表 | 3.数学，统计学，财会等相关专业优先 | 岗位亮点 | 1.非后台岗位，是业务中枢角色 | 2.数据不是摆设，直接决定方向和资源分配能 | 3.快速建立对“业务全盘”的理解与掌控力",https://www.zhipin.com/job_detail/66e0c6ad5af670340nNy39-8FFdU.html?securityId=UV5KWb45rd-2V--19RNzYRMWPyk4L7qu4QqB6Aw6cUR_SwXxUweRFQeJkvqYv7CC7h_IN6r-pI-4Ir7veKbfmgS5J6aepR5lwElmbUHhOz4glZDscAJ6yosQ2subz8WXshsrnCEmSwQh4xUWHHiTS57V673O3NqUzMY9GsTVtIcyFLfLq8KNYMb86akD85PJPaicEfeAOFBusX8ZgYKCQ_I8gqdchXHkjrbXht93WqgiVMMac4TRqJfW8PGiq8FnK4oR8pomXpCYM7i0z2kLFy6l2F_y-A06uo1fj-slQW2KX7Ulxe6_2R5rrXxx_q5pElWGzGnkE0m3X3dmTlTmtkP28i6Y_TV9GxG4o09Rz4RSMWuP9covhdMFLJTW9hJEGbCS8HjLmgT1i2nk3Vk0nrKjE951tSAS3yLT&ka=company_more_job_66e0c6ad5af670340nNy39-8FFdU,0,1,1,0
+A2_30,A,2026-11-02,BOSS Zhipin,数据分析专员（驻汽车主机厂）,数据分析专员（驻汽车主机厂）,Data Analyst,1,都市阳光,Marketing & Advertising,Wuhan,New Tier 1,5000,6000,5000.0,6000.0,month,5500.0,1-3 years,Junior college,前期在自己公司培训，后面根据厂家的要求驻厂岗位职责: | 1.分区营销计划效率分析，包括营销后台数据统计，输出数据报告; | 2.区域营销计划把关及费用核销; | 3.重点网点营销活动帮扶; | 4.网点线上、线下活动执行检核; | 5.分区网点市场经理管理、培训帮扶; | 6.协助区域营销各项工作顺利开展; | 7.终端需求的及时响应; | 8.完成领导交代的其他工作; | 岗位要求: | 1.办公软件熟练，熟练使用数据透视表及其他公式，具备独立输出数据报告能力; | 2.有过汽车行业驻厂经历优先录用; | 3.良好的沟通协调能力，做好部门上传下达; | 4.责任心强，有一定的抗压能力。 | 工作时间: | 周一至周五:9:00-12:0013:30-18:00大小周福利待遇: | 舒适的办公环境:一线江景大厦办公 | 全面的人才培养:技能培训、管理培训、户外拓展给力的薪酬体系:提供高于岗位平均薪酬的薪资标准 | 振奋的绩效奖励:全勤奖、绩效奖、年终奖、优秀员工奖，每半个月核算一次提成、每半年调薪、内部晋升、公费培训 | 温情的福利关怀:节假日礼品、精美生日礼物、美味下午茶、差旅补贴、带薪年假、国内外旅游 | 贴心的员工保障:五险二金(父母补助津贴)、满三年赠送品牌礼品、满五年赠送浪琴或欧米伽手表、满七年赠送定制金饰品、满十年赠送价值2万元以上名表。,https://www.zhipin.com/job_detail/6c73050ecbb148a403Z82Nq8F1FZ.html?securityId=D3SPYq97UO3hA-v1CoXBaFc7zbEUs-iX9F_1LX1Jn0PTtxeHjYmfk_LiJraitn-pTSqdj-AwIxqKZzZ_kXInwV65UPwHd-dlqqhFOePaFT6DoNE0MM2M3p2Hd5Q0mMz88KZJ0tJ0WR0Tg9YhfOP-n8zKmDuP5rGp4AsoOQNVnFmdUjzeqluodBe2LzUAGx38sU3L3t-C6IEWSmSICVzu60bt5dAw5k1eNMKTJwtkmjuqmoyoP3HCI6J4dTMeqXIFezxQX4mQLGl7PGuI7xto1d7EHwYMxgVZ9puh_sa3lVI5wXvqCO8aYitscNCBJTBHMvrQ8Vs0d1oBcR7BRPI7l-hAtcAHditPRSe7xFtbCgG4C7G5Xu4I6FpyAWkOdeiiQYSN61NAHwsOQzSE-Lde0-D0FvN-12Ke&ka=company_more_job_6c73050ecbb148a403Z82Nq8F1FZ,0,0,0,0
+A2_31,A,2026-11-02,BOSS Zhipin,数据分析实习生,数据分析实习生,Data Analyst,1,微派,Gaming,Wuhan,New Tier 1,200,250,200000.0,250000.0,month,225000.0,NA,Bachelor,岗位描述 | 面向社交游戏业务，负责数据埋点设计、需求对接与数据分析，为运营、投放、产品、游戏策划等团队提供及时、准确的数据支持 | 职位描述 | 1.基础数据建设参与产品全链路埋点设计与验收，确保数据完整、准确、可追溯，并主动推动数据口径标准化 | 2.需求响应与日常分析快速理解业务需求，编写SQL/Python脚本完成取数、清洗与可视化;参与日/周/月报的指标监控与 | 异常排查，支持业务决策 | 3.数据工具使用维护并使用数数构建仪表盘;逐步沉淀分析模板与文档，提高团队数据自助化水平 | 4.学习与成长在导师指导下学习AB实验、异动分析、用户分群等方法;关注新技术，持续迭代个人分析工具链 | 职位要求 | 1.教育背景数学、统计、信息管理、计算机、管理学等相关专业，本科及以上 | 2.技能要求(必须)-掌握SQL基础，了解数据库原理 | -熟悉Excel 常用函数与数据透视表 | -具备Python数据分析基础(pandas/matplotlib等) | -良好的结构化思考与沟通表达能力 | 加分项 | -了解数数等埋点及用户行为分析工具 | -参与过数据竞赛、科研或实习项目并有可展示成果 | -个人特质好奇心强，自我驱动，愿意快速学习并适应变化;对社交产品与游戏行业有浓厚兴趣,https://www.zhipin.com/job_detail/0c05da0a3720447a0nx63tm7FVFR.html?securityId=xoVraZs3hM5hd-o1HOyFNAAjGKgeKHik8DHV6LT_C5lh2FI1OWRAPo72nsueJA0l2PP4IaoxjKG4NAifcJYgi-9x0hsGciEeaUZH7MrEqg8-NLcwdflfm4IFuAYIRWIgDbt09LzERp24i_iGbJU6F1xPOKy91MdkfZKe7OFrIV3IaACRpTu3Vqb4HETDSsFUY-BZPBU_5P6ExjLCNvDm6A3SxYVYk_2Ty7wRlIKJd7yPi6sxgZgKm6Q7Y4gxYLVEoB22XXjFnqQOS0UkzuWoxia7w6tVeuA0mt41np7LLlpRDvHIEWN4gHMkk-4-Dv1BKWDH334PgdRg2Ipo39t0TRRa9nUMAsx5yZtA1C9rPFc9eQOEayhNKbgEapczqr08BjcANetcQjSekIFQmcBa6N0SwbUVFDKE&ka=company_more_job_0c05da0a3720447a0nx63tm7FVFR,0,0,0,0
+A2_32,A,2026-11-02,BOSS Zhipin,数据分析师（上市公司零售行业福利好）,数据分析师（上市公司零售行业福利好）,BI Analyst,1,万辰集团,Wholesale/Retail,Wuhan,New Tier 1,6000,9000,6000.0,9000.0,month,7500.0,1-3 years,Junior college,"工作职责 | 1、负责业务数据的汇总整理、监控及跟进，为省区业务目标达成提供全维度数据支持; | 2、对业务数据进行日、周、月、季、年维度复盘，输出问题点及改善点; | 3、通过数据分析，监控各环节的关键数据，保证各项报表的准确性和及时性; | 4、研究各环节业务规则，及时对业务知识变化点进行培训与宣导; | 5、部门领导安排的其他事宜。 | 任职资格: | 1、精通EXCEL、PPT、BI等数据可视化工具的应用; | 2、本科及以上学历，有新零售、量贩零食等连锁行业的相关数据统计或管理经验优先; | 3、有较好的语言沟通能力、独立思考能力，抗压能力; | 4、我们希望您是一位有耐心、有信心、有责任心，积极向上、乐观开朗的合作伙伴。 | 大小休9-12,13:30-18，入职缴纳五险一金",https://www.zhipin.com/job_detail/af5ed66e6de3cde00nx50tu0GVRW.html?securityId=m4qQwv9USq8kT-n1OP2sRKs3gl0k-prBDwxb7xyWE-Bxe0MSLsqrKt3t6JZjywDgqalR9i6rrzUeVGRugimtvoRldR2gKl4HTACntRJJ8xndETgbwPMHTscCLAVeGIITSOrubGxs0VY7D_SyXovg68H690t22hUtl3dAcXaH1t0v_NnJDa6jkHU2sBQjNt8FMBziWOx3iPnVSAX7QjhHFMJBcgptxNP8nlpsjFuSthxCZYcpHFsJrm189jE7ktMyE3cPIepLFFOm1Rjys3NLS_eJSWZuKmdIZIdUJ2kpAFnfO09sw6D3ip9nq4zo0zGdkPVzGfcQFhTv2S2ST-D-4lzom_nxbvLenU3hrfHz3EiTgAanO48EFPDyQU0QWLV3Vly4v68u1abUoStxg1Z5Waf5kQqg0EuZWFC9&ka=company_more_job_af5ed66e6de3cde00nx50tu0GVRW,0,0,0,0
+A2_33,A,2026-11-02,BOSS Zhipin,电商财务（数据分析+五险1金+双休）,电商财务（数据分析+五险1金+双休）,Data Analyst,1,云果科技,E-commerce,Wuhan,New Tier 1,6000,8000,6000.0,8000.0,month,7000.0,NA/Other,NA,岗位要求: | 1、毛利核算:负责跨境电商毛利核算，大批量数据进行加工处理，保障及时、准确; | 2、库存管理:跨境电商店铺库存管理和库存分析、数据分析; | 3、跨部门协作:与采购、仓库、物流等部门紧密合作，优化供应链流程，推动供应链管理策略的执行与落地; | 4、负责财务总监安排的其他稽查管理事项，对前端业务的稽查工作，优化流程。 | 任职要求: | 1、有数据功底，熟练使用数据库; | 2、愿意与业务对接，解决问题; | 3、有原则，保密意识强，有钻研精神; | 4、有业财融合经验或想往业财融合方向发展; | 5、本科学历，优秀者可以放宽至大专; | 福利待遇如下: | 1.上班时间:09:00-18:00，国家节假日同步; | 2.缴纳五险一金，双休; | 3.晋升机会:我们有自己的培训和晋升体系，帮助每一位同事快速成长; | 4.节日福利:重大节日为员工发放丰厚节日礼金或礼品。 | 5.不定期下午茶; | 6.不定期团建;,https://www.zhipin.com/job_detail/24e8ec7bbda0c5d50nJ_3tS4E1pQ.html?securityId=vrMdeM-Z2Gala-G1HEAX5O-uswQvLKXQ10i6AhqmVN03WbhMJoyETgLkRhvUbzKIZvP512K78JF9NNLirSVhskvfroo-uDR0d5uu4U3bMkroCiNF8ie3ZnIFN5ibrmolGplhfIZA0w49FftE3azV0ZPD_9fZF_LO-caA9Hd3JMzVmIFXJdq6HdiPB9UA_cc1Ap5RL9ZHsolH3e-Eery0KygpjairtG7AKFhHlSuiExLOZxlba5nBwCS7LPAi_3zSLElwSTnRektba7EnFzGFfbvuU0Rx2bEuTFLsf5Q_F418D-VQkjukOzU40YSTwopgzTZ9mZy2GS7KAMjJnqo-H0F8Cfekwr173d3lKFJv3I7JKANMn2y6G-47_ylQjLkoZQxgogDLQQzNgI30nkuEsm99Froub9UPngzb&ka=company_more_job_24e8ec7bbda0c5d50nJ_3tS4E1pQ,0,0,0,0
+A2_34,A,2026-11-02,BOSS Zhipin,数据分析师/电商,数据分析师/电商,BI Analyst,1,武汉沃凡电子商务,E-commerce,Wuhan,New Tier 1,6000,8000,6000.0,8000.0,month,7000.0,1-3 years,Junior college,岗位职责 | 1.基于现有BI系统，分析业务全链路数据，输出数据洞察，为运营/市场团队的业务决策提供数据支撑; | 2.监控BI系统的数据同步状态、报表更新时效，对接服务商高效解决系统运行中的各类问题; | 3.精准理解业务部门的模糊需求，转化为可执行的数据任务，用通俗易懂的业务语言输出分析结论，推动项目落地见效。 | 能力要求 | 1.1年以上数据分析相关经验，对快消/家居行业数据逻辑有基础认知者优先; | 2.精通SQL语言，能独立编写复杂查询语句，从BI库中高效提取、清洗数据，支撑各类分析场景; | 3.熟练使用主流BI工具(如预策Bl、Tableau、QuickBI、FineBI等)，具备报表搭建与优化能力; | 4.深刻理解数仓分层逻辑，具备数仓建模实战经验，有成功推动数据项目落地的案例; | 5.沟通协调能力强，责任心突出，具备跨部门协作经验，能高效联动业务与技术端。 | 加分项 | 1.有家居行业数据分析经验，熟悉行业核心业务指标与数据逻辑者优先; | 2.学习能力出色，能快速掌握新工具、新技术及业务相关知识; | 3.具备RPA基础，会使用影刀等工具进行数据采集、自动化处理者优先。 | 薪资待遇 | 1.上班时间8.30-17.30 双休 | 2.薪资范围6-8k(优秀者面议),https://www.zhipin.com/job_detail/224674106af08b050nx-09W_FltR.html?securityId=E2higG-GXkRgP-l15mWRtAysaQwhLJ4VcmfJ1BVowIKRZsiImtXJN8rkeZmlvoXBf_Dp6Bh_hKb5jI0LQduYnwv3Z7YE7ejKviGK4wgi-vEjObcy5h5iRk4jRufmYAQWgE6LRvPvIqdlafpNoMe2fF1XrOaPun_qm3uStM2YmNRbPuyYf-uu_R4uJlvxnZFPQZeiy7HiSUIFslVCw4449sXwo8YgecsyqVJwYDRzdGQaMH69w7kZ67_yqMYHOleQNyKvTpjI0yK4TBC_Ke0IWJeo85GrARXzjn9RLeKSNKGnxUVdbsAGNkH4C98fA7-HcrOaHhSvBiN_zs89R4yV2xy24zUjP1Z0cTq32WLsf4670TBYdaSI1vvdKkRTB7sTtKfkfush3PYgSqnBefs6Yi48L3hz1TRD4R6b&ka=company_more_job_224674106af08b050nx-09W_FltR,0,0,0,0
+A2_35,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,南京胜冬钢铁贸易,Wholesale/Retail,Nanjing,New Tier 1,5000,8000,5000.0,8000.0,month,6500.0,1-3 years,Junior college,岗位职责 | 1.收集数据，日常做好数据分析，跟踪处理 | 2.分析市场波动与供需，输出基础数据分析参考意见 | 3.跟进业务相关数据变化，同步业务动态 | 4.结合数据信息辅助团队研判市场趋势，配合完成业务统筹工作 | 5.规范留存各类数据资料，保障数据完整准确，恪守内部工作规范 | 任职要求 | 1.大专及以上学历，具备数据分析、商贸行业相关经验者优先 | 2.熟练运用办公工具，对数字敏感，逻辑思维清晰 | 3.具备基础市场感知能力，能够敏锐捕捉数据变动信息 | 4.做事沉稳细心，责任心强，遵守公司各项管理制度 | 5.学习能力良好，可快速熟悉行业数据运作模式 | 6.心态抗压能力佳，服从团队安排，踏实稳定开展工作 | 周末双休，节假日正常休息不含销售性质!不需要打电话!,https://www.zhipin.com/job_detail/df26162f917b0c7a0nx_2NS1GVNX.html?securityId=8vtcVZuZK7JeT-21nMDK4NZxW8YrINbIVjW1Onl5dt6sX2W8qYNPF8swIMOKyDHj9dIJBeYkDJ9FyCw63_wH3p1CNwlMUkouspPfaZcMCMDA8am8roJZGdPe5PuDYtp6X_TMYNXyyJzYVhBEd0KQLk2Wus25Ku0ImpNjflyVp6M7vq7OUWY40yV-SREMDyMbFm1NzUJ2tqXW8uC5ACCg54t696F_RYhCYnZ8Dn6SSzKSaJBE96AbnMX9HQiyuRbAwTGkU72fyJh9yXYm0hBayORpXL6K2qt4ILOK9KQWjHZcfvNmC80665yHa-MT4ATx63SdZno6N_g7-wCyIWpb5_B12OZ29Xre5Kv9lS82I9gnPUeitMYF5JiMKeFDf_yVy2vK3A6Z2ezsdvU7vXeXe9KjuQEGrvi3287Z&ka=company_more_job_df26162f917b0c7a0nx_2NS1GVNX,0,0,0,0
+A2_36,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,温州惠玖姜贸易,Wholesale/Retail,Nanjing,New Tier 1,6000,10000,6000.0,10000.0,month,8000.0,1-3 years,Junior college,岗位职责:对产品数据进行系统分析，熟悉公司产品，对平台订单进行及时处理 | 任职要求:对交易模式工作有一定了解，有较强的数据分析判断能力，对数据敏感，会电脑操作，接受岗前实操考核评估后 | 入职 | 试用期无责底薪5k+提成，转正后7k+提成， | 工作时间9:00--17:00，双休 | 公司不收取员工任何费用，工作中不含任何销售内容,https://www.zhipin.com/job_detail/a5756bc3db4151810nx50t28FlNW.html?securityId=JAQ35v0Qztx8U-e1rLp0Y2qak9bFcYG2f97CHdwaRipY0oMq60njFiap4sSy_f6xF4v5Di79etGl5sdCAzCnU5L6OxoJ9IlYWKHk4YJGk383r4fOLJSphbRWnt1W8ptH2OIyVqyrF8y5ENzAh9Qef-yiEVYVpnDosLqwFP-FvN6kx_sHl6rfalCuZEmcUdmp1WFbmSu3QufwtDKLf7TnXnwxLhLYM2_vu6SzgF1ji7qe0dqeyJDnllI0nxPnfSGPm9e-dEETbBpQf-pa651Uj7LHD1XsRwT9lGr3oIwfH20qgEb0OTcPnFqp8G90nZS2Xs3bJnYqLEFw4nf1F8JnOVor4k97HdGNR7lNmxR7jch0lyGQ5ACRePylmd0gFx_JkNlVD6D98yAU7dNGIZV-57Y13CPLnp-RlZBx&ka=company_more_job_a5756bc3db4151810nx50t28FlNW,0,0,0,0
+A2_37,A,2026-11-02,BOSS Zhipin,数据分析支持,数据分析支持,Data Science,1,南京墨兰茶事餐饮管理,Dining,Nanjing,New Tier 1,6000,9000,6000.0,9000.0,month,7500.0,NA/Other,Junior college,(一)日常数据处理与报表输出障数据真实、准确、完整。心业务指标。 | 负责茶饮业务全渠道数据采集、清洗、整合，涵盖线下门店、线上外卖平台、小程序商城等渠道订单、营收、客流数据，保 | 搭建并维护日常数据监控报表，输出日报、周报、月报，重点监控单店营收、客单价、复购率、出杯量、物料消耗等茶饮核 | 定期整理门店运营基础数据，统计热销饮品、滞销品类销售占比，同步更新产品数据台账，为产品优化提供基础数据参考。 | (二)业务数据分析与专项洞察 | 跟进茶饮营销活动，监测活动期间引流、转化、核销数据，分析活动投放效果，复盘活动优劣，输出优化改进建议。 | 分析门店经营差异，对比不同商圈、不同门店的盈利数据，排查门店亏损、客流下滑等问题，定位运营漏洞，形成专项分析 | 报告。 | 调研行业竞品茶饮数据，收集竞品新品定价、销量、营销玩法等信息，结合自有品牌数据，完成行业对标分析。 | (三)数据可视化与业务赋能 | 运用可视化工具制作数据看板，直观展示门店经营、产品销售、用户画像等核心数据，方便业务部门快速查阅使用。 | 对接运营、研发、供应链等业务部门，精准拆解业务数据需求，为新品研发、物料采购、门店排班、拓店选址提供数据支 | 撑。 | 沉淀茶饮行业数据分析方法论，整理数据文档、指标说明手册，完善公司数据资产体系。 | (四)其他辅助工作 | 配合部门完成临时性数据提取、统计、核对工作，快速响应业务临时数据需求。 | 跟进数据系统日常维护，协助优化数据统计流程，提升数据处理效率。 | 学历要求:学历:大专及以上 | 专业:统计学、数学、数据科学、工商管理、市场营销、计算机等相关专业优先，专业不限，对数据分析感兴趣均可投递 | 基础技能:熟练使用Excel(数据透视表、函数、图表制作)，掌握基础SQL语句、Python数据分析基础者优先,https://www.zhipin.com/job_detail/dd5815ac19a005b70nx62di4FVJY.html?securityId=swSoMHAikrObk-J1eM09A5y_g58JzX3KDBhxv0sVxHbMj0zaJNJQZGhrvNWSIkWMdd8YLccUafjqjNLYfNKCyYSsNdvWHBhAggEsnAgjwJO364_abEGzhkDCaolalwwils9D3xPqgj1L05ISsY7T38WUNdI9e2vOJ66OYHuqmW723XTPYx_wH7WUGuKB3r6BGUQRZILPFzwfU1qQ_OwbY0sX5OYCXO5CJu2a981_6t8xP1vtdH2vBEDW5VqkUQqTsGkccyTRjatbS1v_cAGqSpqB7sjzKa9m8_Fh5rEVEB-YdNbDdDg6kxzrauYfVaRaRrm5hNsJT0ot24h3esKmY_S9rOqqSMc5Is6JWUWf4-VEpOL5t500DVous33tx4FSCmIRajQ5dZf-wnkXc74lJSiOtElXULh2ea8~&ka=company_more_job_dd5815ac19a005b70nx62di4FVJY,0,0,0,0
+A2_38,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,BI Analyst,1,杭州凯骋科技有限公司,Computer software,Nanjing,New Tier 1,6000,9000,6000.0,9000.0,month,7500.0,1-3 years,Bachelor,岗位职责: | 1、负责业务数据的收集、清洗与分析，输出可视化报表 | 2、深入挖掘数据价值，为业务决策提供数据支持 | 任职要求: | 1、具备扎实的数据分析能力，熟练使用相关工具 | 2、拥有良好的逻辑思维与沟通协作能力,https://www.zhipin.com/job_detail/bb54e9068bc2c4a70nx43N29FldZ.html?securityId=oeiTztnLCYces-K1yX3goYj7FD9xJ9AJ1HLxaJbZFHbZEtAwD98d6acNSdWNpN-ER6k_bEhmBuYmGbXT4GBUYvDm4EAeX4TPVSfPlkR-QSAE8p9pIFlW7kRDPlDC83uapv7GDmYyC2ArMCZaKM_5NsabZkG-dmcvdYeEVEr48Ui15OnJje8C9UDeKWHrHlWxc4kQ3LQtL_73Lb6-zhT6JCGMfvY3EaYUd87sxpYhatCqGftcdYfPOYZI5SUh2OxyZ8i4as4OJ3SGIyAo8XO2tfnR2D55hzTktyTiZFFGiy0bjprL08B15rnDkX3UxDr7TIDhGCcJCq2xWWZahQiMzzdZ8UxT3XQ7wqRIVd4LOsbwPZQ4NZT5RNqOZD1m5PzLXkfA9iinJpke0Zx5AbEaUAhVaNrQQ5DwJljo&ka=company_more_job_bb54e9068bc2c4a70nx43N29FldZ,0,0,0,0
+A2_39,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,BI Analyst,1,万辰集团,Wholesale/Retail,Nanjing,New Tier 1,7000,12000,7000.0,12000.0,month,9500.0,3-5 years,Junior college,"1、核心定位:聚焦运营OKR与业务痛点，提供“深度化、针对性、可落地、可复制”的数据分析支持;通过“工具化、自动化、可 | 视化、系统化、流程化""提升数据使用效率,降低运营团队数据门槛。 | 2、具体职责: | 2-1、专项问题诊断:针对运营痛点(如来客数下滑)开展深度分析，输出包含”问题定位-原因拆解-优化建议""的专项报告;以及不定期临时专案报告承接制作; | 2-2、高价值项目赋能:支撑重点运营项目(如优秀门店运营案例)，提供数据洞察(如E级店改善分析)，以及集团年度预算编列&分解; | 2-3、运营策略分析:定期针对运营数据分析(如拓展,加盟、竞业等),为公司策略调整提供建议/参考; | 2-4、数据看板搭建:设计并维护运营核心看板(如集团业绩看板)，提升数据制作&使用效率。 | 2-5、自动化工具开发:开发报表自动化工具(如自动发送周报/月报)、联动优化数据查询工具(如新零帮)，提升数据使用率。 | 2-6、数据技能培训:定期为运营团队开展数据工具使用培训(如看板操作、基础数据解读),提升业务端数据应用能力。 | 2-7、工具优化迭代:收集运营团队对数据工具的使用反馈，持续优化新零帮、看板功能、工具体验，满足业务需求变化。 | 3.任职要求 | 3-1、熟练使用Excel、SQL等数据分析工具，具备复杂数据建模与可视化能力; | 3-2、了解零售行业，理解门店运营、商品管理、会员营销等核心业务逻辑;有同类行业经验更佳; | 3-3、具备较强的逻辑思维与问题拆解能力，能从数据中挖掘核心洞察并转化为业务动作; | 3-4、具备良好的产品思维与用户体验意识，能从业务视角设计工具; | 3-5、具备团队管理与培训能力，擅长跨部门沟通协同。 | 3-6、良好的沟通表达与报告撰写能力，能清晰呈现分析结论与建议; | 3-7、有同类行业数据工具建设或BI开发经验更佳;",https://www.zhipin.com/job_detail/0a5ca44a4074348f0nN_0tu7F1NQ.html?securityId=fzuahQRAG8I17-B1jp1OVMsPqTda_cCLVTjnkFPaclzd3wh3DyIWjwFx0_SonUkPrWQwL1365G_XTVHxTnaeVVV0WeB477NecgF6oh74WpO9DOiwuxTLwG2WxDnj9P-veVPzzMPhruETx4W2zRuKciUFgbizPEM4j_jnQQ1NookCCMmMY0W2K8NNo1Lg3qo5rTcZvPpVJadm0OuCxht-PYsgMv5l19DkdsRcQkFPnqhufaJi1XGctvrqHcmydBLmN6C0GuC9dz5BrTeeuI9Z575FNTFYcYr_XoOVcLltITfJK0iSHP6iosFCHWzNsDT1764T8BmngrSGgwi0f8lJJTiUo-PMVojnmXyjwqYF6I94Z2mVx155M4xqqmKI5VcRsv0Nd7LC9qcnKbB_7ka3JL09tb07GUg_-t-B&ka=company_more_job_0a5ca44a4074348f0nN_0tu7F1NQ,0,0,0,0
+A2_40,A,2026-11-02,BOSS Zhipin,数据开发（数据分析、离线数仓）,数据开发（数据分析、离线数仓）,Data Analyst,1,北京软通动力云计算科技服务有限公司,Computer software,Nanjing,New Tier 1,8000,13000,8000.0,13000.0,month,10500.0,1-3 years,Bachelor,spark/hive/sql三个是必备技能 | 本科理工科相关专业,https://www.zhipin.com/job_detail/7d413303d52bce5b0nNy39W_FVBU.html?securityId=zOxYkJXIfEaQj-c11Y9MffFJWZ3maybwNzEE5U9QEr4cNw1Tw5gLOgPhUtxC6c5LQmugxJgOv78R5tuBmVyFiUlHkrE95WWpr1gQA_TY8vSJrnFE5JS1BPxOom8gCGcp626wvJ0FN6AFb0AHs-zK85tt2-bchvf2R5iTPWwVwVF5kgHDMhy9UAKoVw1AST0ZpHXxueuQ02MJv0U_EsPR0sPZ2bWA2TXwnaF9z58ESJ7675ln2Fr61g9egiWdwuqwhxSGt7BNnrkKJkvsbjFBfr5WSSufB8Nw3_9ti2gmmXiCRgv_hKICVvQamgPusBc1AqagFu3gpfL-kN-2oNH78J27Gu7LG1AMbtZcokM4tpyeTX4Rv84PxY05XL2b58drRyGfC5me3kFMbToj1yS_o6JQuK0GTWwat5yy&ka=company_more_job_7d413303d52bce5b0nNy39W_FVBU,0,0,0,0
+A2_41,A,2026-11-02,BOSS Zhipin,数据分析实习生,数据分析实习生,Data Analyst,1,领行科技,Internet,Nanjing,New Tier 1,150,170,150000.0,170000.0,month,160000.0,NA/Other,Bachelor,岗位职责: | 1.参与分析网约车运营相关指标，监控盘点日常业务数据并挖掘潜在问题，为团队诊断和解决运营问题提供数据决策支持 | 2.了解基础业务逻辑和数据表结构，熟练使用分析工具进行取数分析并撰写分析报告，协助推动分析结论落地; | 3.协助项目管理助理完成需求项目的推广和执行，并持续跟进项目进展。 | 任职要求: | 1.本科及以上学历，数学、统计学等相关专业优先; | 2.精通Excel，熟练掌握SQL技能，有数据分析类实习经验优先; | 3.责任心与自驱力强，具备跨团队协调沟通能力，逻辑缜密。,https://www.zhipin.com/job_detail/863ab6ec7851d90a1HJ439-7EVZY.html?securityId=21wfDo_tzkBj2-d1Zyfs_Nwssn_00IWroqNJJ6jErzup0JJ5iwc3hz6DAm_j8D03Q86Q2NWR7-0WAkLTBuwWypquifcYAfyFomPktmxhHMGbrHjW_Uh8HUvj1xH2OQF6H9vH6rODnwJ_irIpnTB0jZn4hO8m3PEYUFnquuqWIZI68CwwhepYTRxTr5gcr6DYzPcQLJtxWaVNYfMzjWexIcHs5pvAMgaEIWEOCHf1R0MKHXm9PfvzpW1kzXI-H7ae6Aqr5dicopzwL-z8sHevgZquGtLGDCTz73f1DP_PbS46HsV1R6w6nsImONpQAJM_ljQu1HAwamYZMivx0gS4spbivOsj8wNwfB5j7O6J31HXccnK9Z0_hDQ56MQbbCQg2HN0HGMr4GRS6UqIjJTjp9RKFlBLI9LXKfY~&ka=company_more_job_863ab6ec7851d90a1HJ439-7EVZY,0,0,0,0
+A2_42,A,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Business Analyst,1,芯港信息,Computer software,Nanjing,New Tier 1,15000,20000,15000.0,20000.0,month,17500.0,3-5 years,Bachelor,一、岗位职责: | 1.深入业务前线，理解业务挑战与增长逻辑，通过经营分析识别业务痛点，协同业务团队形成系统化改善方案，推动分析结论转化为可落地的业务动作; | 2.负责撰写高质量的分析报告和需求文档，跨条线协同促进项目的设计与落地，并能够定期复盘与持续优化; | 3.结合行业形势与市场趋势研究，建立标准化行业分析框架，为业务策略制定、区域投放及行业渗透路径提供建设性意见: | 二、岗位要求 | 1.全日制本科及以上学历，计算机、数学、统计学等相关专业; | 2.3年以上数据分析相关工作经验，有金融、租赁、ToB业务或产业互联网数据分析经验者优先; | 3.熟练使用以下工具中的1项，FineBI、SQL、Python; | 4.具有良好的业务敏感度和逻辑分析能力，善于沟通协作，能够主动推动问题解决，与业务团队共同成长。 | 三、其他: | 1.人事代理岗位，省属国企，自研项目，双休，无需出差，提供节假日福利，带薪年假，免费一日三餐。 | 2.工作稳定，内部晋升路径清晰。,https://www.zhipin.com/job_detail/d084f51309914ac50nBz2Nq5F1tW.html?securityId=GXrfKcqB2W4Yj-v1wwJMJBka2ydtGXKrxrDDPa6I1y5RjsUoIkXj8rDBIK9AN311wllNItVDE4ULfW9apKlrNQNyVFJ_RDVjkAGbllRUCEjaZqQzXynSepGthp_HuQxTAd6F1DpmewdJ45z20fc4UnCwfnJaIhchb2Kj1pCckBk0QavbQREDB2YV-ZO1mqlWTZyz7Ssu80RLhOdpCAPCx5gat4pX0pFLU7i_wgIfNdw6ykEP79VEOM_rJjU18m4YZwOw3B8-4QgmI70c5GHEfaSAv4iUGOwIB4Q3osQtftppQM4eZNFiRy2KvSveltZ9PBaoU9MQfBw5bYuPgYCuaGHkq1FxsPaCSmEFfVVa9xsg26-T--7HKLe7bl4zaxYFA0EUxtySdQzjqiaycUQ6AL0kklwO5TAu&ka=company_more_job_d084f51309914ac50nBz2Nq5F1tW,0,1,1,0
+B2_01,B,2026-11-01,BOSS Zhipin,数据分析收益管理岗,数据分析收益管理岗,Business Analyst,1,北京环球影城主题公园,Arts & Entertainment,Beijing,Tier 1,9000,11000,9000.0,11000.0,month,10000.0,1-3 years,Bachelor,"一、主要职责
+1.负责PMS系统日常库存的管控;新产品代码配置，检查与发布;已有产品价格更新
+2.quick bi报表的取数与日常维护;power bi的相关报表更新与展示
+3.日报，周报，月报的更新
+4.代码实现报表自动化
+5.竞争对手的数据维护与分析
+6.日常内部预定邮件沟通与回复
+7.完成部门指派的其他任务，共同实现收益最大化目标。
+二、任职资格
+1.注重细节:具备高度细致的工作态度与精准性。
+2.学习能力:善于掌握新工具并持续优化工作方法。
+3.协作能力:能够跨层级、跨部门高效合作。
+4.综合素质:出色的合作意识、人际沟通能力及汇报演示技巧。
+5.技能要求:
+熟练使用办公软件(如Excel、Access、PPT、
+Word 、 Outlook );
+掌握统计工具(如SAS、R、Julia或Python)及商业智能软件(如Power BI、Tableau、QlikView ),并能
+快速学习新技术。
+6.语言能力:中英文流利(口语及书面)。三、教育背景
+金融、会计、市场营销、工商管理、酒店或旅游管理、商业分析、管理科学、工业工程、统计学或相关学科的学士
+学位",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm6FFJU.html,0,0,0,0
+B2_02,B,2026-11-01,BOSS Zhipin,数据分析,数据分析,Data Science,1,京东,E-commerce,Beijing,Tier 1,10000,15000,10000.0,15000.0,month,12500.0,NA,NA,"岗位职责:
+1.构建数据分析体系，支持业务决策与运营优化;
+2.通过数据挖掘与分析，识别业务关键问题并提供解决方案;
+3.监控核心指标变化，完成数据追踪、归因分析及异常排查;
+4.沉淀分析方法论，推动分析成果转化为数据模型或产品化工具;
+5.协同业务团队沟通需求，输出可落地的数据洞察与建议。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm7FFJU.html,0,0,0,0
+B2_03,B,2026-11-01,BOSS Zhipin,数据分析（风控方向）,数据分析（风控方向）,Data Science,1,滴滴出行,Internet,Beijing,Tier 1,12000,15000,12000.0,15000.0,month,13500.0,1-3 years,Junior college,"岗位职责(外包岗)
+一、搭建反作弊策略及风险识别体系
+1、快速熟悉事业部业务模式及各业务模块工作流程，识别业务风险，以及可能发生违规的节点。
+2、掌握策略制定方法论，能利用尽可能多的资源，建立反作弊策略。
+3、依据策略搭建异常数据看板，通过趋势分析及量价分析，识别与抓取异常点，建立以数据为支撑的点-线-网反作
+弊数据体系，定位疑似违规行为。
+4、不断迭代反作弊策略与数据，必要时以BRD形式向数据开发部门提报数据开发需求。
+5、承接事业部新增或临时项目的反作弊相关的策略与数据建设工作。
+二、数据分析
+1、负责事业部违规相关的数据挖掘与分析。具备结构化思维，能将复杂的廉正风险拆解为可分析有解法的子问
+题，形成清晰的策略制定与数据分析相结合的能力。
+2、针对疑似廉正案件，能独立且快速完成数据挖掘、数据组合、疑似违规数据模型搭建与验证。
+3、负责部门日常数据的维护与产出，必要时以可视化看板呈现。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm8FFJU.html,0,0,0,0
+B2_04,B,2026-11-01,BOSS Zhipin,数据分析,数据分析,BI Analyst,1,物美集团,New Retail,Beijing,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,NA,Bachelor,"岗位职责:
+负责采购中台各类商品、品类、竞品数据整理、统计与分析，输出SKU清单、部类审查、价格对标、毛利测算等
+业务报表，支撑品类选品、定价、竟品监控等项目落地。
+跟进采购任务台账，同步任务进度，收集业务反馈，完成数据校验、差异核对，保障业务数据准确、可追溯。
+对接业务、BI团队，提取、清洗业务数据，协助完成月度/季度商品分析，定位数据异常并输出问题说明。
+维护各类业务模板与文档，跟进任务下发、提醒、结果汇总，保障采购作业流程有序落地",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm9FFJU.html,0,0,0,0
+B2_05,B,2026-11-01,BOSS Zhipin,数据分析师-菜单,数据分析师-菜单,Data Analyst,1,海底捞,Dining,Beijing,Tier 1,15000,30000,15000.0,30000.0,month,22500.0,1-3 years,Bachelor,"工作职责:
+·搭建指标体系:针对自己所负责的业务板块，搭建核心指标体系框架，辅助管理层评价业务的发展情况
+-定期报告:定期追踪和分析核心数据变动，辅助管理层理解业务情况和问题
+-专题研究:围绕自己所负责的业务板块，进行数据分析研究，发现潜在业务问题或机会，为管理层提供洞见报告
+战略分析:结合内外部环境变化，站在集团视角内观业务发展，协助制定各业务和产品规划，追踪和评估实施效
+果，为业务团队和管理层提供决策支持",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm10FFJU.html,0,0,0,0
+B2_06,B,2026-11-01,BOSS Zhipin,红果短剧-数据分析师,红果短剧-数据分析师,Data Analyst,1,字节跳动,Internet,Beijing,Tier 1,35000,65000,35000.0,65000.0,month,50000.0,NA,Bachelor,"职位描述
+番茄小说是抖音在2019年推出的免费阅读产品，致力于为读者提供优质的阅读体验。番茄小说拥有海量正版小
+说，涵盖言情、都市、玄幻、悬疑等主流网文类型，以及大量热剧原著和经典出版物，支持用户看书、听书。
+1、负责红果短剧等相关业务的数据分析工作;
+2、
+分析各项影响产品提升与增长的因素，结合业务方向，给出可落地的整体产品优化方案;
+3、与产品/运营/研发等配合，推进优化方案落地执行，带来业务的实际提升增长;
+4、负责业务上各类A/B实验设计与分析，产品优化效果、市场活动",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm11FFJU.html,0,0,0,0
+B2_07,B,2026-11-01,BOSS Zhipin,商业分析师,商业分析师,Business Analyst,1,百度在线,Internet,Beijing,Tier 1,16000,17000,16000.0,17000.0,month,16500.0,NA,NA,"工作职责
+1.行业信息收集，对相关数据进行深度挖掘分析，为业务决策提供建议和依据;2.对业务的运营进行评估和建议，从数据的角度推动公司运营决策、产品方向和运营;
+3.深入理解业务，发现业务特征潜在机会，并给出有效的行动建议;
+4.内部报告和材料的编写。
+职责要求
+1、科技类公司经营分析/商业分析、PE/VC分析师，1-2年工作经验;
+2、有云、软件、科技类行业的项目经验或者从业经验优先;4、认真负责，具有较强的沟通能力和学习能力。
+3、有较强的数据处理能力和报告编写能力;有使用AI工具提高工作效率的经验和案例;",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm12FFJU.html,0,0,0,0
+B2_08,B,2026-11-01,BOSS Zhipin,资深商业分析师-国际化直播,资深商业分析师-国际化直播,Business Analyst,1,字节跳动,Internet,Beijing,Tier 1,30000,45000,30000.0,45000.0,month,37500.0,5-10 years,NA,"职位描述:
+1、参与国际化直播年度/季度/月度业务目标制定，包括搭建和迭代业务目标模型、跟踪目标达成情况、洞察业务问
+题;
+解决方案，并通过牵头跨部门专项推动落地;
+2、负责建立业务指标体系，发现问题并对关键问题进行深度分析，结合对行业生态、业务模式的深度研究，提出
+3、与国家线协作，探索和迭代主播以及公会经营策略并跟进效果分析，并推动策略规模化复制。
+职位要求:
+1、5年互联网商业分析(有目标制定/管理、经营分析相关经验)
+2、对海内外在线泛娱乐产业(如直播、社交、游戏等)有兴趣，有经验者优先;3、思想深刻，思维敏锐，好奇心强;具有务实的心态和较强的解决问题的能力;4、较强的量化分析能力，熟练Excel建模;有各类数据分析工具经验优先;
+5、
+优秀的沟通能力，善于跨团队合作，有高度的责任心，独立性和应变能力;
+6、英语能力强&有国际背景者优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm13FFJU.html,0,0,0,0
+B2_09,B,2026-11-01,BOSS Zhipin,国际化外卖体验商业分析师,国际化外卖体验商业分析师,Business Analyst,1,中科创达,Computer software,Beijing,Tier 1,14000,16000,14000.0,16000.0,month,15000.0,3-5 years,Bachelor,"岗位说明:
+1.支持国际化外卖业务体验方向商分工作，聚焦履约、取消、售后等全链路核心场景，从用户、商家双视角拆解体验痛点与业务瓶颈。
+2.专题&经营分析:支撑业务周度、月度会议，监控关键目标达成度并输出常态化异动分析结论。针对业务现状及
+行业竞对表现，输出体系化专题分析报告，制定策略建议并推动落地、跟进效果，驱动业务体验长效提升。
+3.实验:支持业务开展实验，科学评估策略效益。
+4.数据建设:协同运营、产品、数科、数仓、算法等团队，完善数据基建，推进策略落地。
+王职要求:
+1.全日制本科及以上学历优先，数学、统计、计算机、软件等相关专业优先。
+2.具备3年左右分析经验，拥有互联网大厂本地生活、外卖、电商、国际化业务体验分析经验者优先。
+3.熟练使用SQL，具备异动归因、口径治理、实验分析等能力。
+必需项是强SQL能力+实验分析能力",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm14FFJU.html,0,0,0,0
+B2_10,B,2026-11-01,BOSS Zhipin,商业分析师（酒旅直播方向）去哪儿网,商业分析师（酒旅直播方向）去哪儿网,Business Analyst,1,去哪儿网,Internet,Beijing,Tier 1,35000,50000,35000.0,50000.0,month,42500.0,3-5 years,Bachelor,"岗位职责:负责抖音、小红书、视频号等站外直播业务的经营分析，覆盖酒店、机票及旅游商品等品类;建立直播GMV、退款、核销、收益等指标体系，设计跨平台交易归因及增量测量方案;深入分析直播流量、商品、转化、投放ROI及履约表现，定位GMV增长机会与经营问题;结合成熟直播业务的分析经验，为直播选品、投流、达人合作及经营策略提供决策支持。
+岗位要求:建设经验;
+必须具备成熟直播电商或本地生活直播业务的商业分析经验，实际参与过规模化直播交易业务的经营分析与决策;
+深入理解直播交易链路，熟悉GMV、退款、核销、ROI等指标及相关分析方法，有直播业务指标体系或归因体系
+熟练掌握SQL，具备独立开展经营分析、归因分析及策略评估的能力;有抖音生活服务酒旅、美团酒旅、携程飞猪直播等业务经验者优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm15FFJU.html,0,0,0,0
+B2_11,B,2026-11-01,BOSS Zhipin,商业分析师,商业分析师,Business Analyst,1,京东工业,Internet,Beijing,Tier 1,20000,30000,20000.0,30000.0,month,25000.0,5-10 years,Bachelor,"岗位职责及目标:
+框架，为推动业务重点项目落地和管理层决策提供数据指导;的策略，助力业务增长;
+1、负责部门商业分析工作，围绕场域效率提升、流量优化，聚焦客户洞察，建立并迭代客户相关指标体系和监测
+2、行业趋势研究，结合业务问题及行业发展趋势，搭建归因诊断体系，协同团队深入分析问题，制定并推行有效
+3、基础营销运营工作，利用数据分析能力对选品、识客策略等进行有效分析并持续优化，助力营销侧打造不同场
+景、行业客户的营销场域，协助完成项目，促进结果和目标达成。
+任职要求!
+1、3-5年工作经验，零售、电商、工业、互联网、咨询行业经验优先;;
+2、熟练使用Excel、PPT、SQL，掌握Power BI、Tableau、Python等技能者优先;
+3、具备创新意识，产品化思维，主动分析并解决问题，不断优化提升数据使用效率。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm16FFJU.html,0,1,0,0
+B2_12,B,2026-11-01,BOSS Zhipin,Keeta-商业分析Leader（出差巴西）,Keeta-商业分析Leader（出差巴西）,Business Analyst,1,美团,Internet,Beijing,Tier 1,60000,80000,60000.0,80000.0,month,70000.0,5-10 years,Bachelor,"岗位职责:
+1.负责某国家/地区的外卖市场的宏观研究，通过对标分析、行业调研等，洞察行业发展趋势，捕捉业务增长机
+遇;
+2.基于业务整体战略制定年、季、月的业务发展目标，并向各部门拆解，完善目标管理机制确保目标的追踪和预警
+3.制定该市场的收入策略，管理营销资源、配送成本等，通过有效的资源效率评估机制确保资源使用效率;
+4.完善经营分析体系，以指标建设、诊断分析、用户调研等手段，发现关键经营信号，发掘策略机会;
+岗位要求:
+5.统筹商分团队的工作，招募培养团队成员，建设良好的团队文化，为整个团队的业绩产出负责。
+1.大学本科及以上学历，有交易类业务、用户分析、策略分析和运营经验者优先;2.至少7年商业分析或相关领域工作经验，具备团队管理经验;
+3.心态开放，能全面拥抱AI，愿意推进AI在日常工作的应用并推进组织变革;
+4.具备优秀的逻辑思维、沟通能力和商业敏感度，能独立承担复杂项目;
+5.英文能作为工作语言优先。
+岗位亮点:
+1.在快速发展的国际市场中发挥关键作用，直接影响业务战略方向。
+2.带领专业团队，提供广阔的职业发展与领导力提升空间。
+3.与多元文化团队紧密合作，拓展全球化视野与协作能力。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm17FFJU.html,0,0,0,0
+B2_13,B,2026-11-01,BOSS Zhipin,商业分析师（数据分析方向）,商业分析师（数据分析方向）,Business Analyst,1,猿编程,Online Education,Beijing,Tier 1,25000,35000,25000.0,35000.0,month,30000.0,1-3 years,Bachelor,"岗位职责:题分析，定位指标波动原因，发现业务改善机会。
+1.商业分析:围绕在线教育获客、体验课转化、正价课续费、退费及教学服务等业务环节，开展日常经营监测与专
+2.策略建模:结合业务需求，运用统计分析及机器学习方法，开展用户分层、转化倾向预测、续费预测、流失预警
+等分析与建模工作，协助制定差异化运营策略。
+3.数据建设与协作:参与核心指标、经营看板及自动化报表建设，协同业务与技术团队完善数据口径和质量，推动
+分析结论应用，并持续复盘效果。
+任职要求
+1.本科毕业于985高校，数学、统计学、计算机、经济学等相关专业优先;具备1-3年数据分析相关工作经验。2.熟练掌握SQL，能够独立完成数据提取与分析;熟悉Python及常用数据分析、机器学习工具，能够完成基础的数据处理与建模;具备AI工具或大模型应用经验，能够辅助分析开发、文本处理或流程自动化，并对输出结果进行校验。
+3.具备良好的概率统计与算法基础，了解回归、分类、聚类、决策树等常用方法，理解基本的模型验证与评估方
+式，有实际建模项目经验。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm18FFJU.html,1,0,0,0
+B2_14,B,2026-11-01,BOSS Zhipin,商业数据分析师,商业数据分析师,Business Analyst,1,NIO蔚来,Automotive R&D/Manufacturing,Beijing,Tier 1,25000,50000,25000.0,50000.0,month,37500.0,3-5 years,Bachelor,"职位描述
+1.负责订阅业务的经营分析，包括制定全年经营目标、跟踪和管理经营过程、洞察业务增长机会、完成行业分析
+2.构建订阅业务分析框架，建设数据指标体系，建设运营策略评估标准，联动上下游落地观测、预警和复盘等机
+制。
+3.通过数据分析和构建数据模型，输出有价值可落地的订阅业务机会洞察，主动驱动业务增长。职位要求
+1.数据基本功过硬，具备较强的数据分析、挖掘和建模相关能力。
+2.具备商业和业务视角，对数据驱动业务增长有深入理解和实践经历。
+3.具备相应AI能力，过往工作有AI实践和有效落地经历。
+4.3年以上互联网公司数据分析相关工作经验，具备良好的沟通和协同能力，对汽车和辅助驾驶感兴趣优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm19FFJU.html,0,0,0,0
+B2_15,B,2026-11-01,BOSS Zhipin,商业分析师 (数据产品及AI落地方向),商业分析师 (数据产品及AI落地方向),Business Analyst,1,度小满,Internet,Beijing,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,1-3 years,Bachelor,"岗位定位:负责推动业务规则、数据资产和AI应用的产品化落地，重点支持数仓建设、变量管理、渠道归因、客户归属规则、经营分析体系和AI工作流建设。该岗位需要连接业务、产品、研发、BI等多团队，将复杂业务需求沉淀为可复用的数据产品、分析机制和AI工作流。主要职责:
+业务规则与数据对象抽象:负责公司级各业务线的业绩归属、经营权归属等规则，包括客户、渠道、变量、数仓表
+等，将复杂业务规则拆解为字段、口径、流程、优先级、规则和责任边界。
+数仓与数据能力建设:参与公司级数仓、中间表、指标体系、标签体系和变量管理建设，辅助leader推动业务口
+径、数据链路、数据质量和应用场景对齐，提升数据资产的一致性、可用性和复用率。
+团队分析与决策支持:围绕业务分析的经营与策略问题，承接日常及专项分析需求，完成问题拆解、数据分析、异
+动归因和效果评估，输出清晰的业务洞察与可执行建议，为经营决策、策略迭代和业务复盘提供支持，并沉淀可复
+用的分析框架与方法。
+数据产品化与机制沉淀:围绕渠道归因、变量管理、经营分析、科学实验和策略治理等场景，设计并推动数据产品方案落地，沉淀规则说明、流程机制和验收标准，提高数据可用性、一致性和复用率，推动工作从人工处理转向系统化沉淀。
+工作流和内部知识库落地，提升团队在复杂数据分析和业务运营中的效率。任职要求:
+AI应用落地与组织赋能:识别业务分析、异动归因、知识沉淀、流程自动化等高频场景，设计并推动AI工具、A
+本科及以上学历，金融、统计、计算机等相关专业;具备1-3年咨询公司Data团队、互联网商业分析或金融科技
+相关经验。具备良好的行业理解、快速学习和结构化思考能力，能够拆解复杂问题、识别关键矛盾并形成清晰判断。具备较强的沟通协作、自驱力、责任心和执行力，能够适应较快的工作节奏并推动任务闭环。数据敏感度强，熟练使用PPT、Excel、SQL等工具，能够通过数据分析形成业务洞察和可执行建议。熟练使用GPT、Claude、Codex等，有Al辅助文档分析、数据处理或研报生成经验;掌握Python或低代码、自动化工具者优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm20FFJU.html,0,0,0,1
+B2_16,B,2026-11-01,BOSS Zhipin,商业分析 ,商业分析,Business Analyst,1,SHEIN,Internet,Guangzhou,Tier 1,35000,50000,35000.0,50000.0,month,42500.0,3-5 years,NA,"职位描述
+负责品类销售额、成功率等关键指标，协同商品企划制定开发计划、商品规划、价格策略等关键事项
+通过数据分析及时识别和定位业务经营的问题和风险点，制定改善建议并推动落地;
+持续跟进竞品发展动向，理解整体行业及竞对并找到增长点，分析产品流行趋势和风格;
+4、基于定义出的关键问题，组织并协同跨部门资源，推动方案落地。职位要求
+1、在头部咨询行业、大型互联网公司商业分析岗有3年及以上的工作经验，有时尚商品和电商相关经验优先;
+具备较强的信息整合和分析能力，善于从数据中洞察有价值的信息，并能提炼总结出核心洞察;
+好奇心强，高度的自驱力和推动力，以解决问题为目的;
+成熟的项目管理能力，沟通能力优秀，能够协调各方资源达成目标。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm21FFJU.html,0,0,0,0
+B2_17,B,2026-11-01,BOSS Zhipin,商业洞察/商业分析经理,商业洞察/商业分析经理,Business Analyst,1,小鹏汽车,Automotive R&D/Manufacturing,Guangzhou,Tier 1,15000,22000,15000.0,22000.0,month,18500.0,1-3 years,Bachelor,"核心定位:作为公司战略的核心智囊，聚焦全球重点国家市场。通过构建系统化的海外情报网络，为公司高层、海外业务负责人及产品线提供前瞻、深度的全球化商业洞察，护航公司出海战略的精准落地。
+1.宏观行业与市场机会探查(行业与市场研究):持续追踪目标市场的宏观环境、产业政策(关税、补贴、碳排放法规等)及大盘走势。建立市场机会与风险评估模型，为公司“去哪打、怎么进”提供战略级的前置量化依据。2.全球化竞争格局透视(竞争研究):研究核心竞企在目标市场的战略动向，追踪其未来产品投放谱系、本士化布局规划、定价逻辑及终端销售策略，为海外定价与竞争策略提供输入。3.本土化产品定义支撑(产品与技术):结合市场环境、基建水平及法规准入要求，洞察目标市场的汽车技术演进及商业化趋势(如新能源渗透率、智驾接受度)，推演行业技术变革风险与机遇，为车型的产品定位、新品规划、市场推广、定价策略提供基于外部视角的客观建议。4.渠道模式与终端洞察(渠道研究):深度剖析目标市场的汽车流通体系与经销商盈利模式。监控本竞品在终端的真实动销流转及渠道政策，穿透滞后报表，还原真实的经营健康度。5.用户需求挖掘(用户研究):联动调研机构或渠道伙伴，开展跨文化的用户画像、购车需求及用车场景研究，精准捕捉用户的核心痛点与支付意愿(WTP)，为产品、销售策略及品牌本土化营销提供弹药。6.商情体系搭建与专题研究:参与优化公司商情体系、商情收集渠道、分析模型及报告标准，沉淀行业情报数据库、竞品对标库;承接公司高层、规划及产品团队的专项研究需求，输出精准、可落地的定制化商情分析成果。
+职位要求
+1.学历背景:本科及以上学历，汽车技术或工程、智能化、经济学、市场营销等专业。2.经验要求:1年以上汽车市场研究、商业情报、战略咨询或出海业务经验3.行业与出海理解:对新能源汽车行业研究感兴趣
+4.自驱力与抗压能力:具备强烈的业务好奇心、拓荒精神和“特种兵”气质，能够适应不同时区工作及出差调研。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm22FFJU.html,0,0,0,0
+B2_18,B,2026-11-01,BOSS Zhipin,商业分析师（毛利 / 利润方向）,商业分析师（毛利 / 利润方向）,Business Analyst,1,"唯品会
+",Internet,Guangzhou,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,5-10 years,Bachelor,"冈位职贡
+1、利润目标拆解与偏差管理:
+负责公司利润KPI拆解至业务单元、品类、关键成本项;
+统一经营统计口径，搭建常态化跟踪监控机制;
+-对利润偏差开展根因定位，协同业务推动问题整改，保障利润目标达成。
+2、成本与经营效率优化分析:
+-围绕采买成本、库存周转、履约成本、营销费用等核心经营成本开展结构化分析，识别成本核心驱动因子;
+输出降本、提效方案，量化测算方案落地带来的成本节约、周转改善等业务收益。
+3、经营专项分析与高层决策支持:
+-独立开展经营专题分析，包含毛利结构、定价策略、促销投入产出、费用效率等方向;
+-识别业务潜在经营机会与风险，输出结论清晰、可落地的分析建议，为管理层经营决策提供数据支撑。
+4、利润管控机制搭建与持续迭代
+-设计、迭代利润管控相关经营规则，如毛利底线、费用投入门槛、促销ROI标准等;
+-协调解决跨部门落地阻碍，搭建“措施落地-过程执行-结果复盘-规则优化”的经营闭环，持续评估管控效果并迭
+代策略。
+岗位要求:
+1、本科及以上学历，5年及以上数据分析/商业分析相关工作经验;
+2、精通SQL，可独立完成数据提取、清洗、建模到业务洞察输出的全流程，熟练使用归因分析、AB测试、预测
+分析、敏感性分析等分析方法与模型;
+为业务、管理层易懂的汇报内容;
+3、具备优秀结构化思维与商业敏感度，能够透过经营现象定位根因、评估方案价值，可将复杂数据分析结论转化
+4、具备良好跨部门沟通、项目推动能力，抗压性强，可协同业务、数据、财务等多方团队落地经营项目;拥有项
+目牵头经验优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm23FFJU.html,0,0,0,0
+B2_19,B,2026-11-01,BOSS Zhipin,"数据分析师
+",数据分析师,Data Analyst,1,温超集团,Wholesale/Retail,Guangzhou,Tier 1,15000,18000,15000.0,18000.0,month,16500.0,3-5 years,NA,"岗位职责:
+1.负责商品零售领域的数据收集、整理与分析工作，为业务决策提供数据支持。
+2.监控零售业务关键指标，及时发现业务问题并提出改进建议。
+3.构建数据分析模型，预测销售趋势，优化商品库存管理。
+4.定期输出数据分析报告，为管理层提供决策依据。
+任职要求:
+1.具备商品零售或相关领域的数据分析经验，熟悉零售业务逻辑。
+2.熟练掌握数据分析工具(如Excel、SQL、Python等)，具备数据可视化能力。
+3.具备良好的逻辑分析能力和问题解决能力，能够独立承担数据分析任务。
+4.具备团队协作精神，能够与业务部门有效沟通并推动数据驱动决策。
+常驻迪拜，包吃住，包入职机票，工作签证，带薪年假30天，法定假期等等超多福利。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm24FFJU.html,0,1,0,0
+B2_21,B,2026-11-01,BOSS Zhipin,数据分析师（物流仓储向）,数据分析师（物流仓储向）,Data Analyst,1,拼多多集团,E-commerce,Guangzhou,Tier 1,15000,30000,15000.0,30000.0,month,22500.0,1-3 years,Bachelor,"要求:·本科及以上学历,数学、统计、计算机、运筹学、物流管理等相关专业优先;.1-3年供应链、物流、数据分析或策略岗位经验，有仓配经验者优先。能力要求:
+数据分析能力强，能熟练使用表格软件，掌握一种数据分析语言(如Python/R);·熟悉常用算法模型，如K-means、主成分分析(PCA)、回归与多因素分析等;·有良好的业务理解力，能从数据中提炼业务问题，输出可落地的策略建议;具备良好的逻辑思维和沟通协作能力;
+加分项:
+有KP建模或绩效系统设计经验。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm26FFJU.html,0,0,0,0
+B2_22,B,2026-11-01,BOSS Zhipin,"数据分析
+",数据分析,Business Analyst,1,美天惠,Wholesale/Retail,Guangzhou,Tier 1,8000,13000,8000.0,13000.0,month,10500.0,NA,Bachelor,"岗位职责:
+、搭建公司经营分析体系:销售额、客单价、连带率、坪效、人效、复购率等核心指标;
+商品企调数据支持，拆解业绩达成情况:门店维度、品类维度、品牌维度、时段维度;
+监控SKU动销率、库存周转天数、缺货率、调配效率、滞销品预警与调配建议(数据驱动);
+、数据可视化，搭建BI看板，参与数据中台/数据仓库建设;
+任职要求:
+、本科及以上学历，统计学、应用学、数学相关专业(硬性标准);
+、3年以上相关岗位经验
+3、具备跨部门沟通能力，能推动分析结论落地;
+[上班时间】:早上9:00-12:00下午13:30-18:30,目前双休
+[工作环境]:交通便利，高级写字楼，舒适的办公环境;
+[团队氛围】:团队年轻，朝气蓬勃，老板及领导团队Nice，扁平化管理，工作氛围和谐融洽;
+[节日福利】:员工在传统节日(妇女节、端午节、中秋节、春节)享有温馨独特的节日福利;国家法定节假日正
+常休息。
+[公司活动】:公司不定期组织员工旅游、团建、不定时下午茶、内购会、年会等;",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm27FFJU.html,0,0,0,0
+B2_23,B,2026-11-01,BOSS Zhipin,财务bp财务分析,财务bp财务分析,Business Analyst,1,新东方,Online Education,Guangzhou,Tier 1,12000,15000,12000.0,15000.0,month,13500.0,NA,Bachelor,"职位描述
+1、深度对接业务，参与预算编制、过程管控与预实分析，助力所在BP部门达成收入、利润目标，2、牵头组织所在BP部门开展经营复盘，搭建经营分析体系，针对费用、产能、优惠策略等输出分析报告与决策建
+议，支持业务优化。
+3、负麦费用闭环管理、费用审核与风险管控，推动财务流程与制度优化。
+4、业务协同支持，参与业务经营沟通会议，协助业务做好与其他职能模块的工作对接。
+任职要求:
+1、本科及以上学历，财务类专业优先，985、211等重点院校毕业或硕士学历优先。
+2、3-5年财务相关经验，有教育行业背景或财务BP经验者优先;
+3、精通财务分析、预算管理，具备优秀的数据解读、跨部门沟通与问题解决能力。
+4、具备业务伙伴意识与结果导向思维，能主动融入业务场景，用财务视角赋能业务发展。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm28FFJU.html,0,0,0,0
+B2_24,B,2026-11-01,BOSS Zhipin,业务数据分析师,业务数据分析师,Business Analyst,1,小鹏汽车,Automotive R&D/Manufacturing,Guangzhou,Tier 1,14000,17000,14000.0,17000.0,month,15500.0,<=1 year,Bachelor,"职位描述
+1、需求梳理:对接销售、交付、售后、金融、客服等业务团队，把业务问题拆成要看的指标，明确指标口径、使
+用场景和报表验收标准;
+2、报表搭建:在BI工具中搭建和维护数据集、仪表板和日常报表;核章数据准确性，跟进口径不一致、数据缺失
+等问题直到解决;
+出初步原因;
+3、业务运营支持:跟踪核心经营指标，按周、按月输出数据报告和专题分析;发现数据异常及时提醒业务，并给
+4、报表推广与培训:编写报表使用说明和常见问题，给业务同事做报表使用培训，收集反馈并持续优化报表;5、跨团队协作:与产品、研发、数据团队配合，推动报表需求排期和上线;支持海外团队的日常沟通和英文材料编写。
+职位要求
+1、2025-2027届本科及以上应届毕业生，统计、数学、计算机、信息管理、经济、管理等相关专业优先;
+2、能用SQL做基础查询和数据核对，熟练使用Excel(数据透视表、常用函数);
+3、逻辑清楚，能从业务问题出发选择指标，并讲清楚分析结论和依据;
+4、英语读写流利，能与海外同事进行日常沟通;
+5、主动沟通，愿意深入一线了解业务流程。加分项
+1、有数据分析、BI报表或业务分析相关实习经历;
+2、使用过Quick BI、Power BI、Tableau等至少一种BI工具;
+3、会用Python做数据处理或自动化;
+4、用过AI工具提升分析或报表效率，如数据问答、自动生成报告;
+5、对汽车、新能源行业有兴趣。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm29FFJU.html,0,0,0,0
+B2_25,B,2026-11-01,BOSS Zhipin,"数据分析与业务运营岗
+",数据分析与业务运营岗,Data Analyst,1,广发证券股份有限公司,Securities/Futures,Guangzhou,Tier 1,20000,25000,20000.0,25000.0,month,22500.0,1-3 years,Master,"职位描述
+
+1、推动客户资产管理评价体系建设，负责资产包数据分析与日常督导管理等相关工作。
+2、优化客户关系管理体系与系统升级，推动客户跨组织协同服务与运营相关工作。
+3、推动客户净值化管理，开展业绩归因数据分析，负责AUM资产包管理系统运维相关工作。
+4、负责CRM客户服务与运营相关数据分析，通过智能化建设提升服务运营效率。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm30FFJU.html,0,0,0,0
+B2_26,B,2026-11-01,BOSS Zhipin,经营分析经理,经营分析经理,Business Analyst,1,拼多多集团,E-commerce,Guangzhou,Tier 1,13000,26000,13000.0,26000.0,month,19500.0,1-3 years,Junior college,"岗位职责:
+1、搭建仓储人力成本分析模型及人力成本健康度仪表盘，建立动态监控机制，关注和发现成本异常的环节并预
+警。
+2、分析识别仓储场景中人力浪费痛点(如高峰期临时工滥用、排班不合理等)，牵头立项并落地成本优化专项。
+3、组织月度成本复盘会，提炼多仓成本管理最佳实践，输出落地改善措施，推动区域仓储管理人员学习和落实。
+任职要求:
+1、本科及以上学历优先，至少3年仓储物流经验。
+2、有过大中型仓储物流公司质控/仓储运营岗跨境电商类财务分析经验更佳。
+3、熟悉仓储作业流程，具备数据意识及数据处理分析能力，能够用数据指导运营。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm31FFJU.html,0,0,0,0
+B2_27,B,2026-11-01,BOSS Zhipin,经营分析师,经营分析师,Business Analyst,1,MINISO,Wholesale/Retail,Guangzhou,Tier 1,7000,9000,7000.0,9000.0,month,8000.0,1-3 years,Bachelor,"工作职责
+1、负责日常业绩监测，对运营业务有一定了解，制作业务监控报表和自动化产品的落地:
+2、针对运营的相关问题，能通过数据分析和建模等方法开展专项分析工作，发现业务增长机会和优化流程;
+3、具备预测建模能力，能准确预测业绩达成;
+4、撰写报告和演示文稿，传达分析结果、建议;
+5、负责处理和解决日常业务问题，并提供相关的数据支持和建议。
+任职资格
+1、本科及以上学历，统计学、计算机科学、数学相关专业优先考虑;
+2、熟练掌握数据分析及AI工具，包括但不限于Excel、有数BI、SQL、Python、GPT、WorkBuddy、豆包等(其中
+SQL是必精通项)，具有优秀的数据处理和数据可视化能力，能够准确高效地处理和分析大量数据;3、具备良好的沟通和表达能力，能够向非技术人员清晰地传达复杂的分析结果;4、能够独立思考和解决问题，并具有良好的团队合作精神。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm32FFJU.html,0,1,1,0
+B2_28,B,2026-11-01,BOSS Zhipin,经营分析经理,经营分析经理,Business Analyst,1,碧桂园服务集团,Property Management,Guangzhou,Tier 1,15000,25000,15000.0,25000.0,month,20000.0,3-5 years,Bachelor,"岗位职责
+1、搭建业务的经营管理中台，包含经营分析、商业洞察、预算管理等;
+2、负责经营损益及关键指标分析工作，主动沟通业务、发现经营问题，定期进行经营分析，提出策略建议，为管
+理层提供决策支持;
+研究洞察，挖掘机会点及威胁并提供相关策略建议;
+3、定期对行业内公司进行信息采集和分析洞察，完善行业对标数据库，追踪行业发展动向，对市场变动开展专项
+4、阶段性配合开展年度预算制定及业务规划工作，负责预算预测追踪及控制，对业务规划提出策略建议;
+5、根据经营管理需要，提供专项经营分析报告，对相关专案进行监督、跟踪、执行。
+任职要求:
+1、本科及以上学历，经营分析/商业分析/战略PMO岗位任职经验优先;
+2、良好的数据敏感度，能从海量数据提炼核心结果，有丰富的数据分析经验;
+3、独立编写商业分析报告，及时发现和分析其中隐含的变化和问题;
+4、具有复杂业务项目推动经验，或复杂分析项目的经验，能够基于数据分析发现业务问题和机会点洞察，并对业
+务发展产生重要的积极影响;
+5、逻辑思维强，跨部门沟通协作项目推动能力强。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm33FFJU.html,0,0,0,0
+B2_29,B,2026-11-01,BOSS Zhipin,数据分析（经营分析方向）,数据分析（经营分析方向）,Business Analyst,1,中望软件,Computer software,Guangzhou,Tier 1,15000,25000,15000.0,25000.0,month,20000.0,NA,Bachelor,"一、岗位职责
+1、经营分析体系搭建与输出:围绕公司经营目标(收入、费用、利润等)，搭建并持续优化经营分析框架及指标体系，定期输出经营分析报告，开展差异分析与专项分析，为管理层决策提供数据支持与业务建议。
+2、经营数据监控与分析支持:跟踪核心经营指标执行情况，识别关键变化及驱动因素，针对异常波动进行归因分
+析，并推动分析结果在业务中的落地应用。
+3、BI报表与分析看板建设:基于业务需求设计并搭建经营分析看板，明确指标口径与展示逻辑，提升数据可视化
+与决策支持效率。
+4、数据治理与口径管理:梳理并统一经营分析相关数据口径，推动数据标准化建设，保障跨部门数据一致性与分
+析结果可比性。
+5、数据分析支撑与方法沉淀:支持业务及管理层数据分析需求，沉淀分析模型与方法，提升分析工作的标准化与
+复用能力。
+二、任职要求
+3、具备数据分析与工具能力:
+1、本科及以上学历，数学、统计学、财务管理、会计学等相关专业优先;
+2、2-5年数据分析、经营分析或财务分析相关经验，具备独立输出经营分析报告经验者优先;
+-熟练使用Excel 或BI 工具(如 Power BI、Tableau、FineBl/FineReport等)进行数据处理与可视化分析;
+-掌握至少一种数据分析工具或语言(如SQL、Python等)，或具备预测模型、预算管理等经验者优先;
+4、具备经营分析能力:
+能够进行指标拆解、归因分析及偏差分析;
+-理解收入、费用、利润等核心指标逻辑，并输出业务判断与改进建议;谨细致，责任心强，具备一定抗压能力。
+5、具备良好的综合素质:逻辑清晰，具备业务理解能力与沟通能力，能够推动分析结果在业务中的落地;工作严",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm34FFJU.html,0,0,0,0
+B2_30,B,2026-11-01,BOSS Zhipin,商业分析/经营分析（分析主管方向）,商业分析/经营分析（分析主管方向）,Business Analyst,1,炳胜餐饮,Dining,Guangzhou,Tier 1,11000,18000,11000.0,18000.0,month,14500.0,1-3 years,Bachelor,"岗位职责:
+1.围绕集团战略开展营收专项分析，搭建分析体系，输出经营分析报告，为管理层决策提供数据支撑与经营建议。
+2.识别、监控各业务单元运营财务风险，落地风险预警，跟踪整改闭环。
+3.牵头成本费用管控，建立费用评估标准，核查投入产出，推动降本增效。
+4.推进业财融合，参与财务数据驾驶舱搭建迭代，打通业财数据，实现经营数据可视化。
+5.作为财务BP对接业务，挖掘业务数据需求，提供成本费用专业支持，优化经营模型。
+任职要求:
+1.本科及以上，会计学、财务管理、金融学等相关专业优先;
+2.2年及以上财务分析经验，精通营收数据分析，能够搭建财务分析模型;
+3.熟练使用Excel，掌握 Power BI/Tableau等可视化工具优先;
+4.具备业财思维与风险意识，擅长跨部门沟通，可独立完成经营分析项目;
+5.数据敏感度高，逻辑清晰，有集团经营分析经验优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm35FFJU.html,0,0,0,0
+B2_31,B,2026-11-01,BOSS Zhipin,"越南策略经营分析师-TikTok Shop
+",越南策略经营分析师-TikTok Shop,Business Analyst,1,字节跳动,Internet,Shanghai,Tier 1,25000,50000,25000.0,50000.0,month,37500.0,NA,Bachelor,"1、供给策略:横向视角下，拆解类目发展驱动力，理解行业、类目、商家商品结构，识别关键问题和卡点，分析
+供给策略迭代方向;结合策略规划，设计目标管理体系、优化预算分配方案、迭代商家激励政策，推进策略落地;
+2、活动策略:设计行业/平台活动，包括活动定位、目标制定、用户心智打造、补贴机制、货盘策略等;明确不同
+活动与BAU、Mega Day的关系和协同方式，推动活动GMV达成和ROI优化;
+3、经营分析:搭建核心业务指标体系，定期开展经营分析和问题诊断，探讨可落地的策略建议，支持目标达成;
+4、专项协同:参与业务专项落地，含策略优化、目标制定、横向赋能等。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm36FFJU.html,0,0,0,0
+B2_32,B,2026-11-01,BOSS Zhipin,经营分析岗,经营分析岗,Business Analyst,1,永辉超市集团,New Retail,Shanghai,Tier 1,15000,25000,15000.0,25000.0,month,20000.0,3-5 years,Bachelor,"职位描述:
+1、市场与行业分析:深入研究零售市场现状、规模、发展趋势(包括消费者行为、竞争格局等)，进行宏观层面分析
+与预判，识别战略层面的机遇与风险
+2、竟争情报监测:持续跟踪竞争对手的动态、商业模式、新产品信息及市场策略，进行对标分析，撰写竞品分析报告
+源配置。参与业务规划，根据市场研究结果提出应对措施或决策建议
+3、战略建议与落地支持:基于研究成果，提出经营改善建议，帮助业务部门制定战略发展规划，优化发展路径和资
+任职资格:
+1、基本画像:本科及以上学历，3年以上行业研究/战略研究经验,具有即时零售/电商/互联网背景优先
+2、工具能力:精通Excel;SQL、Python、R等分析建模工具掌握可加分
+3、懂业务逻辑:熟悉行业发展，对运营各节点有深刻认知和思考
+4、逻辑能力出色，思路严谨缤密，勤于思考，商业及数据敏感度高，具备良好沟通、表达、推进协调和写作输出
+能力，能言简意赅传递核心结论及论点论据的支撑:",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm37FFJU.html,0,1,1,0
+B2_33,B,2026-11-01,BOSS Zhipin,经营分析师,经营分析师,Business Analyst,1,爱回收,Life Services,Shanghai,Tier 1,13000,18000,13000.0,18000.0,month,15500.0,3-5 years,Bachelor,"岗位职责:
+1、用数据分析的方法与思维，与业务部门一起解决问题，达成目标;
+2、将业务议题转换为分析项目并独立完成;
+3、监控运营指标，反馈异常偏差;
+4、根据对业务模式、行业的理解，清楚界定业务诉求，提供数据支持;
+5、搭建数仓应用层表，输出报表或看板;
+6、经营目标拆解和管理，过程中经营问题识别与分析，决策支持与落地推动，和业务一起拿预算达成结果;
+能力要求:
+1、精通SQL、熟练Excel、掌握数据治理知识、掌握Python;
+2、能深入了解业务，独立思考并贡献自己对业务的独特见解;任职要求:
+2、逻辑思维严谨，沟通能力强，学习能力强;
+1、统招本科及以上学历，3-5年工作经验(互联网/电商/零售行业经营分析或商业分析经验)
+3、熟练使用Al编程工具(如Codex、ClaudeCode等)，能将其融入日常分析工作流，显著提升工作效率;",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm38FFJU.html,0,0,0,0
+B2_34,B,2026-11-01,BOSS Zhipin,经营分析,经营分析,Business Analyst,1,李宁,Other,Shanghai,Tier 1,15000,25000,15000.0,25000.0,month,20000.0,5-10 years,Bachelor,"职责描述:
+1、预算及目标管理:业务预算规划、编制，分解各项业绩指标及相应的月度、季度、半年度进程目标;并对业绩
+目标进行跟踪、分析报告。
+2、销售预测:各种销售业绩指标预测模型研究及推广使用，对关键业绩指标进行滚动预测和预警。
+3、库存结构管理:对库龄结构检测及给出指引性预警;
+4.
+报告报表体系建立及标准化;整合各数据源协同IT部门建立完善的报表体系及业务部门报表使用机制，
+5、数据采集及质量监控:对各系统数据、竞品数据采集及质量监控以及信息系统完善。
+6、兼总经理助理，项目、重要会议的PPT整合及呈现。
+任职要求:
+1)大学本科及以上学历，财务、统计类优先;
+2)较强的跨部门沟通协调能力和学习能力，逻辑条理清晰，有较强的责任心;
+具优先;
+3)较强的数据处理和分析能力，熟练应用EXCEL等办公软件，精通PPT;可使用SAS/SPSS等其他统计分析类工
+4)有同行业分析工作经验优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm39FFJU.html,0,0,0,0
+B2_35,B,2026-11-01,BOSS Zhipin,快消经营分析师,快消经营分析师,Business Analyst,1,瑞幸咖啡,Internet,Shanghai,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,5-10 years,Bachelor,"岗位职责:
+1)搭建并维护产品x渠道维度的收入、利润分析体系，定期输出经营分析报告，定位利润波动根因。2)按品类/单品/渠道拆解盈利模型，识别高低效产品与渠道，为产品策略和资源配置提供数据依据，3)推动各产品线建立并迭代品类利润表(P&L)，联动产品经理制定利润改善方案，跟踪落地效果。4)建立经营分析看板与预警机制，监控毛利率、费用率等核心指标，及时暴露风险并推动闭环。5)参与年度预算与滚动预测，支持产品定价、促销RO评估及资源投入决策。
+任职要求:
+1)本科及以上学历，财务、经济、统计、数学等相关专业优先。
+2)5年以上经营分析/FP&A/商业分析经验，有快消/零售/饮料行业背景优先。
+3)精通财务分析，熟悉利润表拆解逻辑;熟练使用Excel/SQL/BI工具。
+4)具备强业务推动力，能独立对接产品经理并推动利润管理落地。
+5)逻辑清晰，数据敏感，沟通能力强，有跨部门协作经验",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm40FFJU.html,0,1,0,0
+B2_36,B,2026-11-01,BOSS Zhipin,M/SM-经营分析,M/SM-经营分析,Business Analyst,1,德勤,Consulting,Shanghai,Tier 1,30000,60000,30000.0,60000.0,month,45000.0,5-10 years,Bachelor,"要求:
+1.八年以上咨询或甲方经营分析相关经验，至少完整交付过一个大型企业经营指标体系治理项目，要盖从口径梳理
+到报表落地的全过程，不限于规划阶段
+2.理解成本核算与管理会计链路，能读懂单位成本、成本归集与成本结转的业务逻辑，并能向业务方和财务方分别
+讲清楚
+3.能独立面对客户总监及以上层级，在跨部门口径分歧中组织共识并完成收口，而非只做需求记录与汇总4.能独立带队交付，对团队下达明确动作与交付标准，判断阶段优先级并在关键节点上做取舍",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm41FFJU.html,0,0,0,0
+B2_37,B,2026-11-01,BOSS Zhipin,"管理会计专员（偏经营分析）
+",管理会计专员（偏经营分析）,Business Analyst,1,上海兔喜,Express,Shanghai,Tier 1,7000,9000,7000.0,9000.0,month,8000.0,1-3 years,Bachelor,"岗位职责:
+1.全盘账务处理:负责公司经营账务的全流程处理，严格审核日常收支、费用报销及各类原始单据，建立并维护完
+善的财务流程与台账。
+2.经营分析报表编制:精准归集与分配物流运营成本，关注经营日报与月报的财务数据维护准确性，包括但不限
+于:物流派费、日常运营成本、人工工资、仓储装卸费、网点/承包区中转费及代收货款等。
+3.系统规范化校验与往来款项管理:内部各网点的往来账务核对，确保应收账款无遗漏、应付账款清晰准确。
+任职要求
+4.业财融合支持:配合业务部门预算与项目测算，提供历史成本数据支持，辅助管理层制定经营决策。
+经验背景:本科学历，1-3年会计工作经验，物流、快递或运输行业核算经验优先。
+专业能力:能够独立处理全盘账务，熟悉管理用报表的编制逻辑，数字敏感度强，良好的沟通能力，严谨细心，责
+任心强。
+工具技能:精通Excel(必须熟练使用数据透视表、函数)，熟悉金蝶/用友等财务软件者更佳。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm42FFJU.html,0,0,0,0
+B2_38,B,2026-11-01,BOSS Zhipin,印尼供应链事业部-经营分析负责人,印尼供应链事业部-经营分析负责人,Business Analyst,1,壹米滴答,Road Logistics,Shanghai,Tier 1,22000,35000,22000.0,35000.0,month,28500.0,5-10 years,Junior college,"岗位职责:
+1、统筹事业部经营业绩分析(含收入、成本、利润等)
+2、统筹事业部专项举措研发(含收入提升、利润改善、成本节降);
+3、承接事业部全面预算制定;
+4、针对预算规划类经营举措研发、跟进复盘等进行全流程管理;
+5、基于预算及事业部经营管理方案进行经营业绩预测、监控、差项分析及整改跟进;
+6、事业部业务类管理协助，参与经营方案制定;
+7、统筹资产类定期与不定期盘点并监督管理;
+8、统筹本区域内风险自控。
+任职要求:
+1、财务会计相关专业、2年以上财务管理经验，物流行业经验优先;
+2、数据敏感，对收入、成本、利润有较强感知，协助业务发现问题，解决问题;
+3、具有规划预算、全盘管理经验，对经营分析有一定心得;
+4、沟通能力优，逻辑清晰，具有一定的抗压能力;
+5、会英语优先。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm43FFJU.html,0,0,0,0
+B2_39,B,2026-11-01,BOSS Zhipin,高级经营分析师,高级经营分析师,Business Analyst,1,旺旺集团,Enterprise Services,Shanghai,Tier 1,15000,16000,15000.0,16000.0,month,15500.0,NA,Bachelor,"核心职责:
+1、建立经营分析体系，定期输出经营分析报告，监控核心指标达成情况
+2、分析销售、库存、成本等关键业务数据，识别经营问题并提出改善建议
+3、搭建业务数据看板，支持业务部门数据决策需求
+4、开展专项经营分析，为预算制定、绩效管理和资源配置提供依据
+5、推动业务流程优化，协同各部门提升运营效率任职要求:
+1、本科及以上学历，3-5年快消行业经营分析小务分析相关经验
+2、精通Excel、SQL，熟练使用Power BI/Tableau等数据分析工
+3、具备扎实的业务理解和数据敏感度，能从数据中发现业务问题
+4、熟悉快消行业业务流程和关键经营指标
+5、良好的沟通协调能力和项目推动能力",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm44FFJU.html,0,1,0,0
+B2_40,B,2026-11-01,BOSS Zhipin,"商业化经营策略-经营分析
+",商业化经营策略-经营分析,Business Analyst,1,小红书,E-commerce,Shanghai,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,3-5 years,Bachelor,"1、业绩管理框架设计和追踪:根据商业部的OKR和业务目标，搭建业务健康度的经营分析框架和数据体系，通过目标的拆解和过程指标体系设定，指引业务方向，保证目标达成;同时基于该框架，追踪业绩进展，识别关键差
+距;
+2、外部市场动态追踪和专项调研:通过行业和市场洞察，客户变化和竞品情况的跟踪和了解，找到潜在业务机会
+和差距，设立专题分析，产出有价值的分析报告指导业务找到新的突破点
+3、关键问题的识别与策略输出:通过内部业绩追踪和外部动态追踪，识别业务关键问题，通过内部数据分析和外
+部专项调研，输出策略建议，帮助业务解决关键问题。
+4、与策略中台其他部门、产品、审核、财务，DA、等部门互相合作，负责公司级OKR项目在商业部的落地执行",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm45FFJU.html,0,0,0,0
+C2_02,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Business Analyst,1,,E-commerce,Shenzhen,Tier 1,7000,9000,7000.0,9000.0,month,8000.0,NA,Junior college,"岗位职责：协助制定业务目标与策略，搭建数据指标体系以支持业务增长；
+
+运用数据分析方法深入挖掘业务问题，提供优化建议与落地方案；
+
+与跨部门团队协作，推动分析结果在业务中的落地与应用。
+
+任职要求：
+
+熟练掌握Excel与SQL，具备数据分析与模型构建能力；
+
+具备将数据转化为业务洞察的表达能力，逻辑清晰、善于沟通；
+
+数学、统计、金融、商业分析等相关专业背景，学习能力强，对行业有热情。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm47FFJU.html,0,0,0,0
+C2_03,C,2026-11-02,BOSS Zhipin,商业分析师,商业分析师,Business Analyst,1,,Gaming,Shenzhen,Tier 1,25000,50000,25000.0,50000.0,month,37500.0,1-3 years,Bachelor,岗位职责：1.持续跟踪海内外游戏及泛娱乐行业动态，关注重点游戏品类、电竞、游戏内容生态、AI等领域的竞争格局、产品演进、商业模式及关键趋势变化，独立输出具备前瞻性的行业洞察与研判；2.支持相关业务团队进行战略分析与决策，协助输出分析结论与策略建议；3.协助跨部门沟通，推动战略项目的拆解、落地与执行，协助关键议题的持续跟进。 岗位要求：1.3-5年工作经验，具备游戏、商业分析、咨询/行研等相关经验；2.具备扎实的行业研究、商业分析和结构化解决问题的能力，对复杂问题有自己的观点与解法；3.对游戏及泛娱乐行业有较强的敏感度和认知积累，热爱游戏；4.具备优秀的沟通协调与跨团队合作能力，并能够以书面和口头报告形式清晰地表达观点和思考逻辑；5.具备较强的责任心、专注度与自驱力，对行业变化保持好奇心和热情；6.英文听说读写能力均达到熟练水平。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm48FFJU.html,0,0,0,0
+C2_04,C,2026-11-02,BOSS Zhipin,经营分析师,经营分析师,Business Analyst,1,,Internet,Shenzhen,Tier 1,25000,40000,25000.0,40000.0,month,32500.0,3-5 years,Bachelor,岗位职责：1.负责集团及重点区域的盈利分析，从客户、产品、行业等维度拆解分析，识别收入增长及利润改善机会；2.搭建和完善贯穿业务全链路的经营和运营指标体系，并进行数据的监控和量化分析，挖掘指标变化趋势及驱动因素，提出策略方向；3. 围绕业务方向和目标进行专题分析，梳理实现路径，挖掘痛点、风险、机会点，协助业务方明确、调整和管理业务方向和策略。参与折扣及资源配置等课题研究，推动策略在区域与前线落地并带来实际利润改善。 岗位要求：1.2-5年商业/经营/数据分析或咨询经验，有互联网、四大等咨询公司、平台型公司或快递物流经验优先；2.优秀逻辑思维能力，擅长研究分析，能够系统性的思考和分析问题，同时具有较好的报告呈现能力；3.善于从全局出发进行系统性思考，有对业务整体进行分析和思考的能力，有闭环支持单个业务的经验优先；4. 业务理解与沟通协同能力强，自驱结果导向，具备良好的团队合作精神，有格局、有影响力。5. 具备良好的数据处理能力,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm49FFJU.html,0,0,0,0
+C2_05,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Business Analyst,1,,Internet,Shenzhen,Tier 1,12000,15000,12000.0,15000.0,month,13500.0,1-3 years,Bachelor,"岗位职责：1、负责战略专题的洞察和数据分析。2、常态化监测重点赛道、头部企业及关键议题，持续积累研判素材。3、维护互联网指标体系、数据口径和数据字典，推动各部门统一指标定义。4、使用 Excel 及 BI 工具完成数据提取、清洗、加工、汇总、分析和可视化。5、建设和维护经营分析报表、数据看板及管理层例会材料，提升报告自动化和标准化程度。 任职要求：1.普通话表达清晰，可高效开展跨部门沟通与经营汇报；责任心强，恪守数据的准确性、及时性与保密性；工作细致严谨，可主动开展数据交叉验证与异常检查。2.熟练 SQL，可独立完成多表关联、筛选、聚合、窗口函数等复杂查询；精通 Excel 数据透视表、各类函数、条件格式；熟练使用 Power BI/Tableau/FineBI 至少一款 BI 工具；掌握 Python 等数据分析工具优先。3.本科及以上学历，统计学、数学、计算机、信息管理、财务管理等相关专业优先；具备优秀数据分析项目经验，学历可适度放宽。4.2 年及以上经营分析、数据分析、商业分析、财务分析、销售运营或数据运营相关经验；能够独立输出月度经营报告、数据看板，落地专题分析项目；有云服务、SaaS、智能终端软件行业背景优先；具备收入毛利、客户盈利、云资源成本、项目经营分析经验，或从 0-1 搭建指标、报表分析机制经历者优先。
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm50FFJU.html,0,1,1,1
+C2_06,C,2026-11-02,BOSS Zhipin,商业咨询顾问,商业咨询顾问,Data Analyst,1,,Strategy Consulting,Shenzhen,Tier 1,25000,45000,25000.0,45000.0,month,35000.0,3-5 years,Bachelor,"强调研究能力：负责开展闪电仓及相关即时零售领域的专项市场研究、商业模式分析和标杆案例解读。 · 强调成果交付：独立撰写专业的研究报告、咨询方案及客户演示文稿。 · 强调客户服务：参与客户访谈、汇报，提供基于数据的战略建议。 任职要求调整提示： · 经验背景：3-5年咨询公司、知名市场研究机构或相关行业战略部门经验。有零售、电商、快消项目经验者优先。 · 硬技能：出色的信息搜集、数据分析、报告撰写和PPT制作能力。熟练使用桌面研究、专家访谈等研究方法。 · 软技能：强大的逻辑思维、沟通表达和快速学习能力。
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm51FFJU.html,0,0,0,0
+C2_07,C,2026-11-02,BOSS Zhipin,行业研究分析师,行业研究分析师,Business Analyst,1,,Internet,Shenzhen,Tier 1,20000,40000,20000.0,40000.0,month,30000.0,3-5 years,Bachelor,岗位职责：1. 行业情报与财报解读：深度跟踪物流科技及AI领域头部企业，具备独立研读上市公司财报及投融资研报的能力。重点拆解竞品在技术研发上的投入逻辑、营收结构及战略布局，评估其对资本市场的叙事逻辑。 2. 前沿技术扫描：紧盯AI（大模型、CV、运筹优化）及自动化（AMR、无人仓）技术动态，快速筛选高潜技术，输出定性分析与落地可行性简报。 3. 技术对标与研判：分析友商/行业技术路线优劣，结合行业趋势与公司现状，为内部研发方向提供非纯量化的策略建议（如：技术选型建议、赛道机会识别）。 任职要求：1. 学历背景：本科及以上学历，计算机科学、自动化、工业工程等相关专业，熟悉大模型/AI行业，3年以上 年行研 / 咨询 / 战投 / AI 商业分析相关经验优先。 2. 核心能力：具备极强的商业嗅觉和信息检索能力；能独立完成大模型产业趋势研判，能读懂技术论文，也能看懂财报中的关键指标（如研发费用率、毛利率）。 3. 专业技能：擅长外部信息的挖掘与分析，熟练使用Office/PPT，擅长将技术逻辑转化为可落地商业洞察。 4. 综合特质：对新技术有好奇心，逻辑思维强，具备优秀的书面表达和跨部门沟通能力。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm52FFJU.html,1,0,0,0
+C2_09,C,2026-11-02,BOSS Zhipin,商业分析师,商业分析师,Business Analyst,1,,Internet,Shenzhen,Tier 1,40000,70000,40000.0,70000.0,month,55000.0,3-5 years,Bachelor,岗位职责 1.负责从商业分析视角识别业务重点问题，结合数据挖掘与商业洞察，提出策略建议及执行方案，辅助决策； 2.负责跟踪行业趋势，开展盈利模式、核心经营指标拆解与深度分析，识别经营痛点与商业机会，定期输出商业洞察报告； 3.承担 PMO 核心职能，统筹经营优化与关键项目落地，搭建跨部门协同机制，管控项目进度与风险，确保目标达成。 岗位要求 1.具备本科及以上学历，4年以上战略、商业分析工作经验，复合背景优先； 2.具备较高的数据与商业敏感度，熟练使用分析工具，掌握商业分析模型，具备独立分析与规划能力； 3.具备结构化思维、跨部门协作及项目统筹能力，能够推动复杂项目落地。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm54FFJU.html,0,0,0,0
+C2_10,C,2026-11-02,BOSS Zhipin,商业分析师,商业分析师,Business Analyst,1,,E-commerce,Shenzhen,Tier 1,30000,50000,30000.0,50000.0,month,40000.0,5-10 years,Bachelor,"岗位职责：1.电商全链路商业分析 围绕独立站、亚马逊、TikTok等核心电商渠道，从曝光、流量、点击、转化、客单价到复购，分析用户履约的全链路分析，定位关键差距、异常变化及增长机会。 2.营销及品牌效果分析 拉通所有营销广告活动，重点关注活动效果（声量、曝光、CPM、CPC、ROI）等指标，评估不同品牌、渠道、内容、形式的效果，识别并输出优化策略。 3.产品组合与用户复购 从销售规模、增长、价格、用户结构、复购与生命周期简直等维度分析产品组合，识别优秀的PMF、产品组合优化及新品机会。 4.市场与竞争分析 持续分析所在行业发展趋势、市场份额及竞争格局，寻找有机会点的细分领域，判断公司及主要品牌市占率变化；深度跟踪核心竞争对手的表现与动作，并输出学习/对应方案。 5.业务诊断与增长机会挖掘 针对销售增长、转化、营销效率、产品表现、市场份额等核心经营问题开展专题分析，结合内部经营数据与外部市场信息，找到问题根因并提出可执行的增长建议。 6.经营决策支持 定期形成经营分析及专项分析，与市场、品牌、电商、产品等团队协作，推动形成“发现问题—分析原因—制定策略—跟踪结果”的经营闭环。 任职要求：1. 3-5年以上业务策略、商业分析、增长策略、战略咨询或相关经验； 2. 商业敏感度强，具备优秀的问题拆解、逻辑分析和业务判断能力； 3. 熟悉 Amazon、独立站、TikTok 等海外电商业务，有中国出海品牌经验优先； 4. 熟悉海外广告、红人营销及品牌营销的核心指标与分析逻辑； 5. 能够把数据和市场信息转化为明确的业务判断及可执行建议，而非停留在数据和报表层面； 6. 消费电子、美容健康、美妆个护、DTC品牌或战略咨询背景优先。
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm55FFJU.html,0,0,0,0
+C2_11,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Science,1,,Internet,Shenzhen,Tier 1,18000,27000,18000.0,27000.0,month,22500.0,1-3 years,Bachelor,核心岗位职责 一、岗位工作 1.深入业务全流程，梳理业务指标体系（如业绩达成、漏斗转化、用户流失等），建立贴合业务实际的数据采集、清洗、整理机制，确保数据的准确性、及时性。 2.负责日常业务数据监控、分析，包括日报、周报、月报的数据汇总与解读，识别业务异常（如业绩波动、转化下降），挖掘异常背后的核心原因，输出简单易懂的分析报告。 3.针对业务重点需求（如留存提升、成本优化、商业化价值提升等），开展专项数据分析，搭建简易分析模型，输出可落地的决策建议，助力优化业务策略、提升业务ROI。 4.统筹核心业务推进，对接各业务环节（如项目负责人、运营、产品等），跟踪任务落地进度，推动数据化思维落地，协助业务人员理解数据、运用数据解决业务问题，及时反馈执行情况，协调解决业务推进中的跨部门衔接问题。 5.主动捕捉业务动态，收集行业、竞品相关信息，整理成简洁明了的汇报材料，为业务决策提供基础参考。 任职要求 一、学历与专业 1.本科及以上学历，统计学、数学、工商管理、市场营销、数据科学等相关专业优先；有1-3年业务助理+数据分析相关工作经验者优先，优秀应届生可放宽。 二、核心能力 1.要求高智商，逻辑缜密，推理能力强，数据专业，对数据敏感； 2.执行能力：高效落实各项任务，条理清晰、责任心强，能快速响应需求，具备良好的闭环思维，确保工作落地。 3.数据分析能力：熟练使用Excel（数据透视表、函数），掌握至少1种数据分析工具（如WPS数据分析、Python、SQL、Tableau等），能独立完成数据采集、分析、报告撰写；具备较强的逻辑思维，能从数据中挖掘业务价值。 4.业务敏感度：具备一定的业务理解能力，能快速融入业务，捕捉业务痛点，结合数据提出合理建议，不局限于“只做数据、不看业务”。 5.沟通协调能力：善于沟通，能高效对接跨部门同事及外部合作方，准确传递需求、反馈问题，具备良好的表达能力和协作意识。 6.细节把控：对数据、文件、事务细节敏感，杜绝遗漏、错误，确保工作严谨有序；具备一定的抗压能力，能适应多任务并行的工作节奏。 三、其他要求 1.认同公司企业文化，有强烈的进取心和责任心，愿意长期跟随公司成长，能主动学习业务知识和数据分析技能。 2.具备良好的职业素养，数据保密意识强。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm56FFJU.html,0,1,1,0
+C2_12,C,2026-11-02,BOSS Zhipin,供应链数据分析师,供应链数据分析师,Business Analyst,1,,E-commerce,Shenzhen,Tier 1,20000,30000,20000.0,30000.0,month,25000.0,3-5 years,Bachelor,岗位职责：1. 备货计划与需求预测：基于品类历史销量、生命周期、促销活动（如大促、秒杀）等因素，搭建需求预测模型，输出不同SKU的备货建议与备货数调整方案。负责周/月维度的进销存（供给-销售-库存）监控，识别销售异常或库存风险，动态调整补货策略。2. 库存健康度管理：围绕有货率和库存周转天数两大核心指标，建立库存监控体系。定期输出库存结构分析报告（如高库存、滞销品、临期品等）。协同采购、运营团队，制定滞销库存的清理方案，并对高库存商品进行原因归因，反向指导前端选品和促销策略。3. 经营规划与绩效分析：负责供应链端的成本与效率分析（如履约成本、人效、损耗率等），挖掘降本增效的机会点。搭建供应链经营分析看板，对指标异动进行归因，提供决策建议。4. 策略落地与跨部门协同：将数据分析结果转化为可执行的SOP（标准作业程序），与采购、物流履约、运营团队协作，推动补货策略、调拨策略的落地。 任职要求：1. 背景经验：本科及以上学历，数学、统计学、供应链管理、经济学等相关专业优先。3年以上商业分析、数据分析或供应链计划相关经验。有美团商分、快驴、闪电购等即时零售/供应链背景者优先。熟悉电商/零售的进销存逻辑，有从0到1搭建库存预测模型的经验者优先。2. 硬性技能：精通SQL，能够熟练提取和清洗数据；掌握Python或R用于建模是加分项。极强的数据敏感度，能从海量数据中快速定位问题。3. 软性素质：业务理解力：能将复杂的业务场景（如直播带货爆单、季节性商品波动）转化为数据问题，并提出解决方案。沟通推动力：能独立撰写分析报告，并向管理层清晰汇报；能协同业务团队落地策略，而非仅提供数据报表。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm57FFJU.html,0,0,0,0
+C2_13,C,2026-11-02,BOSS Zhipin,AI数据分析师,AI数据分析师,Business Analyst,1,,Internet,Shenzhen,Tier 1,30000,50000,30000.0,50000.0,month,40000.0,5-10 years,Bachelor,"岗位职责：1. 搭建大模型驱动的客群自动挖掘体系，产出""客群名片""，并闭环迭代。 2. 建设自然语言经营分析能力，支持指标查询、异动归因、多维下钻，自动生成经营周/月报与专题分析，沉淀 AI 分析模板库。 3. 设计数字员工决策策略，明确人机协同边界，确保每次推荐可解释、可追溯。 4. 搭建 A/B 实验与效果归因机制，确保全流程合规。 5. 数据底座协同：建设标签体系、关系图谱等数据基础。 任职要求：1. 本科及以上，金融 / 统计 / 数学 / 计算机相关专业； 2. 3 年以上银行零售数据分析或客群经营经验，熟悉存贷、理财、信用卡经营指标体系；或者5年以上互联网经营策略、数据分析经验 3. 熟练 SQL，掌握 Python / SAS / R 至少一种； 4. 了解大模型应用（Prompt / RAG / Agent），有 AI 落地分析或运营场景经验者优先； 5. 具备业务翻译能力：能把业务问题拆为数据问题，再把 AI 输出还原为业务语言。 加分项：有客群运营平台、标签体系、数字员工项目建设经验；积极拥抱ai，有大模型在分析领域落地demo的经验。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm58FFJU.html,1,1,1,0
+C2_14,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Science,1,,Computer software,Shenzhen,Tier 1,8000,13000,8000.0,13000.0,month,10500.0,NA,Bachelor,岗位职责 1. 数据治理：对业务原始数据进行提取、清洗、校验，识别异常数据，维护标准化数据集，保证数据准确可用。 2. 数据分析：根据业务需求开展多维度统计分析，完成指标计算、相关性分析、效果验证，定位业务变化原因。 3. 报告输出：定期输出数据分析、复盘报告，制作可视化图表，清晰呈现分析结论，提供可落地的优化建议。 4. 指标与监控：搭建和维护核心指标体系，持续监控指标波动，及时发现异常并溯源排查。 5. 工具与脚本开发：编写自动化数据处理脚本，沉淀可复用的数据处理模板，提升日常分析效率。 任职要求 1. 本科及以上学历，统计学、数学、计算机、数据科学、金融等相关专业优先。 2. 熟练使用Python（Pandas、NumPy）进行大批量数据处理，掌握基础数据可视化。 3. 具备良好的数据敏感度，逻辑严谨，细心，能够独立完成数据核查与问题定位。 4. 了解基础统计分析方法，能读懂指标含义，独立完成分析报告。 5. 有数据分析、业务复盘、数据治理相关经验优先；优秀应届生可培养。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm59FFJU.html,0,0,0,0
+C2_15,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,BI Analyst,1,,Dining,Shenzhen,Tier 1,12000,18000,12000.0,18000.0,month,15000.0,1-3 years,Junior college,"岗位要求： 1、负责整理和分析公司业务数据，提供数据支持，为决策提供依据； 2、运用数据分析工具和方法，挖掘数据价值，提出优化建议和改进措施； 3、关注业务数据的变化趋势，及时发现并报告异常情况，提出解决方案； 4、搭建数据看板和BI体系，优化数据存储和查询性能； 任职要求： 1、大专及以上学历，统计学、数学、经济学、金融学、计算机等理工科相关专业； 2、2年以上数据分析经验，有茶饮行业、互联网数据分析经验者优先； 3、熟悉SQL，Python等统计分析语言，具备数据处理和分析能力； 4、具备良好的沟通能力和团队协作能力，与跨部门进行有效的沟通和协作； 5、具备较强的责任心和抗压能力，能够独立完成工作任务；
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm60FFJU.html,0,0,0,0
+C2_16,C,2026-11-02,BOSS Zhipin,数据分析助理,数据分析助理,BI Analyst,1,,E-commerce,Shenzhen,Tier 1,7000,9000,7000.0,9000.0,month,8000.0,1-3 years,Bachelor,"岗位职责： 1、协助完成数据的收集、整理与初步分析，支持业务决策需求； 2、使用数据分析工具对基础数据进行处理，生成标准化报表和可视化图表； 3、配合团队完成数据校验、清洗及归档工作，确保数据完整性与准确性； 4、根据指导完成定期数据更新与简单模型搭建，辅助优化分析流程； 任职要求： 1、本科以上学历，英语可作为工作语言，理工科计算机科学与技术，电子信息科学与技术等专业优先； 2、具备基本的数据敏感度，能够快速理解数据背后的业务含义； 3、熟练掌握Excel等办公软件，了解常用函数及图表制作方法； 4、熟悉SQL或Python等数据分析工具者优先，具备基础数据库操作能力； 5、具备良好的逻辑思维能力和学习能力，能高效执行标准化任务；
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm61FFJU.html,0,0,0,0
+C2_17,C,2026-11-02,BOSS Zhipin,数据运营专员,数据运营专员,Operations Analyst,1,,E-commerce,Xiamen,Tier 2,6000,8000,6000.0,8000.0,month,7000.0,1-3 years,Junior college,1工作行业：公司从事农产品线上订单处理 2晋升机制：系统操作员，数据分析师，事业合伙人 3工作内容：严格按照公司要求操作指定订单与数据处理,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm62FFJU.html,0,0,0,0
+C2_18,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,,E-commerce,Xiamen,Tier 2,10000,15000,10000.0,15000.0,month,12500.0,5-10 years,Bachelor,"岗位职责：1，数据分析以行业、竞品、品牌、品类分析为主 2，对 Ai 工具有兴趣，直接会用AI工具取数与AI分析报告 3，精通 excel，ppt 或 sql 任意一样 4，逻辑清晰，沟通能力强 核心工作是训练 skill，ai 取数，ai 做分析 任职要求： 1、行业背景：有电商 / 鞋服行业经验优先 (1~9分) 2、软性素质：逻辑强、能抗压、肯努力 (1~9分) 3、专业技能：SQL/Excel/PPT 至少一项精通，会 AI 工具优先 (1~9分) 注：我们评估优先级为：软性素质 > 行业背景 > 专业技能
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm63FFJU.html,1,1,0,1
+C2_19,C,2026-11-02,BOSS Zhipin,BI数据分析师,BI数据分析师,Business Analyst,1,,Internet,Xiamen,Tier 2,7000,9000,7000.0,9000.0,month,8000.0,1-3 years,Bachelor,一、核心职责： 1）数据可视化与看板构建： 协助负责设计、开发并维护公司级核心Tableau数据看板，涵盖短剧内容表现（完播率、爆款率）、广告投放ROI（分渠道、分素材）、用户生命周期（拉新、付费、留存）及商业化数据等。 与投放、运营、产品团队紧密协作，将复杂的业务需求转化为清晰、准确、可交互的数据可视化产品，实现数据“自助化”，提升团队决策效率。 2）深度业务分析： 深入分析短剧内容数据，识别爆款规律、用户偏好，为内容采购与制作提供数据建议。 监控和分析各广告平台（巨量、广点通）的投放效能，建立数据监控体系，优化广告预算分配。 周期性输出专业分析报告，包括但不限于：公司经营日/周/月报、业务优化策略报告、运营复盘报告等。 3）数据治理与跨部门协作： 确保核心数据指标的准确性、一致性和及时性，参与数据仓库中相关数据模型的设计与优化。 与数据工程师合作，推动分析需求的落地，并将分析结论固化为自动化看板或数据产品。 向非技术背景的团队成员清晰地传达复杂的分析发现，用数据讲好业务故事。 二、必备条件： 本科及以上学历，数学、统计学、计算机、经济学或相关专业。 1-2年数据分析相关工作经验，有短剧、在线视频、网文、数字内容分销或广告营销行业经验者优先（优秀者可适当放宽）。 精通Tableau，能够独立完成复杂数据看板的设计、开发、优化和部署。 熟练掌握SQL，能够高效进行复杂数据查询、提取和处理。 具备扎实的数据分析能力，能熟练使用Excel，了解统计分析基础知识。 出色的业务理解力、逻辑思维能力和沟通能力，能够主动从数据中发现问题并提出actionable的建议。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm64FFJU.html,0,0,0,0
+C2_21,C,2026-11-02,BOSS Zhipin,商品数据分析师,商品数据分析师,BI Analyst,1,,Internet,Xiamen,Tier 2,7000,12000,7000.0,12000.0,month,9500.0,NA,Bachelor,"岗位职责： 1、监控品类KPI表现，为商品的高效稳定供给提供支持； 2、实时监控品类的销售、库存、市场等情况，及时调整预测； 3、制作各类数据报表，为库存管理决策提供数据支持； 4、对接仓储中心、营运，保障信息通畅，协助解决运营中存在的问题； 5、持续监控异常库存指标，提出改善方案并跟进处理； 6、完成上级领导交办的其他任务。 任职要求： 1、本科及以上学历，具有大型零售企业或电子商务领域供应链支持工作经验者优先； 2、具有较好的数据分析能力、逻辑思维及敏感性； 3、具备一定的客户意识，善于沟通合作； 4、工作细致，责任心强，具有较强的执行力； 5、熟练使用OFFICE等办公软件，精通EXCEL操作。
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm66FFJU.html,0,0,0,0
+C2_22,C,2026-11-02,BOSS Zhipin,数据运营专员,数据运营专员,Operations Analyst,1,,Internet,Xiamen,Tier 2,6000,8000,6000.0,8000.0,month,7000.0,1-3 years,Bachelor,"岗位职责: 1.负责处理电脑线上订单，确保数据的准确性和完整性; 2.处理订单的准确性和及时性; 3.监控订单情况，及时处理; 4.维护订单管理系统及后台的正常运行，定期进行数据的备份和检查; 5.公司会不定时岗位培训增加订单的处理流程。任职要求: 1.熟悉使用电脑及办公软件; 2.工作细致认真，有责任心，能承受订单压力，有较强的保密意识; 3.良好的协调沟通能力,能够高效配合团队完成工作业务; 4.有相关工作经验者优先考虑，能承受一定的工作压力，具有良好的工作团队合作精神。薪资待遇 薪资结构:基础薪资+业绩绩效; 工作时间:早9:30-晚16:00周日单休，节假日正常放假。
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm67FFJU.html,0,0,0,0
+C2_23,C,2026-11-02,BOSS Zhipin,大数据测试工程师,大数据测试工程师,BI Analyst,1,,Computer software,Xiamen,Tier 2,12000,14000,12000.0,14000.0,month,13000.0,5-10 years,Bachelor,"岗位职责： 1.负责数据平台测试工作，包括实时和离线计算、数据服务、数据看板等环节； 2.设计并执行测试案例，确保大数据处理的准确性、及时性和可扩展性； 3.分析测试结果，定位并协助解决系统缺陷，与开发团队紧密合作，推动问题及时修复； 4.跟踪大数据领域的最新技术动态，持续改进测试方法和工具； 5.编写清晰、高质量的测试报告，及时反馈测试进度及结果。 任职要求： 1.计算机科学或相关专业本科及以上学历，具有5年以上软件测试经验，至少2年大数据测试经验； 2.熟悉大数据生态体系，如Hadoop、Kafka、Hive、HBase等，并有实际测试经验； 3.熟练掌握SQL，熟悉NoSQL数据库，能够编写复杂的查询语句进行数据验证言，能够编写测试脚本和工具,注重细节； 4.掌握Python、Java、Scala中至少一种编程语言； 5.具备良好的问题分析和解决能力，对数据敏感，注重细节； 6.良好的沟通能力和团队合作精神，能够在快节奏的环境中有效工作； 7.对大数据测试领域的新技术和工具保持好奇心，愿意不断学习和探索。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm68FFJU.html,0,0,0,0
+C2_24,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,BI Analyst,1,,Wholesale/Retail,Xiamen,Tier 2,10000,15000,10000.0,15000.0,month,12500.0,3-5 years,Bachelor,工作职责 1、数据提取与处理：从数据库、ERP等系统中提取、清洗和整合商品、销售、库存等业务数据，建立规范的数据报表； 2、日常监控与报告：搭建和维护商品数据报表，定期输出业务运营日报、周报、月报，监控核心KPI达成进度； 3、专题分析：针对特定业务问题（如新品表现、促销效果评估、库存预警等）进行数据分析； 4、数据支持：响应业务部门的数据需求，提供快速、准确的数据查询和支持。 任职资格 1、较强的逻辑思维能力和数据敏感度 2、对数据的准确性和可靠性有极高要求 3、具备强烈的学习热情和解决问题的能力,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm69FFJU.html,0,0,0,0
+C2_25,C,2026-11-02,BOSS Zhipin,财务数据分析师,财务数据分析师,Business Analyst,1,,Energy Storage,Xiamen,Tier 2,6000,9000,6000.0,9000.0,month,7500.0,NA,Bachelor,岗位职责 1.熟悉公司各业务系统核心流程与数据过账逻辑，确保内控系统生成合规财务凭证。 2.处理利润核算原始数据，支持部门/地区/平台/链接等多维度精细化分析。 3.管理自动化数据处理逻辑，保障数据输出的及时性与准确性。 4.协同HRBP、销售管理、目标管理团队，提供绩效分析数据支持。 5.参与目标管理、经营分析、存货与资金管控、审计等相关数据工作。 任职要求 1.熟练掌握Excel高级数据处理功能（函数组合、透视表、Power Query、动态数组等），能独立完成复杂数据的清洗、关联、汇总及报表制作。 2.良好的英语阅读能力（CET-4及以上），能理解跨境平台账单及结算条款。 3.逻辑思维清晰，能快速梳理复杂业务数据关系。 4.具备较强的计划性与执行力，能制定数据工作计划并高效闭环推进。 5.加分项（非强制）： - 有跨境电商公司数据分析经验； - 了解SQL或BI工具（Power BI/Tableau）； - 会Python（pandas数据清洗/自动化）者优先； - 有财务系统操作经验或基础财务知识； - 了解跨境电商平台（如Amazon、Shopify）账单结构。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm70FFJU.html,0,0,0,0
+C2_26,C,2026-11-02,BOSS Zhipin,财务分析师,财务分析师,Business Analyst,1,,Computer software,Xiamen,Tier 2,15000,30000,15000.0,30000.0,month,22500.0,3-5 years,Bachelor,岗位职责： 1. 统筹全盘财务核算工作，完善财务内控制度，审核账务、费用，做好税务筹划、风险管控； 2. 负责预算编制、成本管控、报表出具、经营数据分析，定期输出财务分析报告； 3. 深度对接业务部门，核算业务盈利情况，跟踪预算执行，优化费用及账款管理； 4. 对接银行、税务、审计等外部机构，统筹年审、汇算清缴及各类涉税事项； 5. 梳理业务财务流程，从财务角度提出业务优化建议，赋能业务增长； 6. 负责财务团队日常管理、工作分配及人员培养。 任职要求： 1. 财务相关专业大专及以上学历，持有中级会计证书，优先考虑具备CPA资质者； 2. 3年以上财务全盘管理经验，兼具财务BP/经营分析经验者优先； 3. 熟悉一般纳税人全套账务、税务法规，精通预算、成本分析； 4. 熟练运用财务软件及Excel，具备较强的数据敏感度与业务思维； 5. 沟通协调能力强，做事严谨自律，具备团队管理能力；,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm71FFJU.html,0,0,0,0
+C2_27,C,2026-11-02,BOSS Zhipin,外卖运营分析师,外卖运营分析师,Operations Analyst,1,,Dining,Xiamen,Tier 2,6000,8000,6000.0,8000.0,month,7000.0,NA,Bachelor,岗位职责： 1、负责三大外卖平台的日常运营管理，包括菜单搭建与多平台同步更新、平台官方活动报名与自定义活动设置、点金推广等竞价投放操作等； 2、每日监控门店曝光量、转化率、客单价、复购率、用户评价等核心运营数据，快速定位数据下滑原因并汇报； 3、定期输出周度/月度运营报告，总结运营成效与不足，提出优化方向； 4、严格执行上级制定的门店冲单策略与营销方案，全程跟进活动开展，实时监控活动数据，完成活动后效果复盘，为后续方案优化提供数据支持； 5、负责新店外卖账号的申请办理与平台上线全流程对接，收集竞品运营数据，结合门店实际情况与加盟商沟通制定合理上线方案； 6、对接外卖门店装修设计、菜品图片更新，参与好评卡内容设计，结合节日、热点策划配置专属营销活动，提升门店视觉吸引力与用户下单意愿。 7、与加盟商保持紧密沟通，及时解答外卖运营相关疑虑，提供运营指导与支持，以提升门店外卖业绩为核心目标，协同加盟商解决运营难题。 任职要求： 1、大专及以上学历； 2、半年及以上外卖平台运营相关工作经验优先； 3、熟练使用Excel、PPT等工具，具备扎实的数据分析能力，能通过数据发现问题并提出解决方案； 4、具备较强的沟通能力及一定的抗压能力。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm72FFJU.html,0,0,0,0
+C2_28,C,2026-11-02,BOSS Zhipin,电商财务分析师,电商财务分析师,Business Analyst,1,,E-commerce,Xiamen,Tier 2,7000,11000,7000.0,11000.0,month,9000.0,3-5 years,Bachelor,岗位职责： 1、负责淘宝、天猫品牌（家清个护 / 宠物）业务财务 BP 工作，日常经营数据统计与核算。 2、开展毛利、投放 ROI、费用、库存、退货等多维度数据分析，输出运营优化建议。 3、跟进运营调整方案落地、过程跟进及效果复盘，做好预算、大促费用与成本管控。 4、掌握内外账基础逻辑，负责费用审核、单据管控，规范业财流程，把控财税合规风险。 岗位要求： 1、财务、会计相关专业，大专及以上学历。 2、2-4 年天猫淘宝电商财务 BP 经验，家清 / 个护 / 宠物类目优先 3、精通高阶 Excel/数据透视表、电商 ERP （万里牛），会 Power BI 优先，熟悉淘系平台结算与费用规则； 4、具备经营分析能力，懂内外账基础实操与财税常识。 5、数据敏锐、逻辑清晰，严谨细心，沟通执行力强，抗压稳定。 *重点：可依托数据，发现问题，提出相对应的解决方案，联动推动业务部门实现方案优化落地，引导数据回正。,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm73FFJU.html,0,0,0,1
+C2_30,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,Data Analyst,1,,Internet,Suzhou,Other/Unknown,8000,10000,8000.0,10000.0,month,9000.0,1-3 years,Bachelor,岗位本质：聚焦业务数据输出；定位分析业务异常数据（如日控数据、转化率、留存率等），根据数据模板输出分析报告，支撑业务团队发展； 核心要求：数据处理能力，熟练掌握Excel、数据透视表、vlookup等常用函数及函数嵌套。 【任职要求】 1、大专以上，有较强的责任心，自驱力，工作细致，有条理，善于学习，具备较强的学习能力； 2、具有一定的数据分析能力，结合业务实际，定期输出对应的方法论以及结果数据分析 3、良好的表达能力和沟通能力，积极主动的做事风格，高效的执行和协调能力； 4、严谨的工作态度，能够与各部门保持良好沟通，做好内外部协同，跨部门高效联动；,https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm75FFJU.html,0,0,0,0
+C2_32,C,2026-11-02,BOSS Zhipin,商业分析师,商业分析师,Business Analyst,1,,E-commerce,Suzhou,Other/Unknown,8000,13000,8000.0,13000.0,month,10500.0,3-5 years,Bachelor,"岗位职责：使用AI工具和公开信息，快速研究一家企业的业务、产品、市场和近期动态。 2. 分析这家企业为什么值得关注，可能面临哪些问题，以及哪些部门和负责人可能与这些问题相关。 3. 与BD一起准备客户开发材料，包括企业分析、沟通切入点、关键人建议和拜访准备。 4. 参与客户项目，帮助企业从大量潜在机会中判断哪些更值得优先投入。 5. 跟踪分析后的实际结果：客户是否回复、是否完成拜访、是否形成真实合作机会。 6. 把反复出现的分析方法和判断经验，整理成模板、案例和产品建议，帮助我们的AI系统不断进步。 7. 你不是单纯写研究报告，而是要用分析帮助团队和客户做出更好的决定。
+
+任职要求：
+
+国内外优秀高校本科及以上学历，聪明，商业理解能力强，专业不限。 2. 对商业、企业、市场和AI有好奇心。 3. 学习速度快，面对陌生行业能够迅速理解基本逻辑。 4. 有较好的信息搜索、分析和文字表达能力。 5. 能够区分事实、推测和未知信息，不轻易下结论。 6. 愿意与BD、客户和公司负责人沟通。 7. 对结果有责任感，不满足于“完成了一份报告”。 8. 能够熟练使用主流AI工具；不要求会编程。 9. 能够阅读英文商业信息或海外企业资料者优先。 10. 我们不要求你有成熟的咨询或销售经验，更看重你的思考能力、学习速度和实际解决问题的能力。 11. 加分项：咨询、投资、行业研究、企业服务等相关实习经历；参加过商业分析、案例大赛或创业项目；独立研究过某个行业、公司或商业模式；经常使用AI完成研究、学习或项目工作；有较强的英文信息检索和阅读能力。没有以上经历也没关系，只要你能够在案例中证明自己的思考和学习能力。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm77FFJU.html,0,0,0,0
+C2_33,C,2026-11-02,BOSS Zhipin,产业研究分析师,产业研究分析师,Data Analyst,1,,Consulting,Suzhou,Other/Unknown,10000,13000,10000.0,13000.0,month,11500.0,1-3 years,Bachelor,"岗位职责：1 负责执行科技成果转化项目/科技初创企业项目，基于科技成果突破，开展产业分析，对接需求、拆解技术、定向检索、标引分析，输出可视化情报洞察结论，提炼形成情报辅助客户开展知识产权商业化决策； 2 协助执行投融资或产学研合作项目尽职调查，包括但不限于状态、权利来源和归属、权利限制和价值、自由实施风险、稳定性风险等； 3 协助执行客户FTO专利自由实施尽职调查项目，拆解潜在风险点，并针对风险专利提出解决方案，协助保障成果自由实施
+
+任职要求：
+1.专业要求：材料、物理等相关理工科专业背景，具有较强技术理解力和敏感性，可以阅读和快速理解相关技术文档； 2.技能要求：具有较强的数据和信息挖掘、分析和处理能力；具有技术转移转化相关经验优先； 3.适合对象：有志于从事技术成果商业化中的商业数据分析和咨询服务行业，以专业咨询服务助力科学家创新创业；工作踏实认真，责任心强，有团队合作精神，具有较好的口头表达能力和沟通能力；自我驱动能力；学习能力强；",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm78FFJU.html,0,0,0,0
+C2_35,C,2026-11-02,BOSS Zhipin,数据分析师,数据分析师,BI Analyst,1,,Computers/Communications/Other Electronic Equipment,Suzhou,Other/Unknown,8000,10000,8000.0,10000.0,month,9000.0,1-3 years,Bachelor,"岗位职责：1、负责业务数据的采集、清洗与整理，构建并维护数据分析体系； 2、深入挖掘数据价值，通过多维度分析为产品优化及运营策略提供数据支持； 3、搭建可视化数据报表，监控核心指标波动，及时发现异常并提出改进建议；
+
+任职要求：
+1、具备扎实的数据处理能力，熟练掌握SQL及至少一种主流数据分析工具（如Python/R）； 2、拥有良好的逻辑思维与商业敏感度，能够从数据中提炼关键洞察并转化为可执行方案； 3、具备良好的沟通协作能力，能够跨部门推动数据项目落地，适应快节奏的工作环境。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm80FFJU.html,0,0,0,0
+C2_37,C,2026-11-02,BOSS Zhipin,商品数据分析师,商品数据分析师,Data Analyst,1,,Textiles & Apparel,Suzhou,Other/Unknown,6000,10000,6000.0,10000.0,month,8000.0,1-3 years,Bachelor,"岗位职责：品牌季度/月度商品企划、波段上新规划； 2. 指定新品首铺配货策略、尺码配比、门店分层铺货规则； 3. 日常补货、爆款主动补货需求输出； 4. 滞销款识别、跨店调拨需求输出、清仓节奏规划； 5. 品牌SKU生命周期管控、动销复盘优化； 6. 领导安排的其他工作。
+
+基本要求：1.本科及以上学历，统计学、经济学、数据分析、计算机等相关专业。 2.逻辑思维强，工作计划能力强； 3.具备较强的数据分析能力和沟通能力； 4.踏实稳重，责任心强，抗压能力强； 5.耐心细致，具备良好的团队协作精神； 6.精通Excel数据处理和Python语言.
+
+",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm82FFJU.html,0,0,0,0
+C2_39,C,2026-11-02,BOSS Zhipin,经营分析师,经营分析师,Business Analyst,1,,Textiles & Apparel,Suzhou,Other/Unknown,9000,12000,9000.0,12000.0,month,10500.0,1-3 years,Bachelor,"岗位职责：【岗位职责】 1、毛利润分析 协助各业务线毛利润统计分析、数据测算及分析模型优化工作；参与经营预测与推演模型的数据收集与测算工作；协助客户价值评估、订单收益取舍等业务议题的数据支持。 2、工厂经营分析 出具海外服装厂经营分析报告，与工厂负责人保持良好互动，理解工厂业务痛点，将财务数据转化为业务可执行的洞察，指导下推动业财协同，并持续优化工厂经营分析报表体系。 3、费用分析 从费用结构、费用性态等角度进行分析，梳理不同业务场景下费用统计口径的切换逻辑，识别低效支出。
+
+任职要求：
+【任职要求】 •统招本科（硕士优先），1年以上财务分析经验，制造业/纺织服装行业经营分析经验者优先。 •英语CET-4及以上（CET-6优先），能熟练阅读英文报表与业务文档。 •精通Excel高阶应用，具备处理大体量数据经验者优先。擅长使用AI等智能工具。 •逻辑极佳，具备强数据敏感度与业务好奇心，能主动对数据异常进行穿透归因，快速学习业务逻辑。 •有强自驱力与抗压能力，乐于接受挑战。",https://www.zhipin.com/job_detail/0e2105558ce8770b0nx70tm84FFJU.html,0,0,0,0
